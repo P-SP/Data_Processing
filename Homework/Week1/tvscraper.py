@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Name:
-# Student number:
+# Name: Puja Chandrikasingh
+# Student number: 11059842
 """
 This script scrapes IMDB and outputs a CSV file with highest rated tv series.
 """
@@ -10,6 +10,7 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
+import urllib.request
 
 TARGET_URL = "http://www.imdb.com/search/title?num_votes=5000,&sort=user_rating,desc&start=1&title_type=tv_series"
 BACKUP_HTML = 'tvseries.html'
@@ -27,10 +28,33 @@ def extract_tvseries(dom):
     - Runtime (only a number!)
     """
 
-    # ADD YOUR CODE HERE TO EXTRACT THE ABOVE INFORMATION ABOUT THE
-    # HIGHEST RATED TV-SERIES
-    # NOTE: FOR THIS EXERCISE YOU ARE ALLOWED (BUT NOT REQUIRED) TO IGNORE
-    # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
+    # 50 highest rated TV series
+    
+    sauce = urllib.request.urlopen(TARGET_URL).read()
+    soup = BeautifulSoup(sauce, 'lxml')
+    
+    table = ['Title', 9, 'Genre(s)', 'Actor(s)', 30]                    # HOE TABEL MAKEN?
+    
+    for div in soup.find_all('div', class_='lister-item-content'):
+        # title
+        #print(div.h3.a.text)
+        
+        # rating
+        #rating = div.find('div', class_='inline-block ratings-imdb-rating')
+        #print(rating.text)
+        
+        # genre(s)
+        #genre = div.find('span', class_='genre')
+        #print(genre.text)
+        
+        # actor(s)
+        actor_text = div.find('p', class_='sort-num_votes-visible').find_previous_sibling('p')
+        for actor in actor_text.find_all('a'):
+            print(actor.text)                                           # HOE DIT SCHEIDEN MET ,?
+        
+        # runtime
+        #runtime = div.find('span', class_ = 'runtime')
+        #print(runtime.text)                                            # HOE ZONDER MINUTEN??
 
     return []   # REPLACE THIS LINE AS WELL AS APPROPRIATE
 
