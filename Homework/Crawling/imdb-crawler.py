@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Name:
-# Student number:
+# Name: Puja Chandrikasingh
+# Student number: 11059842
 """
 This script crawls the IMDB top 250 movies.
 """
@@ -164,8 +164,13 @@ def scrape_top_250(soup):
         part, the domain part and the path part).
     """
     movie_urls = []
-    # YOUR SCRAPING CODE GOES HERE, ALL YOU ARE LOOKING FOR ARE THE ABSOLUTE
-    # URLS TO EACH MOVIE'S IMDB PAGE, ADD THOSE TO THE LIST movie_urls.
+    
+    # all URLs are inside the td class titleColumn
+    urls = soup.find_all('td', class_='titleColumn')
+    
+    # make the URLs absolute and save them
+    for url in urls:
+        movie_urls.append("https://imdb.com"+url.find('a').get('href'))
 
     return movie_urls
 
@@ -183,14 +188,45 @@ def scrape_movie_page(dom):
         several), actor(s) (semicolon separated if several), rating, number
         of ratings.
     """
-    # YOUR SCRAPING CODE GOES HERE:
-    # Return everything of interest for this movie (all strings as specified
-    # in the docstring of this function).
-    return 
+            
+    title = dom.find('div', class_='title_wrapper').find('h1').text.split('(')[0].rstrip()
+    year = dom.find('div', class_='title_wrapper').find('span').find('a').text
+    duration = dom.find('div', class_='title_wrapper').find('time').text.strip()
+    
+    genres = ""
+    list_genre = dom.find('div', class_='title_wrapper').find('div', \
+                         class_='subtext').find_all('span', class_='itemprop')
+    for genre in list_genre:
+        genres = genres + "; "+ genre.text
+    
+    directors = ""
+    list_director = dom.find_all('span', {"itemprop": "director"})
+    for director in list_director:
+        directors = directors + "; " + director.find('span', class_='itemprop').text
+    
+    writers = ""
+    list_writer = dom.find('div', class_='plot_summary').find_all('span', \
+                          {"itemprop": "creator"})
+    for writer in list_writer:
+        writers = writers + "; " + writer.find('span', class_='itemprop').text
+    
+    # there are already maximal three actors shown
+    actors = ""
+    list_actor = dom.find_all('span', {"itemprop": "actors"})
+    for actor in list_actor:
+        actors = actors + "; " + actor.find('span', class_='itemprop').text
+    
+    rating = dom.find('span', {"itemprop": "ratingValue"}).text
+    nr_rating = dom.find('div', class_='imdbRating').find('a').text
+    
+    # return everything but the year, 
+    # because in the csv file there is no column for this
+    return [title, duration, genres[2:], directors[2:], writers[2:], \
+            actors[2:], rating, nr_rating]
 
 
 if __name__ == '__main__':
     main()  # call into the progam
 
     # If you want to test the functions you wrote, you can do that here:
-    # ...
+    # ..
