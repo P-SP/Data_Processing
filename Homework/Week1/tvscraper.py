@@ -27,37 +27,48 @@ def extract_tvseries(dom):
     - Actors/actresses (comma separated if more than one)
     - Runtime (only a number!)
     """
-
-    # 50 highest rated TV series
     
     sauce = urllib.request.urlopen(TARGET_URL).read()
     soup = BeautifulSoup(sauce, 'lxml')
     
-    table = ['Title', 9, 'Genre(s)', 'Actor(s)', 30]                    # HOE TABEL MAKEN?
+    # for saving the TV series data
+    table = []                                                         
     
+    
+    # all the TV series are listed in div-classes: lister-item-content
     for div in soup.find_all('div', class_='lister-item-content'):
-        # title
-        #print(div.h3.a.text)
+        # get title
+        title = div.h3.a.text
         
-        # rating
-        #rating = div.find('div', class_='inline-block ratings-imdb-rating')
-        #print(rating.text)
+        # get rating
+        rating = div.find('div', class_='inline-block ratings-imdb-rating') \
+                 .text.replace("\n", "")
         
-        # genre(s)
-        #genre = div.find('span', class_='genre')
-        #print(genre.text)
+        # get genre(s)
+        genre = div.find('span', class_='genre').text.replace("\n", "").rstrip()
         
-        # actor(s)
-        actor_text = div.find('p', class_='sort-num_votes-visible').find_previous_sibling('p')
+        # get actor(s)
+        actors = ""
+        actor_text = div.find('p', class_='sort-num_votes-visible') \
+                     .find_previous_sibling('p')
         for actor in actor_text.find_all('a'):
-            print(actor.text)                                           # HOE DIT SCHEIDEN MET ,?
+            actors = actors + ", " +  actor.text                                           
+        actors = actors[2:]
         
-        # runtime
-        #runtime = div.find('span', class_ = 'runtime')
-        #print(runtime.text)                                            # HOE ZONDER MINUTEN??
-
-    return []   # REPLACE THIS LINE AS WELL AS APPROPRIATE
-
+        # get runtime (only the numbers)
+        runtime = div.find('span', class_ = 'runtime').text.split(" ")[0]
+        
+        # combine everything and check if something is missing
+        row = [title, rating, genre, actors, runtime]
+        for element in row:
+            if not element:
+                element = "Not available"
+                
+        # save the new TV serie data
+        table.append(row)
+    
+    return table
+    
 
 def save_csv(outfile, tvseries):
     """
@@ -65,9 +76,10 @@ def save_csv(outfile, tvseries):
     """
     writer = csv.writer(outfile)
     writer.writerow(['Title', 'Rating', 'Genre', 'Actors', 'Runtime'])
-
-    # ADD SOME CODE OF YOURSELF HERE TO WRITE THE TV-SERIES TO DISK
-
+    
+    # write the tv-series to the csv per row
+    for row in tvseries:
+        writer.writerow(row)
 
 def simple_get(url):
     """
