@@ -18,62 +18,73 @@
 		<p>Take a look at <a href="data1.csv." target="_blank">the data</a>. It's also shown in the text area above.</p>
         
 
-        <canvas id="canvas" width="750" height="100"
-			style="position: absolute; z-index: 0;"></canvas>
+        <canvas id="canvas" width="750" height="100" style="position: absolute; z-index: 0;"></canvas>
 			
-		<canvas id="canvas_cross" width="750" height="100"
-			style="position: absolute; z-index: 1;"></canvas>
+		<canvas id="canvas_cross" width="750" height="100" style="position: absolute; z-index: 1;"></canvas>
 
         <script>	
 			// constants
 			var BORDER = 50;
 			var DELTA = 50;
 			var LINE_SIZE = 5;
+			
+			// same value needed in more functions
 			var maxTemp;
-		
+			
+			// function to draw the cross-hair
 			function drawCross(canvas, x, y) {
 				var cross = canvas.getContext('2d');
+				
+				// converse y value to -1*temperature
 				var y_really = -maxTemp + y;
 				
+				// make sure that the horizontal line does not go beyond the graph's borders
 				if(y_really < -maxTemp){
 					y_really = -maxTemp;
 				}
 					
+				// if the x value is within the graph's border
 				if(x >= 0){
 					cross.beginPath();
 					
+					// clear whole canvas
 					cross.setTransform(1, 0, 0, 1, 0, 0);
 					cross.clearRect(0, 0, canvas.width, canvas.height);
 					
-					// Move origin of the canvas to the origin of the dates and temperature 0
+					// move origin of the canvas to the first date and temperature 0
 					cross.translate(BORDER, maxTemp + BORDER);
 					
+					// draw the cross-hair
 					cross.moveTo(x, y_really);
 					cross.lineTo(x,0);
 					cross.moveTo(x, y_really);
 					cross.lineTo(0, y_really);
 					cross.stroke();
 				}
-			  }
-			  
-			  function getMousePosistion(canvas, evt) {
+			}
+			
+			// function to obtain the position of the mouse relative to the canvas
+			function getMousePosistion(canvas, evt) {
 				var rect = canvas.getBoundingClientRect();
 				return {
-				  x: evt.clientX - rect.left - BORDER,
-				  y: evt.clientY - rect.top - BORDER
+					x: evt.clientX - rect.left - BORDER,
+					y: evt.clientY - rect.top - BORDER
 				};
-			  }
-					
-            function myfunction(){
+			}
+			
+			// function to draw the graph when the data is loaded
+            function graph(){
 				var dates = [];
 				var temps = [];
 				var startline = 0;
 	
-                var lines = document.getElementById("rawdata").innerHTML.split("\n");
+                // data is loaded into rawdata
+				var lines = document.getElementById("rawdata").innerHTML.split("\n");
+				var lines_length = lines.length;
 				
-                // splits de data in twee array's: 1 voor de datum en 1 voor de temperatuur
-				// length - 1 want extra plek in lines...
-				for(var line = 0; line < lines.length; line++){
+                
+				// determine at which line the first date and temperature can be found
+				for(var line = 0; line < lines_length; line++){
 					if(lines[line][0] == "#" || lines[line][1] == "#"){
 						startline++;
 					}
@@ -82,22 +93,18 @@
 					}
 				}
 				
-				for(var line = startline; line < lines.length - 1; line++){					
+				// split the data into two array's: dates and temps (for the temperature) 
+				// note that the last line is empty (so loop until length - 1)
+				for(var line = startline; line < lines_length - 1; line++){					
                     temps.push(lines[line].split(",")[2]);
 					
 					dateText = lines[line].split(",")[1].trim();										
-					// pak eerst jaar, dan maand (-1 want v 0-11), dan dag
 					date = new Date(dateText.substring(0, 4), dateText.substring(4,6) - 1, dateText.substring(6,8));					
 					dates.push(date);                
                 }
-				
-				// Controle kan er UIT
-				console.log("Dates" + dates);
-				console.log("temps" + temps);
-				console.log("min :" + Math.min(...temps));
-				console.log("max :" + Math.max(...temps));
-				 
-				
+
+				// often needed variable
+				var dates_length = dates.length;
 				
 				// get canvas ready to draw on
 				var canvas = document.getElementById('canvas');
@@ -106,14 +113,14 @@
 				ctx.lineJoin = 'round';
 				
 				// resize height
-				maxTemp = Math.ceil(Math.max(...temps)/DELTA)*DELTA;
-				var minTemp = Math.round(Math.min(...temps)/DELTA)*DELTA;
+				maxTemp = Math.ceil(Math.max(...temps) / DELTA) * DELTA;
+				var minTemp = Math.round(Math.min(...temps) / DELTA) * DELTA;
 				canvas.height = Math.abs(maxTemp) + Math.abs(minTemp) + BORDER;
 				
 				// make transformation function for the dates									
-				var transformation = createTransform([dates[0], dates[dates.length -1 ]], [0, canvas.width-BORDER]);
+				var transformation = createTransform([dates[0], dates[dates_length - 1]], [0, canvas.width - BORDER]);
 				
-				// Move origin of the canvas to the origin of the dates and temperature 0
+				// move origin of the canvas to the first date and temperature 0
 				ctx.translate(BORDER, maxTemp + BORDER);
 					
 				// draw x axis
@@ -121,10 +128,10 @@
 				var firstDate = transformation(dates[0]);
 				ctx.strokeStyle = "black";
 				ctx.moveTo(firstDate, 0);
-				ctx.lineTo(transformation(dates[dates.length -1]), 0);
+				ctx.lineTo(transformation(dates[dates_length - 1]), 0);
 				ctx.fillStyle = "#7E57C2";
 				ctx.font = '15px arial';
-				ctx.fillText("Time", transformation(dates[dates.length - 50]), LINE_SIZE * 6);
+				ctx.fillText("Time", transformation(dates[dates_length - BORDER]), LINE_SIZE * 6);
 				
 				// draw y axis
 				ctx.moveTo(firstDate, -maxTemp);
@@ -139,17 +146,19 @@
 				ctx.fillText("Average temperature 1997, De Bilt (NL)", canvas.width / 4, -maxTemp-BORDER / 2);
 				ctx.font = '10px arial';
 				ctx.fillText("Source: KNMI", canvas.width / 4, -maxTemp-BORDER / 4);
+				
+				// put text color and size back to 'normal'
 				ctx.fillStyle = "black";
 				ctx.font = '12px arial';
 				
 				// draw lines and text in y axis
-				for (var i = -1 * maxTemp + DELTA; i < -1 * minTemp; i = i + DELTA) {
+				for(var i = -maxTemp + DELTA; i < -minTemp; i = i + DELTA) {
 					ctx.moveTo(firstDate - LINE_SIZE, i);
 					ctx.lineTo(firstDate + LINE_SIZE,i);
-					ctx.fillText(-1 * i / 10, firstDate - BORDER / 2, i + LINE_SIZE);
+					ctx.fillText(-i / 10, firstDate - BORDER / 2, i + LINE_SIZE);
 				}
 				
-				// change path for color change
+				// new path for color change
 				ctx.stroke();
 				ctx.beginPath();
 				ctx.strokeStyle = "#E91E63"
@@ -159,14 +168,14 @@
 				ctx.fillText(dates[0].toDateString().split(" ")[1], firstDate , LINE_SIZE * 3);
 				
 				// draw the other points
-				for(var date = 1; date < dates.length; date++){
+				for(var date = 1; date < dates_length; date++){
 					ctx.lineTo(transformation(dates[date]), -temps[date]);
 					
 					// draw lines and text in x axis
-					if ( dates[date].getDate() == 1){
+					if(dates[date].getDate() == 1){
 						var x = transformation(dates[date]);
 						
-						// change path for color change
+						// new path for color change
 						ctx.stroke();
 						ctx.beginPath();
 						ctx.strokeStyle = "black";
@@ -175,7 +184,7 @@
 						ctx.lineTo(x,LINE_SIZE);
 						ctx.fillText(dates[date].toDateString().split(" ")[1], x, LINE_SIZE * 3);
 						
-						// change path for color change
+						// new path for color change
 						ctx.stroke();
 						ctx.beginPath();
 						ctx.strokeStyle = "#E91E63"
@@ -184,12 +193,10 @@
 					
 				}
 				
-				// end draw graph part
+				// graph has been drawn
 				ctx.stroke();
 				
-				//////
 				// new canvas element for cross-hair
-				// get canvas ready to draw on
 				var canvas_cross = document.getElementById('canvas_cross');
 				canvas_cross.width = canvas.width;
 				canvas_cross.height = canvas.height;
@@ -198,14 +205,14 @@
 				cross.setLineDash([20, 5]);
 				cross.lineJoin = 'round';		
 				
-				// mouse listener
+				// add a mouse listener to canvas_cross
 				canvas_cross.addEventListener('mousemove', function(evt) {
 					var mouse = getMousePosistion(canvas_cross, evt);
 					drawCross(canvas_cross, mouse.x, mouse.y);
 				}, false);				
             }  
 			
-			// functie gekregen
+			// (given) function to transform dates to x values
 			function createTransform(domain, range){
 				// domain is a two-element array of the data bounds [domain_min, domain_max]
 				// range is a two-element array of the screen bounds [range_min, range_max]
@@ -230,8 +237,8 @@
 			}
 			
 			
+			// function to load the data first and than call the draw function
 			function csv(callback) {
-				// first load data, then call callback to draw graph
 				var xhttp = new XMLHttpRequest();
 				xhttp.onreadystatechange = function() {
 					if (this.readyState == 4 && this.status == 200) {
@@ -241,13 +248,12 @@
 				xhttp.open("GET", "data1.csv", true);
 				xhttp.send();
 				
-				// Use timeout because otherwise data is not loaded yet
+				// use timeout because otherwise data is not loaded yet
 				setTimeout(function(){ callback(); }, 300);
 			}
 			
-			// roep functie aan die called tekenfucntie zodra klaar
-			csv(myfunction);
-			
+			// call the load function
+			csv(graph);
         </script>
 
     </body>
