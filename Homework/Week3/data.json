@@ -1,0 +1,50 @@
+[
+    {
+        "Date": "Jan",
+        "Temp": "-12"
+    },
+    {
+        "Date": "Feb",
+        "Temp": "62"
+    },
+    {
+        "Date": "Mar",
+        "Temp": "80"
+    },
+    {
+        "Date": "Apr",
+        "Temp": "78"
+    },
+    {
+        "Date": "May",
+        "Temp": "128"
+    },
+    {
+        "Date": "Jun",
+        "Temp": "160"
+    },
+    {
+        "Date": "Jul",
+        "Temp": "174"
+    },
+    {
+        "Date": "Aug",
+        "Temp": "205"
+    },
+    {
+        "Date": "Sep",
+        "Temp": "143"
+    },
+    {
+        "Date": "Oct",
+        "Temp": "97"
+    },
+    {
+        "Date": "Nov",
+        "Temp": "67"
+    },
+    {
+        "Date": "Dec",
+        "Temp": "50"
+    }
+]

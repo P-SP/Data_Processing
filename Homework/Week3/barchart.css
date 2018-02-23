@@ -1,0 +1,38 @@
+/* CSS file for bar chart */
+
+p {
+	font: 10px sans-serif;
+}
+
+.bar.pos {
+	fill: #BA68C8;
+}
+
+.bar.neg {
+	fill: #4DD0E1;
+}
+		
+.d3-tip {
+	font: 10px sans-serif;
+	font-style: italic;
+	padding: 1px;
+	color: black;
+}
+
+.axis text {
+	font: 10px sans-serif;
+	letter-spacing: 1.2px;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+		
+.title {
+	font: 20px sans-serif;
+	font-weight: bold;
+	letter-spacing: 1.1px;
+}
