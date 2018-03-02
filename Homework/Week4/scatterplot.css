@@ -1,0 +1,42 @@
+/* CSS file for scatter plot 
+** Puja Chandrikasingh
+** Data Processing - Week 4
+*/
+
+body {
+  font: 10px sans-serif;
+  text-align:center;
+  padding: 15px;
+}
+
+p {
+	padding-top: 15px;
+}
+.d3-tip {
+	font: 10px sans-serif;
+	padding: 1px;
+	background: white;
+	color: black;
+    border-radius: 8px;	
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.title {
+	font: 20px sans-serif;
+	font-weight: bold;
+	letter-spacing: 1.1px;
+}
+.subtitle {
+	font: 18px sans-serif;
+	letter-spacing: 1.1px;
+}

@@ -1,0 +1,4388 @@
+[
+    {
+        "Date": "20160101",
+        "Average temperature": "41",
+        "Minimum temperature": "-2",
+        "Maximum temperature": "75"
+    },
+    {
+        "Date": "20160102",
+        "Average temperature": "54",
+        "Minimum temperature": "46",
+        "Maximum temperature": "63"
+    },
+    {
+        "Date": "20160103",
+        "Average temperature": "69",
+        "Minimum temperature": "52",
+        "Maximum temperature": "82"
+    },
+    {
+        "Date": "20160104",
+        "Average temperature": "57",
+        "Minimum temperature": "38",
+        "Maximum temperature": "70"
+    },
+    {
+        "Date": "20160105",
+        "Average temperature": "68",
+        "Minimum temperature": "47",
+        "Maximum temperature": "77"
+    },
+    {
+        "Date": "20160106",
+        "Average temperature": "26",
+        "Minimum temperature": "16",
+        "Maximum temperature": "47"
+    },
+    {
+        "Date": "20160107",
+        "Average temperature": "61",
+        "Minimum temperature": "35",
+        "Maximum temperature": "79"
+    },
+    {
+        "Date": "20160108",
+        "Average temperature": "54",
+        "Minimum temperature": "14",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20160109",
+        "Average temperature": "56",
+        "Minimum temperature": "10",
+        "Maximum temperature": "79"
+    },
+    {
+        "Date": "20160110",
+        "Average temperature": "69",
+        "Minimum temperature": "50",
+        "Maximum temperature": "90"
+    },
+    {
+        "Date": "20160111",
+        "Average temperature": "48",
+        "Minimum temperature": "21",
+        "Maximum temperature": "67"
+    },
+    {
+        "Date": "20160112",
+        "Average temperature": "58",
+        "Minimum temperature": "47",
+        "Maximum temperature": "72"
+    },
+    {
+        "Date": "20160113",
+        "Average temperature": "50",
+        "Minimum temperature": "24",
+        "Maximum temperature": "70"
+    },
+    {
+        "Date": "20160114",
+        "Average temperature": "35",
+        "Minimum temperature": "16",
+        "Maximum temperature": "53"
+    },
+    {
+        "Date": "20160115",
+        "Average temperature": "24",
+        "Minimum temperature": "-12",
+        "Maximum temperature": "40"
+    },
+    {
+        "Date": "20160116",
+        "Average temperature": "27",
+        "Minimum temperature": "-16",
+        "Maximum temperature": "56"
+    },
+    {
+        "Date": "20160117",
+        "Average temperature": "-10",
+        "Minimum temperature": "-56",
+        "Maximum temperature": "30"
+    },
+    {
+        "Date": "20160118",
+        "Average temperature": "-33",
+        "Minimum temperature": "-67",
+        "Maximum temperature": "0"
+    },
+    {
+        "Date": "20160119",
+        "Average temperature": "-25",
+        "Minimum temperature": "-80",
+        "Maximum temperature": "7"
+    },
+    {
+        "Date": "20160120",
+        "Average temperature": "12",
+        "Minimum temperature": "-37",
+        "Maximum temperature": "53"
+    },
+    {
+        "Date": "20160121",
+        "Average temperature": "-12",
+        "Minimum temperature": "-43",
+        "Maximum temperature": "15"
+    },
+    {
+        "Date": "20160122",
+        "Average temperature": "9",
+        "Minimum temperature": "-22",
+        "Maximum temperature": "57"
+    },
+    {
+        "Date": "20160123",
+        "Average temperature": "66",
+        "Minimum temperature": "28",
+        "Maximum temperature": "90"
+    },
+    {
+        "Date": "20160124",
+        "Average temperature": "77",
+        "Minimum temperature": "50",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20160125",
+        "Average temperature": "107",
+        "Minimum temperature": "74",
+        "Maximum temperature": "146"
+    },
+    {
+        "Date": "20160126",
+        "Average temperature": "92",
+        "Minimum temperature": "66",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20160127",
+        "Average temperature": "109",
+        "Minimum temperature": "86",
+        "Maximum temperature": "124"
+    },
+    {
+        "Date": "20160128",
+        "Average temperature": "67",
+        "Minimum temperature": "49",
+        "Maximum temperature": "90"
+    },
+    {
+        "Date": "20160129",
+        "Average temperature": "85",
+        "Minimum temperature": "53",
+        "Maximum temperature": "100"
+    },
+    {
+        "Date": "20160130",
+        "Average temperature": "74",
+        "Minimum temperature": "51",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20160131",
+        "Average temperature": "68",
+        "Minimum temperature": "36",
+        "Maximum temperature": "108"
+    },
+    {
+        "Date": "20160201",
+        "Average temperature": "115",
+        "Minimum temperature": "106",
+        "Maximum temperature": "119"
+    },
+    {
+        "Date": "20160202",
+        "Average temperature": "89",
+        "Minimum temperature": "65",
+        "Maximum temperature": "114"
+    },
+    {
+        "Date": "20160203",
+        "Average temperature": "50",
+        "Minimum temperature": "31",
+        "Maximum temperature": "70"
+    },
+    {
+        "Date": "20160204",
+        "Average temperature": "51",
+        "Minimum temperature": "29",
+        "Maximum temperature": "77"
+    },
+    {
+        "Date": "20160205",
+        "Average temperature": "87",
+        "Minimum temperature": "50",
+        "Maximum temperature": "109"
+    },
+    {
+        "Date": "20160206",
+        "Average temperature": "94",
+        "Minimum temperature": "83",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20160207",
+        "Average temperature": "85",
+        "Minimum temperature": "66",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20160208",
+        "Average temperature": "85",
+        "Minimum temperature": "70",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20160209",
+        "Average temperature": "53",
+        "Minimum temperature": "33",
+        "Maximum temperature": "82"
+    },
+    {
+        "Date": "20160210",
+        "Average temperature": "48",
+        "Minimum temperature": "18",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20160211",
+        "Average temperature": "38",
+        "Minimum temperature": "-16",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20160212",
+        "Average temperature": "27",
+        "Minimum temperature": "-17",
+        "Maximum temperature": "66"
+    },
+    {
+        "Date": "20160213",
+        "Average temperature": "18",
+        "Minimum temperature": "-20",
+        "Maximum temperature": "44"
+    },
+    {
+        "Date": "20160214",
+        "Average temperature": "14",
+        "Minimum temperature": "5",
+        "Maximum temperature": "26"
+    },
+    {
+        "Date": "20160215",
+        "Average temperature": "23",
+        "Minimum temperature": "-31",
+        "Maximum temperature": "56"
+    },
+    {
+        "Date": "20160216",
+        "Average temperature": "-3",
+        "Minimum temperature": "-50",
+        "Maximum temperature": "61"
+    },
+    {
+        "Date": "20160217",
+        "Average temperature": "-13",
+        "Minimum temperature": "-52",
+        "Maximum temperature": "35"
+    },
+    {
+        "Date": "20160218",
+        "Average temperature": "13",
+        "Minimum temperature": "-23",
+        "Maximum temperature": "31"
+    },
+    {
+        "Date": "20160219",
+        "Average temperature": "39",
+        "Minimum temperature": "12",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20160220",
+        "Average temperature": "82",
+        "Minimum temperature": "50",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20160221",
+        "Average temperature": "104",
+        "Minimum temperature": "86",
+        "Maximum temperature": "116"
+    },
+    {
+        "Date": "20160222",
+        "Average temperature": "68",
+        "Minimum temperature": "44",
+        "Maximum temperature": "113"
+    },
+    {
+        "Date": "20160223",
+        "Average temperature": "43",
+        "Minimum temperature": "8",
+        "Maximum temperature": "79"
+    },
+    {
+        "Date": "20160224",
+        "Average temperature": "23",
+        "Minimum temperature": "-14",
+        "Maximum temperature": "65"
+    },
+    {
+        "Date": "20160225",
+        "Average temperature": "18",
+        "Minimum temperature": "-10",
+        "Maximum temperature": "54"
+    },
+    {
+        "Date": "20160226",
+        "Average temperature": "21",
+        "Minimum temperature": "-7",
+        "Maximum temperature": "55"
+    },
+    {
+        "Date": "20160227",
+        "Average temperature": "22",
+        "Minimum temperature": "-16",
+        "Maximum temperature": "63"
+    },
+    {
+        "Date": "20160228",
+        "Average temperature": "22",
+        "Minimum temperature": "-17",
+        "Maximum temperature": "66"
+    },
+    {
+        "Date": "20160229",
+        "Average temperature": "13",
+        "Minimum temperature": "-43",
+        "Maximum temperature": "67"
+    },
+    {
+        "Date": "20160301",
+        "Average temperature": "20",
+        "Minimum temperature": "-54",
+        "Maximum temperature": "86"
+    },
+    {
+        "Date": "20160302",
+        "Average temperature": "53",
+        "Minimum temperature": "27",
+        "Maximum temperature": "90"
+    },
+    {
+        "Date": "20160303",
+        "Average temperature": "39",
+        "Minimum temperature": "-4",
+        "Maximum temperature": "84"
+    },
+    {
+        "Date": "20160304",
+        "Average temperature": "10",
+        "Minimum temperature": "-25",
+        "Maximum temperature": "32"
+    },
+    {
+        "Date": "20160305",
+        "Average temperature": "5",
+        "Minimum temperature": "-45",
+        "Maximum temperature": "64"
+    },
+    {
+        "Date": "20160306",
+        "Average temperature": "30",
+        "Minimum temperature": "7",
+        "Maximum temperature": "73"
+    },
+    {
+        "Date": "20160307",
+        "Average temperature": "25",
+        "Minimum temperature": "-8",
+        "Maximum temperature": "78"
+    },
+    {
+        "Date": "20160308",
+        "Average temperature": "36",
+        "Minimum temperature": "-22",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20160309",
+        "Average temperature": "44",
+        "Minimum temperature": "14",
+        "Maximum temperature": "81"
+    },
+    {
+        "Date": "20160310",
+        "Average temperature": "41",
+        "Minimum temperature": "-12",
+        "Maximum temperature": "92"
+    },
+    {
+        "Date": "20160311",
+        "Average temperature": "32",
+        "Minimum temperature": "-15",
+        "Maximum temperature": "85"
+    },
+    {
+        "Date": "20160312",
+        "Average temperature": "31",
+        "Minimum temperature": "-27",
+        "Maximum temperature": "101"
+    },
+    {
+        "Date": "20160313",
+        "Average temperature": "39",
+        "Minimum temperature": "-16",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20160314",
+        "Average temperature": "41",
+        "Minimum temperature": "-20",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20160315",
+        "Average temperature": "46",
+        "Minimum temperature": "-6",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20160316",
+        "Average temperature": "44",
+        "Minimum temperature": "-2",
+        "Maximum temperature": "90"
+    },
+    {
+        "Date": "20160317",
+        "Average temperature": "57",
+        "Minimum temperature": "0",
+        "Maximum temperature": "120"
+    },
+    {
+        "Date": "20160318",
+        "Average temperature": "52",
+        "Minimum temperature": "24",
+        "Maximum temperature": "68"
+    },
+    {
+        "Date": "20160319",
+        "Average temperature": "62",
+        "Minimum temperature": "51",
+        "Maximum temperature": "75"
+    },
+    {
+        "Date": "20160320",
+        "Average temperature": "68",
+        "Minimum temperature": "42",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20160321",
+        "Average temperature": "72",
+        "Minimum temperature": "58",
+        "Maximum temperature": "93"
+    },
+    {
+        "Date": "20160322",
+        "Average temperature": "76",
+        "Minimum temperature": "46",
+        "Maximum temperature": "101"
+    },
+    {
+        "Date": "20160323",
+        "Average temperature": "76",
+        "Minimum temperature": "62",
+        "Maximum temperature": "101"
+    },
+    {
+        "Date": "20160324",
+        "Average temperature": "79",
+        "Minimum temperature": "66",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20160325",
+        "Average temperature": "65",
+        "Minimum temperature": "0",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20160326",
+        "Average temperature": "95",
+        "Minimum temperature": "6",
+        "Maximum temperature": "149"
+    },
+    {
+        "Date": "20160327",
+        "Average temperature": "91",
+        "Minimum temperature": "55",
+        "Maximum temperature": "133"
+    },
+    {
+        "Date": "20160328",
+        "Average temperature": "97",
+        "Minimum temperature": "75",
+        "Maximum temperature": "129"
+    },
+    {
+        "Date": "20160329",
+        "Average temperature": "78",
+        "Minimum temperature": "55",
+        "Maximum temperature": "112"
+    },
+    {
+        "Date": "20160330",
+        "Average temperature": "81",
+        "Minimum temperature": "43",
+        "Maximum temperature": "117"
+    },
+    {
+        "Date": "20160331",
+        "Average temperature": "76",
+        "Minimum temperature": "31",
+        "Maximum temperature": "116"
+    },
+    {
+        "Date": "20160401",
+        "Average temperature": "72",
+        "Minimum temperature": "12",
+        "Maximum temperature": "130"
+    },
+    {
+        "Date": "20160402",
+        "Average temperature": "101",
+        "Minimum temperature": "37",
+        "Maximum temperature": "134"
+    },
+    {
+        "Date": "20160403",
+        "Average temperature": "152",
+        "Minimum temperature": "121",
+        "Maximum temperature": "204"
+    },
+    {
+        "Date": "20160404",
+        "Average temperature": "124",
+        "Minimum temperature": "75",
+        "Maximum temperature": "158"
+    },
+    {
+        "Date": "20160405",
+        "Average temperature": "106",
+        "Minimum temperature": "80",
+        "Maximum temperature": "133"
+    },
+    {
+        "Date": "20160406",
+        "Average temperature": "89",
+        "Minimum temperature": "68",
+        "Maximum temperature": "117"
+    },
+    {
+        "Date": "20160407",
+        "Average temperature": "73",
+        "Minimum temperature": "53",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20160408",
+        "Average temperature": "67",
+        "Minimum temperature": "16",
+        "Maximum temperature": "115"
+    },
+    {
+        "Date": "20160409",
+        "Average temperature": "92",
+        "Minimum temperature": "10",
+        "Maximum temperature": "149"
+    },
+    {
+        "Date": "20160410",
+        "Average temperature": "107",
+        "Minimum temperature": "52",
+        "Maximum temperature": "157"
+    },
+    {
+        "Date": "20160411",
+        "Average temperature": "132",
+        "Minimum temperature": "73",
+        "Maximum temperature": "182"
+    },
+    {
+        "Date": "20160412",
+        "Average temperature": "116",
+        "Minimum temperature": "50",
+        "Maximum temperature": "167"
+    },
+    {
+        "Date": "20160413",
+        "Average temperature": "90",
+        "Minimum temperature": "36",
+        "Maximum temperature": "158"
+    },
+    {
+        "Date": "20160414",
+        "Average temperature": "106",
+        "Minimum temperature": "29",
+        "Maximum temperature": "167"
+    },
+    {
+        "Date": "20160415",
+        "Average temperature": "103",
+        "Minimum temperature": "89",
+        "Maximum temperature": "141"
+    },
+    {
+        "Date": "20160416",
+        "Average temperature": "86",
+        "Minimum temperature": "54",
+        "Maximum temperature": "118"
+    },
+    {
+        "Date": "20160417",
+        "Average temperature": "62",
+        "Minimum temperature": "10",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20160418",
+        "Average temperature": "81",
+        "Minimum temperature": "-1",
+        "Maximum temperature": "130"
+    },
+    {
+        "Date": "20160419",
+        "Average temperature": "97",
+        "Minimum temperature": "40",
+        "Maximum temperature": "136"
+    },
+    {
+        "Date": "20160420",
+        "Average temperature": "86",
+        "Minimum temperature": "30",
+        "Maximum temperature": "138"
+    },
+    {
+        "Date": "20160421",
+        "Average temperature": "101",
+        "Minimum temperature": "27",
+        "Maximum temperature": "166"
+    },
+    {
+        "Date": "20160422",
+        "Average temperature": "87",
+        "Minimum temperature": "57",
+        "Maximum temperature": "125"
+    },
+    {
+        "Date": "20160423",
+        "Average temperature": "62",
+        "Minimum temperature": "30",
+        "Maximum temperature": "93"
+    },
+    {
+        "Date": "20160424",
+        "Average temperature": "46",
+        "Minimum temperature": "21",
+        "Maximum temperature": "88"
+    },
+    {
+        "Date": "20160425",
+        "Average temperature": "49",
+        "Minimum temperature": "17",
+        "Maximum temperature": "80"
+    },
+    {
+        "Date": "20160426",
+        "Average temperature": "48",
+        "Minimum temperature": "13",
+        "Maximum temperature": "77"
+    },
+    {
+        "Date": "20160427",
+        "Average temperature": "60",
+        "Minimum temperature": "32",
+        "Maximum temperature": "107"
+    },
+    {
+        "Date": "20160428",
+        "Average temperature": "58",
+        "Minimum temperature": "7",
+        "Maximum temperature": "93"
+    },
+    {
+        "Date": "20160429",
+        "Average temperature": "74",
+        "Minimum temperature": "46",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20160430",
+        "Average temperature": "77",
+        "Minimum temperature": "28",
+        "Maximum temperature": "112"
+    },
+    {
+        "Date": "20160501",
+        "Average temperature": "79",
+        "Minimum temperature": "-1",
+        "Maximum temperature": "141"
+    },
+    {
+        "Date": "20160502",
+        "Average temperature": "115",
+        "Minimum temperature": "16",
+        "Maximum temperature": "179"
+    },
+    {
+        "Date": "20160503",
+        "Average temperature": "97",
+        "Minimum temperature": "30",
+        "Maximum temperature": "140"
+    },
+    {
+        "Date": "20160504",
+        "Average temperature": "95",
+        "Minimum temperature": "17",
+        "Maximum temperature": "160"
+    },
+    {
+        "Date": "20160505",
+        "Average temperature": "128",
+        "Minimum temperature": "29",
+        "Maximum temperature": "188"
+    },
+    {
+        "Date": "20160506",
+        "Average temperature": "164",
+        "Minimum temperature": "81",
+        "Maximum temperature": "236"
+    },
+    {
+        "Date": "20160507",
+        "Average temperature": "195",
+        "Minimum temperature": "94",
+        "Maximum temperature": "258"
+    },
+    {
+        "Date": "20160508",
+        "Average temperature": "201",
+        "Minimum temperature": "127",
+        "Maximum temperature": "252"
+    },
+    {
+        "Date": "20160509",
+        "Average temperature": "202",
+        "Minimum temperature": "142",
+        "Maximum temperature": "253"
+    },
+    {
+        "Date": "20160510",
+        "Average temperature": "189",
+        "Minimum temperature": "154",
+        "Maximum temperature": "221"
+    },
+    {
+        "Date": "20160511",
+        "Average temperature": "204",
+        "Minimum temperature": "141",
+        "Maximum temperature": "255"
+    },
+    {
+        "Date": "20160512",
+        "Average temperature": "202",
+        "Minimum temperature": "144",
+        "Maximum temperature": "251"
+    },
+    {
+        "Date": "20160513",
+        "Average temperature": "154",
+        "Minimum temperature": "97",
+        "Maximum temperature": "222"
+    },
+    {
+        "Date": "20160514",
+        "Average temperature": "89",
+        "Minimum temperature": "64",
+        "Maximum temperature": "121"
+    },
+    {
+        "Date": "20160515",
+        "Average temperature": "86",
+        "Minimum temperature": "53",
+        "Maximum temperature": "121"
+    },
+    {
+        "Date": "20160516",
+        "Average temperature": "93",
+        "Minimum temperature": "40",
+        "Maximum temperature": "136"
+    },
+    {
+        "Date": "20160517",
+        "Average temperature": "123",
+        "Minimum temperature": "50",
+        "Maximum temperature": "181"
+    },
+    {
+        "Date": "20160518",
+        "Average temperature": "136",
+        "Minimum temperature": "83",
+        "Maximum temperature": "187"
+    },
+    {
+        "Date": "20160519",
+        "Average temperature": "134",
+        "Minimum temperature": "104",
+        "Maximum temperature": "173"
+    },
+    {
+        "Date": "20160520",
+        "Average temperature": "137",
+        "Minimum temperature": "107",
+        "Maximum temperature": "186"
+    },
+    {
+        "Date": "20160521",
+        "Average temperature": "179",
+        "Minimum temperature": "107",
+        "Maximum temperature": "234"
+    },
+    {
+        "Date": "20160522",
+        "Average temperature": "155",
+        "Minimum temperature": "129",
+        "Maximum temperature": "190"
+    },
+    {
+        "Date": "20160523",
+        "Average temperature": "120",
+        "Minimum temperature": "105",
+        "Maximum temperature": "133"
+    },
+    {
+        "Date": "20160524",
+        "Average temperature": "114",
+        "Minimum temperature": "98",
+        "Maximum temperature": "146"
+    },
+    {
+        "Date": "20160525",
+        "Average temperature": "118",
+        "Minimum temperature": "77",
+        "Maximum temperature": "145"
+    },
+    {
+        "Date": "20160526",
+        "Average temperature": "137",
+        "Minimum temperature": "56",
+        "Maximum temperature": "193"
+    },
+    {
+        "Date": "20160527",
+        "Average temperature": "160",
+        "Minimum temperature": "106",
+        "Maximum temperature": "209"
+    },
+    {
+        "Date": "20160528",
+        "Average temperature": "176",
+        "Minimum temperature": "112",
+        "Maximum temperature": "227"
+    },
+    {
+        "Date": "20160529",
+        "Average temperature": "172",
+        "Minimum temperature": "140",
+        "Maximum temperature": "205"
+    },
+    {
+        "Date": "20160530",
+        "Average temperature": "162",
+        "Minimum temperature": "153",
+        "Maximum temperature": "180"
+    },
+    {
+        "Date": "20160531",
+        "Average temperature": "182",
+        "Minimum temperature": "131",
+        "Maximum temperature": "226"
+    },
+    {
+        "Date": "20160601",
+        "Average temperature": "192",
+        "Minimum temperature": "154",
+        "Maximum temperature": "243"
+    },
+    {
+        "Date": "20160602",
+        "Average temperature": "153",
+        "Minimum temperature": "137",
+        "Maximum temperature": "172"
+    },
+    {
+        "Date": "20160603",
+        "Average temperature": "164",
+        "Minimum temperature": "137",
+        "Maximum temperature": "214"
+    },
+    {
+        "Date": "20160604",
+        "Average temperature": "201",
+        "Minimum temperature": "141",
+        "Maximum temperature": "275"
+    },
+    {
+        "Date": "20160605",
+        "Average temperature": "200",
+        "Minimum temperature": "137",
+        "Maximum temperature": "256"
+    },
+    {
+        "Date": "20160606",
+        "Average temperature": "189",
+        "Minimum temperature": "117",
+        "Maximum temperature": "256"
+    },
+    {
+        "Date": "20160607",
+        "Average temperature": "201",
+        "Minimum temperature": "153",
+        "Maximum temperature": "265"
+    },
+    {
+        "Date": "20160608",
+        "Average temperature": "161",
+        "Minimum temperature": "127",
+        "Maximum temperature": "216"
+    },
+    {
+        "Date": "20160609",
+        "Average temperature": "153",
+        "Minimum temperature": "110",
+        "Maximum temperature": "203"
+    },
+    {
+        "Date": "20160610",
+        "Average temperature": "164",
+        "Minimum temperature": "108",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20160611",
+        "Average temperature": "162",
+        "Minimum temperature": "120",
+        "Maximum temperature": "208"
+    },
+    {
+        "Date": "20160612",
+        "Average temperature": "166",
+        "Minimum temperature": "135",
+        "Maximum temperature": "211"
+    },
+    {
+        "Date": "20160613",
+        "Average temperature": "159",
+        "Minimum temperature": "146",
+        "Maximum temperature": "190"
+    },
+    {
+        "Date": "20160614",
+        "Average temperature": "152",
+        "Minimum temperature": "111",
+        "Maximum temperature": "191"
+    },
+    {
+        "Date": "20160615",
+        "Average temperature": "146",
+        "Minimum temperature": "113",
+        "Maximum temperature": "187"
+    },
+    {
+        "Date": "20160616",
+        "Average temperature": "157",
+        "Minimum temperature": "92",
+        "Maximum temperature": "211"
+    },
+    {
+        "Date": "20160617",
+        "Average temperature": "151",
+        "Minimum temperature": "111",
+        "Maximum temperature": "195"
+    },
+    {
+        "Date": "20160618",
+        "Average temperature": "141",
+        "Minimum temperature": "99",
+        "Maximum temperature": "171"
+    },
+    {
+        "Date": "20160619",
+        "Average temperature": "153",
+        "Minimum temperature": "121",
+        "Maximum temperature": "189"
+    },
+    {
+        "Date": "20160620",
+        "Average temperature": "155",
+        "Minimum temperature": "141",
+        "Maximum temperature": "168"
+    },
+    {
+        "Date": "20160621",
+        "Average temperature": "170",
+        "Minimum temperature": "134",
+        "Maximum temperature": "201"
+    },
+    {
+        "Date": "20160622",
+        "Average temperature": "201",
+        "Minimum temperature": "147",
+        "Maximum temperature": "249"
+    },
+    {
+        "Date": "20160623",
+        "Average temperature": "220",
+        "Minimum temperature": "182",
+        "Maximum temperature": "284"
+    },
+    {
+        "Date": "20160624",
+        "Average temperature": "192",
+        "Minimum temperature": "133",
+        "Maximum temperature": "227"
+    },
+    {
+        "Date": "20160625",
+        "Average temperature": "154",
+        "Minimum temperature": "109",
+        "Maximum temperature": "193"
+    },
+    {
+        "Date": "20160626",
+        "Average temperature": "149",
+        "Minimum temperature": "121",
+        "Maximum temperature": "183"
+    },
+    {
+        "Date": "20160627",
+        "Average temperature": "149",
+        "Minimum temperature": "109",
+        "Maximum temperature": "189"
+    },
+    {
+        "Date": "20160628",
+        "Average temperature": "167",
+        "Minimum temperature": "92",
+        "Maximum temperature": "218"
+    },
+    {
+        "Date": "20160629",
+        "Average temperature": "160",
+        "Minimum temperature": "132",
+        "Maximum temperature": "202"
+    },
+    {
+        "Date": "20160630",
+        "Average temperature": "164",
+        "Minimum temperature": "144",
+        "Maximum temperature": "192"
+    },
+    {
+        "Date": "20160701",
+        "Average temperature": "169",
+        "Minimum temperature": "143",
+        "Maximum temperature": "198"
+    },
+    {
+        "Date": "20160702",
+        "Average temperature": "154",
+        "Minimum temperature": "120",
+        "Maximum temperature": "187"
+    },
+    {
+        "Date": "20160703",
+        "Average temperature": "147",
+        "Minimum temperature": "99",
+        "Maximum temperature": "198"
+    },
+    {
+        "Date": "20160704",
+        "Average temperature": "170",
+        "Minimum temperature": "86",
+        "Maximum temperature": "228"
+    },
+    {
+        "Date": "20160705",
+        "Average temperature": "154",
+        "Minimum temperature": "115",
+        "Maximum temperature": "181"
+    },
+    {
+        "Date": "20160706",
+        "Average temperature": "149",
+        "Minimum temperature": "94",
+        "Maximum temperature": "194"
+    },
+    {
+        "Date": "20160707",
+        "Average temperature": "168",
+        "Minimum temperature": "83",
+        "Maximum temperature": "221"
+    },
+    {
+        "Date": "20160708",
+        "Average temperature": "175",
+        "Minimum temperature": "151",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20160709",
+        "Average temperature": "197",
+        "Minimum temperature": "146",
+        "Maximum temperature": "236"
+    },
+    {
+        "Date": "20160710",
+        "Average temperature": "213",
+        "Minimum temperature": "159",
+        "Maximum temperature": "274"
+    },
+    {
+        "Date": "20160711",
+        "Average temperature": "186",
+        "Minimum temperature": "162",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20160712",
+        "Average temperature": "166",
+        "Minimum temperature": "125",
+        "Maximum temperature": "203"
+    },
+    {
+        "Date": "20160713",
+        "Average temperature": "145",
+        "Minimum temperature": "111",
+        "Maximum temperature": "183"
+    },
+    {
+        "Date": "20160714",
+        "Average temperature": "145",
+        "Minimum temperature": "87",
+        "Maximum temperature": "192"
+    },
+    {
+        "Date": "20160715",
+        "Average temperature": "166",
+        "Minimum temperature": "91",
+        "Maximum temperature": "213"
+    },
+    {
+        "Date": "20160716",
+        "Average temperature": "197",
+        "Minimum temperature": "169",
+        "Maximum temperature": "226"
+    },
+    {
+        "Date": "20160717",
+        "Average temperature": "198",
+        "Minimum temperature": "145",
+        "Maximum temperature": "238"
+    },
+    {
+        "Date": "20160718",
+        "Average temperature": "202",
+        "Minimum temperature": "132",
+        "Maximum temperature": "265"
+    },
+    {
+        "Date": "20160719",
+        "Average temperature": "228",
+        "Minimum temperature": "120",
+        "Maximum temperature": "295"
+    },
+    {
+        "Date": "20160720",
+        "Average temperature": "254",
+        "Minimum temperature": "188",
+        "Maximum temperature": "329"
+    },
+    {
+        "Date": "20160721",
+        "Average temperature": "218",
+        "Minimum temperature": "164",
+        "Maximum temperature": "274"
+    },
+    {
+        "Date": "20160722",
+        "Average temperature": "211",
+        "Minimum temperature": "168",
+        "Maximum temperature": "261"
+    },
+    {
+        "Date": "20160723",
+        "Average temperature": "211",
+        "Minimum temperature": "176",
+        "Maximum temperature": "253"
+    },
+    {
+        "Date": "20160724",
+        "Average temperature": "207",
+        "Minimum temperature": "155",
+        "Maximum temperature": "255"
+    },
+    {
+        "Date": "20160725",
+        "Average temperature": "182",
+        "Minimum temperature": "126",
+        "Maximum temperature": "224"
+    },
+    {
+        "Date": "20160726",
+        "Average temperature": "184",
+        "Minimum temperature": "114",
+        "Maximum temperature": "234"
+    },
+    {
+        "Date": "20160727",
+        "Average temperature": "179",
+        "Minimum temperature": "160",
+        "Maximum temperature": "213"
+    },
+    {
+        "Date": "20160728",
+        "Average temperature": "190",
+        "Minimum temperature": "154",
+        "Maximum temperature": "235"
+    },
+    {
+        "Date": "20160729",
+        "Average temperature": "183",
+        "Minimum temperature": "154",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20160730",
+        "Average temperature": "177",
+        "Minimum temperature": "160",
+        "Maximum temperature": "209"
+    },
+    {
+        "Date": "20160731",
+        "Average temperature": "170",
+        "Minimum temperature": "129",
+        "Maximum temperature": "205"
+    },
+    {
+        "Date": "20160801",
+        "Average temperature": "165",
+        "Minimum temperature": "131",
+        "Maximum temperature": "210"
+    },
+    {
+        "Date": "20160802",
+        "Average temperature": "166",
+        "Minimum temperature": "136",
+        "Maximum temperature": "186"
+    },
+    {
+        "Date": "20160803",
+        "Average temperature": "190",
+        "Minimum temperature": "164",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20160804",
+        "Average temperature": "173",
+        "Minimum temperature": "150",
+        "Maximum temperature": "208"
+    },
+    {
+        "Date": "20160805",
+        "Average temperature": "176",
+        "Minimum temperature": "129",
+        "Maximum temperature": "216"
+    },
+    {
+        "Date": "20160806",
+        "Average temperature": "164",
+        "Minimum temperature": "105",
+        "Maximum temperature": "224"
+    },
+    {
+        "Date": "20160807",
+        "Average temperature": "184",
+        "Minimum temperature": "105",
+        "Maximum temperature": "228"
+    },
+    {
+        "Date": "20160808",
+        "Average temperature": "172",
+        "Minimum temperature": "125",
+        "Maximum temperature": "205"
+    },
+    {
+        "Date": "20160809",
+        "Average temperature": "144",
+        "Minimum temperature": "103",
+        "Maximum temperature": "185"
+    },
+    {
+        "Date": "20160810",
+        "Average temperature": "128",
+        "Minimum temperature": "69",
+        "Maximum temperature": "168"
+    },
+    {
+        "Date": "20160811",
+        "Average temperature": "136",
+        "Minimum temperature": "67",
+        "Maximum temperature": "163"
+    },
+    {
+        "Date": "20160812",
+        "Average temperature": "189",
+        "Minimum temperature": "163",
+        "Maximum temperature": "226"
+    },
+    {
+        "Date": "20160813",
+        "Average temperature": "176",
+        "Minimum temperature": "143",
+        "Maximum temperature": "215"
+    },
+    {
+        "Date": "20160814",
+        "Average temperature": "170",
+        "Minimum temperature": "96",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20160815",
+        "Average temperature": "161",
+        "Minimum temperature": "82",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20160816",
+        "Average temperature": "163",
+        "Minimum temperature": "114",
+        "Maximum temperature": "210"
+    },
+    {
+        "Date": "20160817",
+        "Average temperature": "172",
+        "Minimum temperature": "100",
+        "Maximum temperature": "234"
+    },
+    {
+        "Date": "20160818",
+        "Average temperature": "177",
+        "Minimum temperature": "97",
+        "Maximum temperature": "242"
+    },
+    {
+        "Date": "20160819",
+        "Average temperature": "181",
+        "Minimum temperature": "98",
+        "Maximum temperature": "243"
+    },
+    {
+        "Date": "20160820",
+        "Average temperature": "178",
+        "Minimum temperature": "148",
+        "Maximum temperature": "229"
+    },
+    {
+        "Date": "20160821",
+        "Average temperature": "167",
+        "Minimum temperature": "147",
+        "Maximum temperature": "198"
+    },
+    {
+        "Date": "20160822",
+        "Average temperature": "180",
+        "Minimum temperature": "142",
+        "Maximum temperature": "227"
+    },
+    {
+        "Date": "20160823",
+        "Average temperature": "210",
+        "Minimum temperature": "140",
+        "Maximum temperature": "269"
+    },
+    {
+        "Date": "20160824",
+        "Average temperature": "228",
+        "Minimum temperature": "170",
+        "Maximum temperature": "302"
+    },
+    {
+        "Date": "20160825",
+        "Average temperature": "243",
+        "Minimum temperature": "172",
+        "Maximum temperature": "310"
+    },
+    {
+        "Date": "20160826",
+        "Average temperature": "221",
+        "Minimum temperature": "176",
+        "Maximum temperature": "262"
+    },
+    {
+        "Date": "20160827",
+        "Average temperature": "216",
+        "Minimum temperature": "161",
+        "Maximum temperature": "265"
+    },
+    {
+        "Date": "20160828",
+        "Average temperature": "205",
+        "Minimum temperature": "177",
+        "Maximum temperature": "246"
+    },
+    {
+        "Date": "20160829",
+        "Average temperature": "172",
+        "Minimum temperature": "100",
+        "Maximum temperature": "214"
+    },
+    {
+        "Date": "20160830",
+        "Average temperature": "162",
+        "Minimum temperature": "85",
+        "Maximum temperature": "238"
+    },
+    {
+        "Date": "20160831",
+        "Average temperature": "174",
+        "Minimum temperature": "86",
+        "Maximum temperature": "254"
+    },
+    {
+        "Date": "20160901",
+        "Average temperature": "172",
+        "Minimum temperature": "102",
+        "Maximum temperature": "229"
+    },
+    {
+        "Date": "20160902",
+        "Average temperature": "166",
+        "Minimum temperature": "97",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20160903",
+        "Average temperature": "185",
+        "Minimum temperature": "144",
+        "Maximum temperature": "229"
+    },
+    {
+        "Date": "20160904",
+        "Average temperature": "179",
+        "Minimum temperature": "157",
+        "Maximum temperature": "213"
+    },
+    {
+        "Date": "20160905",
+        "Average temperature": "173",
+        "Minimum temperature": "115",
+        "Maximum temperature": "228"
+    },
+    {
+        "Date": "20160906",
+        "Average temperature": "177",
+        "Minimum temperature": "113",
+        "Maximum temperature": "242"
+    },
+    {
+        "Date": "20160907",
+        "Average temperature": "183",
+        "Minimum temperature": "114",
+        "Maximum temperature": "268"
+    },
+    {
+        "Date": "20160908",
+        "Average temperature": "196",
+        "Minimum temperature": "116",
+        "Maximum temperature": "276"
+    },
+    {
+        "Date": "20160909",
+        "Average temperature": "169",
+        "Minimum temperature": "117",
+        "Maximum temperature": "229"
+    },
+    {
+        "Date": "20160910",
+        "Average temperature": "184",
+        "Minimum temperature": "113",
+        "Maximum temperature": "257"
+    },
+    {
+        "Date": "20160911",
+        "Average temperature": "185",
+        "Minimum temperature": "148",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20160912",
+        "Average temperature": "209",
+        "Minimum temperature": "150",
+        "Maximum temperature": "281"
+    },
+    {
+        "Date": "20160913",
+        "Average temperature": "235",
+        "Minimum temperature": "152",
+        "Maximum temperature": "312"
+    },
+    {
+        "Date": "20160914",
+        "Average temperature": "230",
+        "Minimum temperature": "153",
+        "Maximum temperature": "314"
+    },
+    {
+        "Date": "20160915",
+        "Average temperature": "226",
+        "Minimum temperature": "165",
+        "Maximum temperature": "290"
+    },
+    {
+        "Date": "20160916",
+        "Average temperature": "174",
+        "Minimum temperature": "155",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20160917",
+        "Average temperature": "173",
+        "Minimum temperature": "137",
+        "Maximum temperature": "216"
+    },
+    {
+        "Date": "20160918",
+        "Average temperature": "167",
+        "Minimum temperature": "142",
+        "Maximum temperature": "207"
+    },
+    {
+        "Date": "20160919",
+        "Average temperature": "144",
+        "Minimum temperature": "95",
+        "Maximum temperature": "198"
+    },
+    {
+        "Date": "20160920",
+        "Average temperature": "145",
+        "Minimum temperature": "79",
+        "Maximum temperature": "200"
+    },
+    {
+        "Date": "20160921",
+        "Average temperature": "147",
+        "Minimum temperature": "83",
+        "Maximum temperature": "207"
+    },
+    {
+        "Date": "20160922",
+        "Average temperature": "138",
+        "Minimum temperature": "69",
+        "Maximum temperature": "213"
+    },
+    {
+        "Date": "20160923",
+        "Average temperature": "136",
+        "Minimum temperature": "73",
+        "Maximum temperature": "203"
+    },
+    {
+        "Date": "20160924",
+        "Average temperature": "152",
+        "Minimum temperature": "83",
+        "Maximum temperature": "236"
+    },
+    {
+        "Date": "20160925",
+        "Average temperature": "163",
+        "Minimum temperature": "121",
+        "Maximum temperature": "243"
+    },
+    {
+        "Date": "20160926",
+        "Average temperature": "135",
+        "Minimum temperature": "76",
+        "Maximum temperature": "191"
+    },
+    {
+        "Date": "20160927",
+        "Average temperature": "145",
+        "Minimum temperature": "56",
+        "Maximum temperature": "204"
+    },
+    {
+        "Date": "20160928",
+        "Average temperature": "187",
+        "Minimum temperature": "162",
+        "Maximum temperature": "216"
+    },
+    {
+        "Date": "20160929",
+        "Average temperature": "159",
+        "Minimum temperature": "138",
+        "Maximum temperature": "177"
+    },
+    {
+        "Date": "20160930",
+        "Average temperature": "145",
+        "Minimum temperature": "108",
+        "Maximum temperature": "187"
+    },
+    {
+        "Date": "20161001",
+        "Average temperature": "135",
+        "Minimum temperature": "99",
+        "Maximum temperature": "176"
+    },
+    {
+        "Date": "20161002",
+        "Average temperature": "121",
+        "Minimum temperature": "88",
+        "Maximum temperature": "157"
+    },
+    {
+        "Date": "20161003",
+        "Average temperature": "145",
+        "Minimum temperature": "111",
+        "Maximum temperature": "190"
+    },
+    {
+        "Date": "20161004",
+        "Average temperature": "130",
+        "Minimum temperature": "99",
+        "Maximum temperature": "173"
+    },
+    {
+        "Date": "20161005",
+        "Average temperature": "98",
+        "Minimum temperature": "54",
+        "Maximum temperature": "141"
+    },
+    {
+        "Date": "20161006",
+        "Average temperature": "94",
+        "Minimum temperature": "39",
+        "Maximum temperature": "127"
+    },
+    {
+        "Date": "20161007",
+        "Average temperature": "118",
+        "Minimum temperature": "100",
+        "Maximum temperature": "145"
+    },
+    {
+        "Date": "20161008",
+        "Average temperature": "110",
+        "Minimum temperature": "65",
+        "Maximum temperature": "142"
+    },
+    {
+        "Date": "20161009",
+        "Average temperature": "79",
+        "Minimum temperature": "13",
+        "Maximum temperature": "145"
+    },
+    {
+        "Date": "20161010",
+        "Average temperature": "79",
+        "Minimum temperature": "19",
+        "Maximum temperature": "135"
+    },
+    {
+        "Date": "20161011",
+        "Average temperature": "80",
+        "Minimum temperature": "3",
+        "Maximum temperature": "131"
+    },
+    {
+        "Date": "20161012",
+        "Average temperature": "89",
+        "Minimum temperature": "68",
+        "Maximum temperature": "110"
+    },
+    {
+        "Date": "20161013",
+        "Average temperature": "91",
+        "Minimum temperature": "77",
+        "Maximum temperature": "114"
+    },
+    {
+        "Date": "20161014",
+        "Average temperature": "99",
+        "Minimum temperature": "73",
+        "Maximum temperature": "134"
+    },
+    {
+        "Date": "20161015",
+        "Average temperature": "107",
+        "Minimum temperature": "89",
+        "Maximum temperature": "137"
+    },
+    {
+        "Date": "20161016",
+        "Average temperature": "133",
+        "Minimum temperature": "82",
+        "Maximum temperature": "188"
+    },
+    {
+        "Date": "20161017",
+        "Average temperature": "121",
+        "Minimum temperature": "82",
+        "Maximum temperature": "163"
+    },
+    {
+        "Date": "20161018",
+        "Average temperature": "102",
+        "Minimum temperature": "75",
+        "Maximum temperature": "128"
+    },
+    {
+        "Date": "20161019",
+        "Average temperature": "88",
+        "Minimum temperature": "44",
+        "Maximum temperature": "120"
+    },
+    {
+        "Date": "20161020",
+        "Average temperature": "85",
+        "Minimum temperature": "27",
+        "Maximum temperature": "120"
+    },
+    {
+        "Date": "20161021",
+        "Average temperature": "76",
+        "Minimum temperature": "15",
+        "Maximum temperature": "127"
+    },
+    {
+        "Date": "20161022",
+        "Average temperature": "67",
+        "Minimum temperature": "10",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20161023",
+        "Average temperature": "48",
+        "Minimum temperature": "-7",
+        "Maximum temperature": "116"
+    },
+    {
+        "Date": "20161024",
+        "Average temperature": "71",
+        "Minimum temperature": "41",
+        "Maximum temperature": "95"
+    },
+    {
+        "Date": "20161025",
+        "Average temperature": "87",
+        "Minimum temperature": "79",
+        "Maximum temperature": "101"
+    },
+    {
+        "Date": "20161026",
+        "Average temperature": "95",
+        "Minimum temperature": "40",
+        "Maximum temperature": "126"
+    },
+    {
+        "Date": "20161027",
+        "Average temperature": "118",
+        "Minimum temperature": "104",
+        "Maximum temperature": "138"
+    },
+    {
+        "Date": "20161028",
+        "Average temperature": "131",
+        "Minimum temperature": "103",
+        "Maximum temperature": "148"
+    },
+    {
+        "Date": "20161029",
+        "Average temperature": "96",
+        "Minimum temperature": "52",
+        "Maximum temperature": "154"
+    },
+    {
+        "Date": "20161030",
+        "Average temperature": "87",
+        "Minimum temperature": "41",
+        "Maximum temperature": "153"
+    },
+    {
+        "Date": "20161031",
+        "Average temperature": "85",
+        "Minimum temperature": "29",
+        "Maximum temperature": "162"
+    },
+    {
+        "Date": "20161101",
+        "Average temperature": "81",
+        "Minimum temperature": "40",
+        "Maximum temperature": "138"
+    },
+    {
+        "Date": "20161102",
+        "Average temperature": "72",
+        "Minimum temperature": "22",
+        "Maximum temperature": "117"
+    },
+    {
+        "Date": "20161103",
+        "Average temperature": "67",
+        "Minimum temperature": "8",
+        "Maximum temperature": "120"
+    },
+    {
+        "Date": "20161104",
+        "Average temperature": "76",
+        "Minimum temperature": "63",
+        "Maximum temperature": "97"
+    },
+    {
+        "Date": "20161105",
+        "Average temperature": "69",
+        "Minimum temperature": "49",
+        "Maximum temperature": "108"
+    },
+    {
+        "Date": "20161106",
+        "Average temperature": "61",
+        "Minimum temperature": "24",
+        "Maximum temperature": "93"
+    },
+    {
+        "Date": "20161107",
+        "Average temperature": "42",
+        "Minimum temperature": "-1",
+        "Maximum temperature": "57"
+    },
+    {
+        "Date": "20161108",
+        "Average temperature": "19",
+        "Minimum temperature": "-29",
+        "Maximum temperature": "56"
+    },
+    {
+        "Date": "20161109",
+        "Average temperature": "30",
+        "Minimum temperature": "5",
+        "Maximum temperature": "43"
+    },
+    {
+        "Date": "20161110",
+        "Average temperature": "40",
+        "Minimum temperature": "31",
+        "Maximum temperature": "52"
+    },
+    {
+        "Date": "20161111",
+        "Average temperature": "18",
+        "Minimum temperature": "-31",
+        "Maximum temperature": "58"
+    },
+    {
+        "Date": "20161112",
+        "Average temperature": "20",
+        "Minimum temperature": "-33",
+        "Maximum temperature": "50"
+    },
+    {
+        "Date": "20161113",
+        "Average temperature": "27",
+        "Minimum temperature": "-10",
+        "Maximum temperature": "47"
+    },
+    {
+        "Date": "20161114",
+        "Average temperature": "31",
+        "Minimum temperature": "-23",
+        "Maximum temperature": "69"
+    },
+    {
+        "Date": "20161115",
+        "Average temperature": "108",
+        "Minimum temperature": "69",
+        "Maximum temperature": "129"
+    },
+    {
+        "Date": "20161116",
+        "Average temperature": "119",
+        "Minimum temperature": "93",
+        "Maximum temperature": "142"
+    },
+    {
+        "Date": "20161117",
+        "Average temperature": "93",
+        "Minimum temperature": "76",
+        "Maximum temperature": "115"
+    },
+    {
+        "Date": "20161118",
+        "Average temperature": "60",
+        "Minimum temperature": "32",
+        "Maximum temperature": "82"
+    },
+    {
+        "Date": "20161119",
+        "Average temperature": "58",
+        "Minimum temperature": "40",
+        "Maximum temperature": "81"
+    },
+    {
+        "Date": "20161120",
+        "Average temperature": "84",
+        "Minimum temperature": "48",
+        "Maximum temperature": "125"
+    },
+    {
+        "Date": "20161121",
+        "Average temperature": "120",
+        "Minimum temperature": "81",
+        "Maximum temperature": "139"
+    },
+    {
+        "Date": "20161122",
+        "Average temperature": "110",
+        "Minimum temperature": "65",
+        "Maximum temperature": "136"
+    },
+    {
+        "Date": "20161123",
+        "Average temperature": "79",
+        "Minimum temperature": "37",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20161124",
+        "Average temperature": "66",
+        "Minimum temperature": "30",
+        "Maximum temperature": "87"
+    },
+    {
+        "Date": "20161125",
+        "Average temperature": "33",
+        "Minimum temperature": "-6",
+        "Maximum temperature": "84"
+    },
+    {
+        "Date": "20161126",
+        "Average temperature": "-1",
+        "Minimum temperature": "-26",
+        "Maximum temperature": "36"
+    },
+    {
+        "Date": "20161127",
+        "Average temperature": "56",
+        "Minimum temperature": "-10",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20161128",
+        "Average temperature": "-3",
+        "Minimum temperature": "-41",
+        "Maximum temperature": "42"
+    },
+    {
+        "Date": "20161129",
+        "Average temperature": "-31",
+        "Minimum temperature": "-70",
+        "Maximum temperature": "43"
+    },
+    {
+        "Date": "20161130",
+        "Average temperature": "20",
+        "Minimum temperature": "-70",
+        "Maximum temperature": "68"
+    },
+    {
+        "Date": "20161201",
+        "Average temperature": "79",
+        "Minimum temperature": "51",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20161202",
+        "Average temperature": "52",
+        "Minimum temperature": "-25",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20161203",
+        "Average temperature": "-1",
+        "Minimum temperature": "-43",
+        "Maximum temperature": "81"
+    },
+    {
+        "Date": "20161204",
+        "Average temperature": "-14",
+        "Minimum temperature": "-50",
+        "Maximum temperature": "40"
+    },
+    {
+        "Date": "20161205",
+        "Average temperature": "-27",
+        "Minimum temperature": "-69",
+        "Maximum temperature": "41"
+    },
+    {
+        "Date": "20161206",
+        "Average temperature": "1",
+        "Minimum temperature": "-53",
+        "Maximum temperature": "54"
+    },
+    {
+        "Date": "20161207",
+        "Average temperature": "63",
+        "Minimum temperature": "18",
+        "Maximum temperature": "95"
+    },
+    {
+        "Date": "20161208",
+        "Average temperature": "82",
+        "Minimum temperature": "64",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20161209",
+        "Average temperature": "91",
+        "Minimum temperature": "74",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20161210",
+        "Average temperature": "78",
+        "Minimum temperature": "66",
+        "Maximum temperature": "92"
+    },
+    {
+        "Date": "20161211",
+        "Average temperature": "85",
+        "Minimum temperature": "69",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20161212",
+        "Average temperature": "53",
+        "Minimum temperature": "8",
+        "Maximum temperature": "76"
+    },
+    {
+        "Date": "20161213",
+        "Average temperature": "66",
+        "Minimum temperature": "53",
+        "Maximum temperature": "75"
+    },
+    {
+        "Date": "20161214",
+        "Average temperature": "73",
+        "Minimum temperature": "48",
+        "Maximum temperature": "91"
+    },
+    {
+        "Date": "20161215",
+        "Average temperature": "65",
+        "Minimum temperature": "52",
+        "Maximum temperature": "79"
+    },
+    {
+        "Date": "20161216",
+        "Average temperature": "54",
+        "Minimum temperature": "27",
+        "Maximum temperature": "75"
+    },
+    {
+        "Date": "20161217",
+        "Average temperature": "61",
+        "Minimum temperature": "32",
+        "Maximum temperature": "85"
+    },
+    {
+        "Date": "20161218",
+        "Average temperature": "62",
+        "Minimum temperature": "26",
+        "Maximum temperature": "91"
+    },
+    {
+        "Date": "20161219",
+        "Average temperature": "43",
+        "Minimum temperature": "-2",
+        "Maximum temperature": "75"
+    },
+    {
+        "Date": "20161220",
+        "Average temperature": "-6",
+        "Minimum temperature": "-27",
+        "Maximum temperature": "10"
+    },
+    {
+        "Date": "20161221",
+        "Average temperature": "41",
+        "Minimum temperature": "0",
+        "Maximum temperature": "71"
+    },
+    {
+        "Date": "20161222",
+        "Average temperature": "59",
+        "Minimum temperature": "48",
+        "Maximum temperature": "69"
+    },
+    {
+        "Date": "20161223",
+        "Average temperature": "60",
+        "Minimum temperature": "43",
+        "Maximum temperature": "80"
+    },
+    {
+        "Date": "20161224",
+        "Average temperature": "79",
+        "Minimum temperature": "61",
+        "Maximum temperature": "97"
+    },
+    {
+        "Date": "20161225",
+        "Average temperature": "104",
+        "Minimum temperature": "81",
+        "Maximum temperature": "117"
+    },
+    {
+        "Date": "20161226",
+        "Average temperature": "83",
+        "Minimum temperature": "61",
+        "Maximum temperature": "118"
+    },
+    {
+        "Date": "20161227",
+        "Average temperature": "66",
+        "Minimum temperature": "30",
+        "Maximum temperature": "93"
+    },
+    {
+        "Date": "20161228",
+        "Average temperature": "10",
+        "Minimum temperature": "-31",
+        "Maximum temperature": "43"
+    },
+    {
+        "Date": "20161229",
+        "Average temperature": "-22",
+        "Minimum temperature": "-40",
+        "Maximum temperature": "-8"
+    },
+    {
+        "Date": "20161230",
+        "Average temperature": "-11",
+        "Minimum temperature": "-40",
+        "Maximum temperature": "15"
+    },
+    {
+        "Date": "20161231",
+        "Average temperature": "18",
+        "Minimum temperature": "8",
+        "Maximum temperature": "33"
+    },
+    {
+        "Date": "20170101",
+        "Average temperature": "5",
+        "Minimum temperature": "-8",
+        "Maximum temperature": "19"
+    },
+    {
+        "Date": "20170102",
+        "Average temperature": "30",
+        "Minimum temperature": "-3",
+        "Maximum temperature": "68"
+    },
+    {
+        "Date": "20170103",
+        "Average temperature": "50",
+        "Minimum temperature": "15",
+        "Maximum temperature": "71"
+    },
+    {
+        "Date": "20170104",
+        "Average temperature": "58",
+        "Minimum temperature": "26",
+        "Maximum temperature": "73"
+    },
+    {
+        "Date": "20170105",
+        "Average temperature": "0",
+        "Minimum temperature": "-59",
+        "Maximum temperature": "33"
+    },
+    {
+        "Date": "20170106",
+        "Average temperature": "-30",
+        "Minimum temperature": "-65",
+        "Maximum temperature": "-3"
+    },
+    {
+        "Date": "20170107",
+        "Average temperature": "-2",
+        "Minimum temperature": "-21",
+        "Maximum temperature": "34"
+    },
+    {
+        "Date": "20170108",
+        "Average temperature": "43",
+        "Minimum temperature": "28",
+        "Maximum temperature": "61"
+    },
+    {
+        "Date": "20170109",
+        "Average temperature": "48",
+        "Minimum temperature": "33",
+        "Maximum temperature": "59"
+    },
+    {
+        "Date": "20170110",
+        "Average temperature": "53",
+        "Minimum temperature": "29",
+        "Maximum temperature": "66"
+    },
+    {
+        "Date": "20170111",
+        "Average temperature": "72",
+        "Minimum temperature": "57",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20170112",
+        "Average temperature": "52",
+        "Minimum temperature": "2",
+        "Maximum temperature": "74"
+    },
+    {
+        "Date": "20170113",
+        "Average temperature": "31",
+        "Minimum temperature": "2",
+        "Maximum temperature": "56"
+    },
+    {
+        "Date": "20170114",
+        "Average temperature": "18",
+        "Minimum temperature": "1",
+        "Maximum temperature": "48"
+    },
+    {
+        "Date": "20170115",
+        "Average temperature": "7",
+        "Minimum temperature": "-18",
+        "Maximum temperature": "48"
+    },
+    {
+        "Date": "20170116",
+        "Average temperature": "-16",
+        "Minimum temperature": "-44",
+        "Maximum temperature": "12"
+    },
+    {
+        "Date": "20170117",
+        "Average temperature": "-34",
+        "Minimum temperature": "-50",
+        "Maximum temperature": "13"
+    },
+    {
+        "Date": "20170118",
+        "Average temperature": "-38",
+        "Minimum temperature": "-53",
+        "Maximum temperature": "-19"
+    },
+    {
+        "Date": "20170119",
+        "Average temperature": "-20",
+        "Minimum temperature": "-56",
+        "Maximum temperature": "31"
+    },
+    {
+        "Date": "20170120",
+        "Average temperature": "-3",
+        "Minimum temperature": "-52",
+        "Maximum temperature": "51"
+    },
+    {
+        "Date": "20170121",
+        "Average temperature": "-2",
+        "Minimum temperature": "-52",
+        "Maximum temperature": "50"
+    },
+    {
+        "Date": "20170122",
+        "Average temperature": "-17",
+        "Minimum temperature": "-74",
+        "Maximum temperature": "37"
+    },
+    {
+        "Date": "20170123",
+        "Average temperature": "16",
+        "Minimum temperature": "-3",
+        "Maximum temperature": "31"
+    },
+    {
+        "Date": "20170124",
+        "Average temperature": "8",
+        "Minimum temperature": "0",
+        "Maximum temperature": "21"
+    },
+    {
+        "Date": "20170125",
+        "Average temperature": "-11",
+        "Minimum temperature": "-43",
+        "Maximum temperature": "6"
+    },
+    {
+        "Date": "20170126",
+        "Average temperature": "-28",
+        "Minimum temperature": "-53",
+        "Maximum temperature": "6"
+    },
+    {
+        "Date": "20170127",
+        "Average temperature": "8",
+        "Minimum temperature": "-70",
+        "Maximum temperature": "51"
+    },
+    {
+        "Date": "20170128",
+        "Average temperature": "54",
+        "Minimum temperature": "20",
+        "Maximum temperature": "81"
+    },
+    {
+        "Date": "20170129",
+        "Average temperature": "47",
+        "Minimum temperature": "31",
+        "Maximum temperature": "65"
+    },
+    {
+        "Date": "20170130",
+        "Average temperature": "49",
+        "Minimum temperature": "28",
+        "Maximum temperature": "72"
+    },
+    {
+        "Date": "20170131",
+        "Average temperature": "37",
+        "Minimum temperature": "26",
+        "Maximum temperature": "61"
+    },
+    {
+        "Date": "20170201",
+        "Average temperature": "34",
+        "Minimum temperature": "5",
+        "Maximum temperature": "54"
+    },
+    {
+        "Date": "20170202",
+        "Average temperature": "86",
+        "Minimum temperature": "52",
+        "Maximum temperature": "125"
+    },
+    {
+        "Date": "20170203",
+        "Average temperature": "86",
+        "Minimum temperature": "63",
+        "Maximum temperature": "119"
+    },
+    {
+        "Date": "20170204",
+        "Average temperature": "57",
+        "Minimum temperature": "26",
+        "Maximum temperature": "74"
+    },
+    {
+        "Date": "20170205",
+        "Average temperature": "44",
+        "Minimum temperature": "-11",
+        "Maximum temperature": "77"
+    },
+    {
+        "Date": "20170206",
+        "Average temperature": "43",
+        "Minimum temperature": "-10",
+        "Maximum temperature": "66"
+    },
+    {
+        "Date": "20170207",
+        "Average temperature": "24",
+        "Minimum temperature": "9",
+        "Maximum temperature": "39"
+    },
+    {
+        "Date": "20170208",
+        "Average temperature": "0",
+        "Minimum temperature": "-11",
+        "Maximum temperature": "9"
+    },
+    {
+        "Date": "20170209",
+        "Average temperature": "-16",
+        "Minimum temperature": "-30",
+        "Maximum temperature": "-10"
+    },
+    {
+        "Date": "20170210",
+        "Average temperature": "-23",
+        "Minimum temperature": "-45",
+        "Maximum temperature": "-13"
+    },
+    {
+        "Date": "20170211",
+        "Average temperature": "-4",
+        "Minimum temperature": "-17",
+        "Maximum temperature": "10"
+    },
+    {
+        "Date": "20170212",
+        "Average temperature": "7",
+        "Minimum temperature": "-6",
+        "Maximum temperature": "25"
+    },
+    {
+        "Date": "20170213",
+        "Average temperature": "22",
+        "Minimum temperature": "-14",
+        "Maximum temperature": "71"
+    },
+    {
+        "Date": "20170214",
+        "Average temperature": "38",
+        "Minimum temperature": "-5",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20170215",
+        "Average temperature": "74",
+        "Minimum temperature": "3",
+        "Maximum temperature": "135"
+    },
+    {
+        "Date": "20170216",
+        "Average temperature": "68",
+        "Minimum temperature": "55",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20170217",
+        "Average temperature": "70",
+        "Minimum temperature": "52",
+        "Maximum temperature": "86"
+    },
+    {
+        "Date": "20170218",
+        "Average temperature": "56",
+        "Minimum temperature": "32",
+        "Maximum temperature": "103"
+    },
+    {
+        "Date": "20170219",
+        "Average temperature": "62",
+        "Minimum temperature": "32",
+        "Maximum temperature": "92"
+    },
+    {
+        "Date": "20170220",
+        "Average temperature": "91",
+        "Minimum temperature": "72",
+        "Maximum temperature": "109"
+    },
+    {
+        "Date": "20170221",
+        "Average temperature": "96",
+        "Minimum temperature": "86",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20170222",
+        "Average temperature": "95",
+        "Minimum temperature": "78",
+        "Maximum temperature": "108"
+    },
+    {
+        "Date": "20170223",
+        "Average temperature": "80",
+        "Minimum temperature": "42",
+        "Maximum temperature": "105"
+    },
+    {
+        "Date": "20170224",
+        "Average temperature": "45",
+        "Minimum temperature": "-6",
+        "Maximum temperature": "87"
+    },
+    {
+        "Date": "20170225",
+        "Average temperature": "58",
+        "Minimum temperature": "18",
+        "Maximum temperature": "89"
+    },
+    {
+        "Date": "20170226",
+        "Average temperature": "87",
+        "Minimum temperature": "67",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20170227",
+        "Average temperature": "87",
+        "Minimum temperature": "43",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20170228",
+        "Average temperature": "47",
+        "Minimum temperature": "32",
+        "Maximum temperature": "65"
+    },
+    {
+        "Date": "20170301",
+        "Average temperature": "63",
+        "Minimum temperature": "32",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20170302",
+        "Average temperature": "66",
+        "Minimum temperature": "42",
+        "Maximum temperature": "82"
+    },
+    {
+        "Date": "20170303",
+        "Average temperature": "59",
+        "Minimum temperature": "12",
+        "Maximum temperature": "88"
+    },
+    {
+        "Date": "20170304",
+        "Average temperature": "92",
+        "Minimum temperature": "62",
+        "Maximum temperature": "132"
+    },
+    {
+        "Date": "20170305",
+        "Average temperature": "69",
+        "Minimum temperature": "38",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20170306",
+        "Average temperature": "60",
+        "Minimum temperature": "32",
+        "Maximum temperature": "95"
+    },
+    {
+        "Date": "20170307",
+        "Average temperature": "67",
+        "Minimum temperature": "45",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20170308",
+        "Average temperature": "59",
+        "Minimum temperature": "8",
+        "Maximum temperature": "106"
+    },
+    {
+        "Date": "20170309",
+        "Average temperature": "77",
+        "Minimum temperature": "7",
+        "Maximum temperature": "128"
+    },
+    {
+        "Date": "20170310",
+        "Average temperature": "65",
+        "Minimum temperature": "-9",
+        "Maximum temperature": "112"
+    },
+    {
+        "Date": "20170311",
+        "Average temperature": "73",
+        "Minimum temperature": "15",
+        "Maximum temperature": "130"
+    },
+    {
+        "Date": "20170312",
+        "Average temperature": "79",
+        "Minimum temperature": "14",
+        "Maximum temperature": "148"
+    },
+    {
+        "Date": "20170313",
+        "Average temperature": "65",
+        "Minimum temperature": "-5",
+        "Maximum temperature": "137"
+    },
+    {
+        "Date": "20170314",
+        "Average temperature": "88",
+        "Minimum temperature": "32",
+        "Maximum temperature": "149"
+    },
+    {
+        "Date": "20170315",
+        "Average temperature": "90",
+        "Minimum temperature": "16",
+        "Maximum temperature": "139"
+    },
+    {
+        "Date": "20170316",
+        "Average temperature": "94",
+        "Minimum temperature": "11",
+        "Maximum temperature": "168"
+    },
+    {
+        "Date": "20170317",
+        "Average temperature": "83",
+        "Minimum temperature": "67",
+        "Maximum temperature": "103"
+    },
+    {
+        "Date": "20170318",
+        "Average temperature": "97",
+        "Minimum temperature": "74",
+        "Maximum temperature": "127"
+    },
+    {
+        "Date": "20170319",
+        "Average temperature": "113",
+        "Minimum temperature": "98",
+        "Maximum temperature": "127"
+    },
+    {
+        "Date": "20170320",
+        "Average temperature": "103",
+        "Minimum temperature": "88",
+        "Maximum temperature": "115"
+    },
+    {
+        "Date": "20170321",
+        "Average temperature": "75",
+        "Minimum temperature": "13",
+        "Maximum temperature": "98"
+    },
+    {
+        "Date": "20170322",
+        "Average temperature": "63",
+        "Minimum temperature": "-3",
+        "Maximum temperature": "124"
+    },
+    {
+        "Date": "20170323",
+        "Average temperature": "82",
+        "Minimum temperature": "19",
+        "Maximum temperature": "140"
+    },
+    {
+        "Date": "20170324",
+        "Average temperature": "84",
+        "Minimum temperature": "31",
+        "Maximum temperature": "142"
+    },
+    {
+        "Date": "20170325",
+        "Average temperature": "85",
+        "Minimum temperature": "21",
+        "Maximum temperature": "143"
+    },
+    {
+        "Date": "20170326",
+        "Average temperature": "80",
+        "Minimum temperature": "33",
+        "Maximum temperature": "130"
+    },
+    {
+        "Date": "20170327",
+        "Average temperature": "92",
+        "Minimum temperature": "18",
+        "Maximum temperature": "174"
+    },
+    {
+        "Date": "20170328",
+        "Average temperature": "113",
+        "Minimum temperature": "6",
+        "Maximum temperature": "197"
+    },
+    {
+        "Date": "20170329",
+        "Average temperature": "126",
+        "Minimum temperature": "103",
+        "Maximum temperature": "147"
+    },
+    {
+        "Date": "20170330",
+        "Average temperature": "157",
+        "Minimum temperature": "108",
+        "Maximum temperature": "218"
+    },
+    {
+        "Date": "20170331",
+        "Average temperature": "145",
+        "Minimum temperature": "89",
+        "Maximum temperature": "218"
+    },
+    {
+        "Date": "20170401",
+        "Average temperature": "108",
+        "Minimum temperature": "60",
+        "Maximum temperature": "141"
+    },
+    {
+        "Date": "20170402",
+        "Average temperature": "103",
+        "Minimum temperature": "44",
+        "Maximum temperature": "169"
+    },
+    {
+        "Date": "20170403",
+        "Average temperature": "81",
+        "Minimum temperature": "27",
+        "Maximum temperature": "143"
+    },
+    {
+        "Date": "20170404",
+        "Average temperature": "98",
+        "Minimum temperature": "22",
+        "Maximum temperature": "165"
+    },
+    {
+        "Date": "20170405",
+        "Average temperature": "92",
+        "Minimum temperature": "62",
+        "Maximum temperature": "128"
+    },
+    {
+        "Date": "20170406",
+        "Average temperature": "81",
+        "Minimum temperature": "38",
+        "Maximum temperature": "118"
+    },
+    {
+        "Date": "20170407",
+        "Average temperature": "105",
+        "Minimum temperature": "73",
+        "Maximum temperature": "138"
+    },
+    {
+        "Date": "20170408",
+        "Average temperature": "96",
+        "Minimum temperature": "29",
+        "Maximum temperature": "155"
+    },
+    {
+        "Date": "20170409",
+        "Average temperature": "117",
+        "Minimum temperature": "8",
+        "Maximum temperature": "210"
+    },
+    {
+        "Date": "20170410",
+        "Average temperature": "98",
+        "Minimum temperature": "41",
+        "Maximum temperature": "155"
+    },
+    {
+        "Date": "20170411",
+        "Average temperature": "96",
+        "Minimum temperature": "23",
+        "Maximum temperature": "138"
+    },
+    {
+        "Date": "20170412",
+        "Average temperature": "98",
+        "Minimum temperature": "83",
+        "Maximum temperature": "119"
+    },
+    {
+        "Date": "20170413",
+        "Average temperature": "93",
+        "Minimum temperature": "60",
+        "Maximum temperature": "133"
+    },
+    {
+        "Date": "20170414",
+        "Average temperature": "99",
+        "Minimum temperature": "65",
+        "Maximum temperature": "130"
+    },
+    {
+        "Date": "20170415",
+        "Average temperature": "96",
+        "Minimum temperature": "65",
+        "Maximum temperature": "121"
+    },
+    {
+        "Date": "20170416",
+        "Average temperature": "79",
+        "Minimum temperature": "50",
+        "Maximum temperature": "108"
+    },
+    {
+        "Date": "20170417",
+        "Average temperature": "65",
+        "Minimum temperature": "27",
+        "Maximum temperature": "109"
+    },
+    {
+        "Date": "20170418",
+        "Average temperature": "61",
+        "Minimum temperature": "8",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20170419",
+        "Average temperature": "39",
+        "Minimum temperature": "-13",
+        "Maximum temperature": "83"
+    },
+    {
+        "Date": "20170420",
+        "Average temperature": "69",
+        "Minimum temperature": "-34",
+        "Maximum temperature": "129"
+    },
+    {
+        "Date": "20170421",
+        "Average temperature": "111",
+        "Minimum temperature": "82",
+        "Maximum temperature": "149"
+    },
+    {
+        "Date": "20170422",
+        "Average temperature": "78",
+        "Minimum temperature": "40",
+        "Maximum temperature": "113"
+    },
+    {
+        "Date": "20170423",
+        "Average temperature": "66",
+        "Minimum temperature": "20",
+        "Maximum temperature": "114"
+    },
+    {
+        "Date": "20170424",
+        "Average temperature": "93",
+        "Minimum temperature": "52",
+        "Maximum temperature": "130"
+    },
+    {
+        "Date": "20170425",
+        "Average temperature": "59",
+        "Minimum temperature": "21",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20170426",
+        "Average temperature": "50",
+        "Minimum temperature": "-14",
+        "Maximum temperature": "104"
+    },
+    {
+        "Date": "20170427",
+        "Average temperature": "61",
+        "Minimum temperature": "-20",
+        "Maximum temperature": "109"
+    },
+    {
+        "Date": "20170428",
+        "Average temperature": "76",
+        "Minimum temperature": "30",
+        "Maximum temperature": "117"
+    },
+    {
+        "Date": "20170429",
+        "Average temperature": "76",
+        "Minimum temperature": "5",
+        "Maximum temperature": "140"
+    },
+    {
+        "Date": "20170430",
+        "Average temperature": "123",
+        "Minimum temperature": "33",
+        "Maximum temperature": "184"
+    },
+    {
+        "Date": "20170501",
+        "Average temperature": "117",
+        "Minimum temperature": "82",
+        "Maximum temperature": "137"
+    },
+    {
+        "Date": "20170502",
+        "Average temperature": "100",
+        "Minimum temperature": "47",
+        "Maximum temperature": "152"
+    },
+    {
+        "Date": "20170503",
+        "Average temperature": "107",
+        "Minimum temperature": "77",
+        "Maximum temperature": "152"
+    },
+    {
+        "Date": "20170504",
+        "Average temperature": "104",
+        "Minimum temperature": "77",
+        "Maximum temperature": "133"
+    },
+    {
+        "Date": "20170505",
+        "Average temperature": "89",
+        "Minimum temperature": "66",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20170506",
+        "Average temperature": "128",
+        "Minimum temperature": "59",
+        "Maximum temperature": "188"
+    },
+    {
+        "Date": "20170507",
+        "Average temperature": "117",
+        "Minimum temperature": "86",
+        "Maximum temperature": "162"
+    },
+    {
+        "Date": "20170508",
+        "Average temperature": "97",
+        "Minimum temperature": "43",
+        "Maximum temperature": "153"
+    },
+    {
+        "Date": "20170509",
+        "Average temperature": "80",
+        "Minimum temperature": "11",
+        "Maximum temperature": "138"
+    },
+    {
+        "Date": "20170510",
+        "Average temperature": "90",
+        "Minimum temperature": "-1",
+        "Maximum temperature": "159"
+    },
+    {
+        "Date": "20170511",
+        "Average temperature": "154",
+        "Minimum temperature": "47",
+        "Maximum temperature": "228"
+    },
+    {
+        "Date": "20170512",
+        "Average temperature": "155",
+        "Minimum temperature": "120",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20170513",
+        "Average temperature": "140",
+        "Minimum temperature": "85",
+        "Maximum temperature": "190"
+    },
+    {
+        "Date": "20170514",
+        "Average temperature": "134",
+        "Minimum temperature": "66",
+        "Maximum temperature": "199"
+    },
+    {
+        "Date": "20170515",
+        "Average temperature": "149",
+        "Minimum temperature": "55",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20170516",
+        "Average temperature": "204",
+        "Minimum temperature": "152",
+        "Maximum temperature": "262"
+    },
+    {
+        "Date": "20170517",
+        "Average temperature": "223",
+        "Minimum temperature": "144",
+        "Maximum temperature": "284"
+    },
+    {
+        "Date": "20170518",
+        "Average temperature": "165",
+        "Minimum temperature": "144",
+        "Maximum temperature": "211"
+    },
+    {
+        "Date": "20170519",
+        "Average temperature": "136",
+        "Minimum temperature": "105",
+        "Maximum temperature": "167"
+    },
+    {
+        "Date": "20170520",
+        "Average temperature": "125",
+        "Minimum temperature": "74",
+        "Maximum temperature": "173"
+    },
+    {
+        "Date": "20170521",
+        "Average temperature": "144",
+        "Minimum temperature": "54",
+        "Maximum temperature": "202"
+    },
+    {
+        "Date": "20170522",
+        "Average temperature": "176",
+        "Minimum temperature": "81",
+        "Maximum temperature": "246"
+    },
+    {
+        "Date": "20170523",
+        "Average temperature": "161",
+        "Minimum temperature": "99",
+        "Maximum temperature": "210"
+    },
+    {
+        "Date": "20170524",
+        "Average temperature": "159",
+        "Minimum temperature": "90",
+        "Maximum temperature": "223"
+    },
+    {
+        "Date": "20170525",
+        "Average temperature": "174",
+        "Minimum temperature": "92",
+        "Maximum temperature": "230"
+    },
+    {
+        "Date": "20170526",
+        "Average temperature": "203",
+        "Minimum temperature": "110",
+        "Maximum temperature": "266"
+    },
+    {
+        "Date": "20170527",
+        "Average temperature": "229",
+        "Minimum temperature": "160",
+        "Maximum temperature": "319"
+    },
+    {
+        "Date": "20170528",
+        "Average temperature": "205",
+        "Minimum temperature": "149",
+        "Maximum temperature": "266"
+    },
+    {
+        "Date": "20170529",
+        "Average temperature": "219",
+        "Minimum temperature": "154",
+        "Maximum temperature": "286"
+    },
+    {
+        "Date": "20170530",
+        "Average temperature": "183",
+        "Minimum temperature": "155",
+        "Maximum temperature": "212"
+    },
+    {
+        "Date": "20170531",
+        "Average temperature": "174",
+        "Minimum temperature": "107",
+        "Maximum temperature": "222"
+    },
+    {
+        "Date": "20170601",
+        "Average temperature": "166",
+        "Minimum temperature": "75",
+        "Maximum temperature": "234"
+    },
+    {
+        "Date": "20170602",
+        "Average temperature": "198",
+        "Minimum temperature": "108",
+        "Maximum temperature": "266"
+    },
+    {
+        "Date": "20170603",
+        "Average temperature": "184",
+        "Minimum temperature": "143",
+        "Maximum temperature": "237"
+    },
+    {
+        "Date": "20170604",
+        "Average temperature": "154",
+        "Minimum temperature": "87",
+        "Maximum temperature": "195"
+    },
+    {
+        "Date": "20170605",
+        "Average temperature": "171",
+        "Minimum temperature": "84",
+        "Maximum temperature": "229"
+    },
+    {
+        "Date": "20170606",
+        "Average temperature": "141",
+        "Minimum temperature": "110",
+        "Maximum temperature": "174"
+    },
+    {
+        "Date": "20170607",
+        "Average temperature": "140",
+        "Minimum temperature": "113",
+        "Maximum temperature": "174"
+    },
+    {
+        "Date": "20170608",
+        "Average temperature": "168",
+        "Minimum temperature": "117",
+        "Maximum temperature": "232"
+    },
+    {
+        "Date": "20170609",
+        "Average temperature": "165",
+        "Minimum temperature": "130",
+        "Maximum temperature": "196"
+    },
+    {
+        "Date": "20170610",
+        "Average temperature": "178",
+        "Minimum temperature": "117",
+        "Maximum temperature": "239"
+    },
+    {
+        "Date": "20170611",
+        "Average temperature": "199",
+        "Minimum temperature": "121",
+        "Maximum temperature": "271"
+    },
+    {
+        "Date": "20170612",
+        "Average temperature": "161",
+        "Minimum temperature": "145",
+        "Maximum temperature": "178"
+    },
+    {
+        "Date": "20170613",
+        "Average temperature": "163",
+        "Minimum temperature": "93",
+        "Maximum temperature": "208"
+    },
+    {
+        "Date": "20170614",
+        "Average temperature": "174",
+        "Minimum temperature": "75",
+        "Maximum temperature": "244"
+    },
+    {
+        "Date": "20170615",
+        "Average temperature": "200",
+        "Minimum temperature": "120",
+        "Maximum temperature": "264"
+    },
+    {
+        "Date": "20170616",
+        "Average temperature": "162",
+        "Minimum temperature": "129",
+        "Maximum temperature": "180"
+    },
+    {
+        "Date": "20170617",
+        "Average temperature": "186",
+        "Minimum temperature": "129",
+        "Maximum temperature": "232"
+    },
+    {
+        "Date": "20170618",
+        "Average temperature": "208",
+        "Minimum temperature": "111",
+        "Maximum temperature": "278"
+    },
+    {
+        "Date": "20170619",
+        "Average temperature": "236",
+        "Minimum temperature": "137",
+        "Maximum temperature": "309"
+    },
+    {
+        "Date": "20170620",
+        "Average temperature": "216",
+        "Minimum temperature": "149",
+        "Maximum temperature": "274"
+    },
+    {
+        "Date": "20170621",
+        "Average temperature": "214",
+        "Minimum temperature": "131",
+        "Maximum temperature": "291"
+    },
+    {
+        "Date": "20170622",
+        "Average temperature": "229",
+        "Minimum temperature": "171",
+        "Maximum temperature": "308"
+    },
+    {
+        "Date": "20170623",
+        "Average temperature": "196",
+        "Minimum temperature": "168",
+        "Maximum temperature": "232"
+    },
+    {
+        "Date": "20170624",
+        "Average temperature": "171",
+        "Minimum temperature": "163",
+        "Maximum temperature": "179"
+    },
+    {
+        "Date": "20170625",
+        "Average temperature": "175",
+        "Minimum temperature": "154",
+        "Maximum temperature": "190"
+    },
+    {
+        "Date": "20170626",
+        "Average temperature": "168",
+        "Minimum temperature": "123",
+        "Maximum temperature": "206"
+    },
+    {
+        "Date": "20170627",
+        "Average temperature": "173",
+        "Minimum temperature": "113",
+        "Maximum temperature": "218"
+    },
+    {
+        "Date": "20170628",
+        "Average temperature": "180",
+        "Minimum temperature": "150",
+        "Maximum temperature": "219"
+    },
+    {
+        "Date": "20170629",
+        "Average temperature": "175",
+        "Minimum temperature": "133",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20170630",
+        "Average temperature": "162",
+        "Minimum temperature": "116",
+        "Maximum temperature": "208"
+    },
+    {
+        "Date": "20170701",
+        "Average temperature": "161",
+        "Minimum temperature": "139",
+        "Maximum temperature": "210"
+    },
+    {
+        "Date": "20170702",
+        "Average temperature": "156",
+        "Minimum temperature": "89",
+        "Maximum temperature": "196"
+    },
+    {
+        "Date": "20170703",
+        "Average temperature": "166",
+        "Minimum temperature": "81",
+        "Maximum temperature": "220"
+    },
+    {
+        "Date": "20170704",
+        "Average temperature": "186",
+        "Minimum temperature": "150",
+        "Maximum temperature": "232"
+    },
+    {
+        "Date": "20170705",
+        "Average temperature": "190",
+        "Minimum temperature": "120",
+        "Maximum temperature": "248"
+    },
+    {
+        "Date": "20170706",
+        "Average temperature": "199",
+        "Minimum temperature": "108",
+        "Maximum temperature": "265"
+    },
+    {
+        "Date": "20170707",
+        "Average temperature": "206",
+        "Minimum temperature": "153",
+        "Maximum temperature": "260"
+    },
+    {
+        "Date": "20170708",
+        "Average temperature": "186",
+        "Minimum temperature": "113",
+        "Maximum temperature": "245"
+    },
+    {
+        "Date": "20170709",
+        "Average temperature": "172",
+        "Minimum temperature": "91",
+        "Maximum temperature": "232"
+    },
+    {
+        "Date": "20170710",
+        "Average temperature": "196",
+        "Minimum temperature": "140",
+        "Maximum temperature": "259"
+    },
+    {
+        "Date": "20170711",
+        "Average temperature": "177",
+        "Minimum temperature": "153",
+        "Maximum temperature": "207"
+    },
+    {
+        "Date": "20170712",
+        "Average temperature": "149",
+        "Minimum temperature": "89",
+        "Maximum temperature": "182"
+    },
+    {
+        "Date": "20170713",
+        "Average temperature": "146",
+        "Minimum temperature": "74",
+        "Maximum temperature": "205"
+    },
+    {
+        "Date": "20170714",
+        "Average temperature": "142",
+        "Minimum temperature": "80",
+        "Maximum temperature": "186"
+    },
+    {
+        "Date": "20170715",
+        "Average temperature": "172",
+        "Minimum temperature": "109",
+        "Maximum temperature": "215"
+    },
+    {
+        "Date": "20170716",
+        "Average temperature": "186",
+        "Minimum temperature": "160",
+        "Maximum temperature": "221"
+    },
+    {
+        "Date": "20170717",
+        "Average temperature": "186",
+        "Minimum temperature": "130",
+        "Maximum temperature": "231"
+    },
+    {
+        "Date": "20170718",
+        "Average temperature": "199",
+        "Minimum temperature": "120",
+        "Maximum temperature": "252"
+    },
+    {
+        "Date": "20170719",
+        "Average temperature": "235",
+        "Minimum temperature": "180",
+        "Maximum temperature": "294"
+    },
+    {
+        "Date": "20170720",
+        "Average temperature": "191",
+        "Minimum temperature": "135",
+        "Maximum temperature": "242"
+    },
+    {
+        "Date": "20170721",
+        "Average temperature": "182",
+        "Minimum temperature": "128",
+        "Maximum temperature": "227"
+    },
+    {
+        "Date": "20170722",
+        "Average temperature": "194",
+        "Minimum temperature": "145",
+        "Maximum temperature": "242"
+    },
+    {
+        "Date": "20170723",
+        "Average temperature": "160",
+        "Minimum temperature": "132",
+        "Maximum temperature": "191"
+    },
+    {
+        "Date": "20170724",
+        "Average temperature": "161",
+        "Minimum temperature": "119",
+        "Maximum temperature": "202"
+    },
+    {
+        "Date": "20170725",
+        "Average temperature": "167",
+        "Minimum temperature": "140",
+        "Maximum temperature": "200"
+    },
+    {
+        "Date": "20170726",
+        "Average temperature": "190",
+        "Minimum temperature": "138",
+        "Maximum temperature": "236"
+    },
+    {
+        "Date": "20170727",
+        "Average temperature": "185",
+        "Minimum temperature": "162",
+        "Maximum temperature": "214"
+    },
+    {
+        "Date": "20170728",
+        "Average temperature": "172",
+        "Minimum temperature": "148",
+        "Maximum temperature": "210"
+    },
+    {
+        "Date": "20170729",
+        "Average temperature": "182",
+        "Minimum temperature": "162",
+        "Maximum temperature": "205"
+    },
+    {
+        "Date": "20170730",
+        "Average temperature": "188",
+        "Minimum temperature": "133",
+        "Maximum temperature": "229"
+    },
+    {
+        "Date": "20170731",
+        "Average temperature": "181",
+        "Minimum temperature": "126",
+        "Maximum temperature": "228"
+    },
+    {
+        "Date": "20170801",
+        "Average temperature": "178",
+        "Minimum temperature": "125",
+        "Maximum temperature": "227"
+    },
+    {
+        "Date": "20170802",
+        "Average temperature": "176",
+        "Minimum temperature": "135",
+        "Maximum temperature": "220"
+    },
+    {
+        "Date": "20170803",
+        "Average temperature": "190",
+        "Minimum temperature": "165",
+        "Maximum temperature": "225"
+    },
+    {
+        "Date": "20170804",
+        "Average temperature": "183",
+        "Minimum temperature": "154",
+        "Maximum temperature": "218"
+    },
+    {
+        "Date": "20170805",
+        "Average temperature": "159",
+        "Minimum temperature": "106",
+        "Maximum temperature": "204"
+    },
+    {
+        "Date": "20170806",
+        "Average temperature": "158",
+        "Minimum temperature": "90",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20170807",
+        "Average temperature": "168",
+        "Minimum temperature": "88",
+        "Maximum temperature": "226"
+    },
+    {
+        "Date": "20170808",
+        "Average temperature": "162",
+        "Minimum temperature": "141",
+        "Maximum temperature": "196"
+    },
+    {
+        "Date": "20170809",
+        "Average temperature": "167",
+        "Minimum temperature": "123",
+        "Maximum temperature": "213"
+    },
+    {
+        "Date": "20170810",
+        "Average temperature": "157",
+        "Minimum temperature": "97",
+        "Maximum temperature": "205"
+    },
+    {
+        "Date": "20170811",
+        "Average temperature": "167",
+        "Minimum temperature": "120",
+        "Maximum temperature": "203"
+    },
+    {
+        "Date": "20170812",
+        "Average temperature": "168",
+        "Minimum temperature": "125",
+        "Maximum temperature": "216"
+    },
+    {
+        "Date": "20170813",
+        "Average temperature": "162",
+        "Minimum temperature": "100",
+        "Maximum temperature": "215"
+    },
+    {
+        "Date": "20170814",
+        "Average temperature": "179",
+        "Minimum temperature": "105",
+        "Maximum temperature": "241"
+    },
+    {
+        "Date": "20170815",
+        "Average temperature": "179",
+        "Minimum temperature": "136",
+        "Maximum temperature": "218"
+    },
+    {
+        "Date": "20170816",
+        "Average temperature": "176",
+        "Minimum temperature": "116",
+        "Maximum temperature": "233"
+    },
+    {
+        "Date": "20170817",
+        "Average temperature": "173",
+        "Minimum temperature": "121",
+        "Maximum temperature": "199"
+    },
+    {
+        "Date": "20170818",
+        "Average temperature": "169",
+        "Minimum temperature": "130",
+        "Maximum temperature": "201"
+    },
+    {
+        "Date": "20170819",
+        "Average temperature": "154",
+        "Minimum temperature": "127",
+        "Maximum temperature": "196"
+    },
+    {
+        "Date": "20170820",
+        "Average temperature": "158",
+        "Minimum temperature": "115",
+        "Maximum temperature": "198"
+    },
+    {
+        "Date": "20170821",
+        "Average temperature": "159",
+        "Minimum temperature": "112",
+        "Maximum temperature": "208"
+    },
+    {
+        "Date": "20170822",
+        "Average temperature": "182",
+        "Minimum temperature": "129",
+        "Maximum temperature": "235"
+    },
+    {
+        "Date": "20170823",
+        "Average temperature": "196",
+        "Minimum temperature": "129",
+        "Maximum temperature": "250"
+    },
+    {
+        "Date": "20170824",
+        "Average temperature": "179",
+        "Minimum temperature": "111",
+        "Maximum temperature": "222"
+    },
+    {
+        "Date": "20170825",
+        "Average temperature": "169",
+        "Minimum temperature": "102",
+        "Maximum temperature": "234"
+    },
+    {
+        "Date": "20170826",
+        "Average temperature": "182",
+        "Minimum temperature": "100",
+        "Maximum temperature": "250"
+    },
+    {
+        "Date": "20170827",
+        "Average temperature": "178",
+        "Minimum temperature": "110",
+        "Maximum temperature": "247"
+    },
+    {
+        "Date": "20170828",
+        "Average temperature": "187",
+        "Minimum temperature": "106",
+        "Maximum temperature": "268"
+    },
+    {
+        "Date": "20170829",
+        "Average temperature": "210",
+        "Minimum temperature": "122",
+        "Maximum temperature": "290"
+    },
+    {
+        "Date": "20170830",
+        "Average temperature": "178",
+        "Minimum temperature": "135",
+        "Maximum temperature": "225"
+    },
+    {
+        "Date": "20170831",
+        "Average temperature": "144",
+        "Minimum temperature": "95",
+        "Maximum temperature": "197"
+    },
+    {
+        "Date": "20170901",
+        "Average temperature": "147",
+        "Minimum temperature": "98",
+        "Maximum temperature": "193"
+    },
+    {
+        "Date": "20170902",
+        "Average temperature": "133",
+        "Minimum temperature": "77",
+        "Maximum temperature": "194"
+    },
+    {
+        "Date": "20170903",
+        "Average temperature": "130",
+        "Minimum temperature": "57",
+        "Maximum temperature": "200"
+    },
+    {
+        "Date": "20170904",
+        "Average temperature": "158",
+        "Minimum temperature": "84",
+        "Maximum temperature": "216"
+    },
+    {
+        "Date": "20170905",
+        "Average temperature": "186",
+        "Minimum temperature": "158",
+        "Maximum temperature": "217"
+    },
+    {
+        "Date": "20170906",
+        "Average temperature": "159",
+        "Minimum temperature": "136",
+        "Maximum temperature": "183"
+    },
+    {
+        "Date": "20170907",
+        "Average temperature": "156",
+        "Minimum temperature": "130",
+        "Maximum temperature": "185"
+    },
+    {
+        "Date": "20170908",
+        "Average temperature": "151",
+        "Minimum temperature": "139",
+        "Maximum temperature": "158"
+    },
+    {
+        "Date": "20170909",
+        "Average temperature": "132",
+        "Minimum temperature": "82",
+        "Maximum temperature": "177"
+    },
+    {
+        "Date": "20170910",
+        "Average temperature": "139",
+        "Minimum temperature": "82",
+        "Maximum temperature": "177"
+    },
+    {
+        "Date": "20170911",
+        "Average temperature": "141",
+        "Minimum temperature": "117",
+        "Maximum temperature": "174"
+    },
+    {
+        "Date": "20170912",
+        "Average temperature": "146",
+        "Minimum temperature": "122",
+        "Maximum temperature": "183"
+    },
+    {
+        "Date": "20170913",
+        "Average temperature": "141",
+        "Minimum temperature": "108",
+        "Maximum temperature": "176"
+    },
+    {
+        "Date": "20170914",
+        "Average temperature": "117",
+        "Minimum temperature": "102",
+        "Maximum temperature": "144"
+    },
+    {
+        "Date": "20170915",
+        "Average temperature": "125",
+        "Minimum temperature": "97",
+        "Maximum temperature": "164"
+    },
+    {
+        "Date": "20170916",
+        "Average temperature": "106",
+        "Minimum temperature": "62",
+        "Maximum temperature": "129"
+    },
+    {
+        "Date": "20170917",
+        "Average temperature": "108",
+        "Minimum temperature": "48",
+        "Maximum temperature": "172"
+    },
+    {
+        "Date": "20170918",
+        "Average temperature": "120",
+        "Minimum temperature": "74",
+        "Maximum temperature": "162"
+    },
+    {
+        "Date": "20170919",
+        "Average temperature": "120",
+        "Minimum temperature": "80",
+        "Maximum temperature": "174"
+    },
+    {
+        "Date": "20170920",
+        "Average temperature": "135",
+        "Minimum temperature": "80",
+        "Maximum temperature": "175"
+    },
+    {
+        "Date": "20170921",
+        "Average temperature": "134",
+        "Minimum temperature": "89",
+        "Maximum temperature": "186"
+    },
+    {
+        "Date": "20170922",
+        "Average temperature": "119",
+        "Minimum temperature": "58",
+        "Maximum temperature": "192"
+    },
+    {
+        "Date": "20170923",
+        "Average temperature": "109",
+        "Minimum temperature": "39",
+        "Maximum temperature": "183"
+    },
+    {
+        "Date": "20170924",
+        "Average temperature": "121",
+        "Minimum temperature": "45",
+        "Maximum temperature": "204"
+    },
+    {
+        "Date": "20170925",
+        "Average temperature": "142",
+        "Minimum temperature": "97",
+        "Maximum temperature": "181"
+    },
+    {
+        "Date": "20170926",
+        "Average temperature": "132",
+        "Minimum temperature": "86",
+        "Maximum temperature": "172"
+    },
+    {
+        "Date": "20170927",
+        "Average temperature": "136",
+        "Minimum temperature": "66",
+        "Maximum temperature": "202"
+    },
+    {
+        "Date": "20170928",
+        "Average temperature": "158",
+        "Minimum temperature": "127",
+        "Maximum temperature": "206"
+    },
+    {
+        "Date": "20170929",
+        "Average temperature": "171",
+        "Minimum temperature": "127",
+        "Maximum temperature": "227"
+    },
+    {
+        "Date": "20170930",
+        "Average temperature": "131",
+        "Minimum temperature": "77",
+        "Maximum temperature": "157"
+    },
+    {
+        "Date": "20171001",
+        "Average temperature": "141",
+        "Minimum temperature": "97",
+        "Maximum temperature": "174"
+    },
+    {
+        "Date": "20171002",
+        "Average temperature": "156",
+        "Minimum temperature": "134",
+        "Maximum temperature": "179"
+    },
+    {
+        "Date": "20171003",
+        "Average temperature": "136",
+        "Minimum temperature": "118",
+        "Maximum temperature": "164"
+    },
+    {
+        "Date": "20171004",
+        "Average temperature": "130",
+        "Minimum temperature": "114",
+        "Maximum temperature": "152"
+    },
+    {
+        "Date": "20171005",
+        "Average temperature": "129",
+        "Minimum temperature": "103",
+        "Maximum temperature": "160"
+    },
+    {
+        "Date": "20171006",
+        "Average temperature": "116",
+        "Minimum temperature": "95",
+        "Maximum temperature": "150"
+    },
+    {
+        "Date": "20171007",
+        "Average temperature": "122",
+        "Minimum temperature": "106",
+        "Maximum temperature": "143"
+    },
+    {
+        "Date": "20171008",
+        "Average temperature": "121",
+        "Minimum temperature": "97",
+        "Maximum temperature": "147"
+    },
+    {
+        "Date": "20171009",
+        "Average temperature": "121",
+        "Minimum temperature": "101",
+        "Maximum temperature": "134"
+    },
+    {
+        "Date": "20171010",
+        "Average temperature": "143",
+        "Minimum temperature": "124",
+        "Maximum temperature": "158"
+    },
+    {
+        "Date": "20171011",
+        "Average temperature": "148",
+        "Minimum temperature": "142",
+        "Maximum temperature": "161"
+    },
+    {
+        "Date": "20171012",
+        "Average temperature": "134",
+        "Minimum temperature": "108",
+        "Maximum temperature": "161"
+    },
+    {
+        "Date": "20171013",
+        "Average temperature": "153",
+        "Minimum temperature": "109",
+        "Maximum temperature": "182"
+    },
+    {
+        "Date": "20171014",
+        "Average temperature": "148",
+        "Minimum temperature": "96",
+        "Maximum temperature": "199"
+    },
+    {
+        "Date": "20171015",
+        "Average temperature": "158",
+        "Minimum temperature": "93",
+        "Maximum temperature": "221"
+    },
+    {
+        "Date": "20171016",
+        "Average temperature": "186",
+        "Minimum temperature": "137",
+        "Maximum temperature": "244"
+    },
+    {
+        "Date": "20171017",
+        "Average temperature": "129",
+        "Minimum temperature": "82",
+        "Maximum temperature": "166"
+    },
+    {
+        "Date": "20171018",
+        "Average temperature": "137",
+        "Minimum temperature": "104",
+        "Maximum temperature": "186"
+    },
+    {
+        "Date": "20171019",
+        "Average temperature": "157",
+        "Minimum temperature": "101",
+        "Maximum temperature": "204"
+    },
+    {
+        "Date": "20171020",
+        "Average temperature": "137",
+        "Minimum temperature": "104",
+        "Maximum temperature": "167"
+    },
+    {
+        "Date": "20171021",
+        "Average temperature": "132",
+        "Minimum temperature": "104",
+        "Maximum temperature": "175"
+    },
+    {
+        "Date": "20171022",
+        "Average temperature": "108",
+        "Minimum temperature": "96",
+        "Maximum temperature": "132"
+    },
+    {
+        "Date": "20171023",
+        "Average temperature": "126",
+        "Minimum temperature": "103",
+        "Maximum temperature": "152"
+    },
+    {
+        "Date": "20171024",
+        "Average temperature": "153",
+        "Minimum temperature": "130",
+        "Maximum temperature": "171"
+    },
+    {
+        "Date": "20171025",
+        "Average temperature": "142",
+        "Minimum temperature": "90",
+        "Maximum temperature": "171"
+    },
+    {
+        "Date": "20171026",
+        "Average temperature": "140",
+        "Minimum temperature": "127",
+        "Maximum temperature": "175"
+    },
+    {
+        "Date": "20171027",
+        "Average temperature": "118",
+        "Minimum temperature": "99",
+        "Maximum temperature": "144"
+    },
+    {
+        "Date": "20171028",
+        "Average temperature": "124",
+        "Minimum temperature": "93",
+        "Maximum temperature": "153"
+    },
+    {
+        "Date": "20171029",
+        "Average temperature": "107",
+        "Minimum temperature": "68",
+        "Maximum temperature": "152"
+    },
+    {
+        "Date": "20171030",
+        "Average temperature": "83",
+        "Minimum temperature": "45",
+        "Maximum temperature": "121"
+    },
+    {
+        "Date": "20171031",
+        "Average temperature": "101",
+        "Minimum temperature": "82",
+        "Maximum temperature": "112"
+    },
+    {
+        "Date": "20171101",
+        "Average temperature": "112",
+        "Minimum temperature": "96",
+        "Maximum temperature": "135"
+    },
+    {
+        "Date": "20171102",
+        "Average temperature": "98",
+        "Minimum temperature": "38",
+        "Maximum temperature": "140"
+    },
+    {
+        "Date": "20171103",
+        "Average temperature": "88",
+        "Minimum temperature": "34",
+        "Maximum temperature": "124"
+    },
+    {
+        "Date": "20171104",
+        "Average temperature": "106",
+        "Minimum temperature": "74",
+        "Maximum temperature": "131"
+    },
+    {
+        "Date": "20171105",
+        "Average temperature": "78",
+        "Minimum temperature": "50",
+        "Maximum temperature": "109"
+    },
+    {
+        "Date": "20171106",
+        "Average temperature": "48",
+        "Minimum temperature": "-5",
+        "Maximum temperature": "109"
+    },
+    {
+        "Date": "20171107",
+        "Average temperature": "33",
+        "Minimum temperature": "-13",
+        "Maximum temperature": "98"
+    },
+    {
+        "Date": "20171108",
+        "Average temperature": "59",
+        "Minimum temperature": "24",
+        "Maximum temperature": "76"
+    },
+    {
+        "Date": "20171109",
+        "Average temperature": "87",
+        "Minimum temperature": "62",
+        "Maximum temperature": "111"
+    },
+    {
+        "Date": "20171110",
+        "Average temperature": "92",
+        "Minimum temperature": "58",
+        "Maximum temperature": "118"
+    },
+    {
+        "Date": "20171111",
+        "Average temperature": "66",
+        "Minimum temperature": "38",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20171112",
+        "Average temperature": "52",
+        "Minimum temperature": "32",
+        "Maximum temperature": "64"
+    },
+    {
+        "Date": "20171113",
+        "Average temperature": "62",
+        "Minimum temperature": "10",
+        "Maximum temperature": "103"
+    },
+    {
+        "Date": "20171114",
+        "Average temperature": "77",
+        "Minimum temperature": "27",
+        "Maximum temperature": "92"
+    },
+    {
+        "Date": "20171115",
+        "Average temperature": "94",
+        "Minimum temperature": "85",
+        "Maximum temperature": "102"
+    },
+    {
+        "Date": "20171116",
+        "Average temperature": "93",
+        "Minimum temperature": "62",
+        "Maximum temperature": "107"
+    },
+    {
+        "Date": "20171117",
+        "Average temperature": "56",
+        "Minimum temperature": "6",
+        "Maximum temperature": "110"
+    },
+    {
+        "Date": "20171118",
+        "Average temperature": "69",
+        "Minimum temperature": "35",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20171119",
+        "Average temperature": "67",
+        "Minimum temperature": "44",
+        "Maximum temperature": "99"
+    },
+    {
+        "Date": "20171120",
+        "Average temperature": "78",
+        "Minimum temperature": "46",
+        "Maximum temperature": "118"
+    },
+    {
+        "Date": "20171121",
+        "Average temperature": "115",
+        "Minimum temperature": "106",
+        "Maximum temperature": "124"
+    },
+    {
+        "Date": "20171122",
+        "Average temperature": "114",
+        "Minimum temperature": "105",
+        "Maximum temperature": "133"
+    },
+    {
+        "Date": "20171123",
+        "Average temperature": "111",
+        "Minimum temperature": "82",
+        "Maximum temperature": "144"
+    },
+    {
+        "Date": "20171124",
+        "Average temperature": "69",
+        "Minimum temperature": "43",
+        "Maximum temperature": "92"
+    },
+    {
+        "Date": "20171125",
+        "Average temperature": "37",
+        "Minimum temperature": "-6",
+        "Maximum temperature": "74"
+    },
+    {
+        "Date": "20171126",
+        "Average temperature": "53",
+        "Minimum temperature": "30",
+        "Maximum temperature": "80"
+    },
+    {
+        "Date": "20171127",
+        "Average temperature": "67",
+        "Minimum temperature": "47",
+        "Maximum temperature": "91"
+    },
+    {
+        "Date": "20171128",
+        "Average temperature": "54",
+        "Minimum temperature": "12",
+        "Maximum temperature": "78"
+    },
+    {
+        "Date": "20171129",
+        "Average temperature": "29",
+        "Minimum temperature": "6",
+        "Maximum temperature": "40"
+    },
+    {
+        "Date": "20171130",
+        "Average temperature": "15",
+        "Minimum temperature": "-24",
+        "Maximum temperature": "46"
+    },
+    {
+        "Date": "20171201",
+        "Average temperature": "0",
+        "Minimum temperature": "-28",
+        "Maximum temperature": "31"
+    },
+    {
+        "Date": "20171202",
+        "Average temperature": "-4",
+        "Minimum temperature": "-12",
+        "Maximum temperature": "6"
+    },
+    {
+        "Date": "20171203",
+        "Average temperature": "37",
+        "Minimum temperature": "3",
+        "Maximum temperature": "66"
+    },
+    {
+        "Date": "20171204",
+        "Average temperature": "70",
+        "Minimum temperature": "52",
+        "Maximum temperature": "91"
+    },
+    {
+        "Date": "20171205",
+        "Average temperature": "76",
+        "Minimum temperature": "54",
+        "Maximum temperature": "91"
+    },
+    {
+        "Date": "20171206",
+        "Average temperature": "80",
+        "Minimum temperature": "69",
+        "Maximum temperature": "92"
+    },
+    {
+        "Date": "20171207",
+        "Average temperature": "59",
+        "Minimum temperature": "43",
+        "Maximum temperature": "72"
+    },
+    {
+        "Date": "20171208",
+        "Average temperature": "26",
+        "Minimum temperature": "3",
+        "Maximum temperature": "61"
+    },
+    {
+        "Date": "20171209",
+        "Average temperature": "21",
+        "Minimum temperature": "4",
+        "Maximum temperature": "46"
+    },
+    {
+        "Date": "20171210",
+        "Average temperature": "11",
+        "Minimum temperature": "0",
+        "Maximum temperature": "41"
+    },
+    {
+        "Date": "20171211",
+        "Average temperature": "-1",
+        "Minimum temperature": "-29",
+        "Maximum temperature": "16"
+    },
+    {
+        "Date": "20171212",
+        "Average temperature": "18",
+        "Minimum temperature": "3",
+        "Maximum temperature": "41"
+    },
+    {
+        "Date": "20171213",
+        "Average temperature": "40",
+        "Minimum temperature": "8",
+        "Maximum temperature": "64"
+    },
+    {
+        "Date": "20171214",
+        "Average temperature": "33",
+        "Minimum temperature": "4",
+        "Maximum temperature": "54"
+    },
+    {
+        "Date": "20171215",
+        "Average temperature": "26",
+        "Minimum temperature": "-2",
+        "Maximum temperature": "43"
+    },
+    {
+        "Date": "20171216",
+        "Average temperature": "27",
+        "Minimum temperature": "1",
+        "Maximum temperature": "62"
+    },
+    {
+        "Date": "20171217",
+        "Average temperature": "25",
+        "Minimum temperature": "-28",
+        "Maximum temperature": "63"
+    },
+    {
+        "Date": "20171218",
+        "Average temperature": "59",
+        "Minimum temperature": "22",
+        "Maximum temperature": "80"
+    },
+    {
+        "Date": "20171219",
+        "Average temperature": "52",
+        "Minimum temperature": "13",
+        "Maximum temperature": "75"
+    },
+    {
+        "Date": "20171220",
+        "Average temperature": "75",
+        "Minimum temperature": "49",
+        "Maximum temperature": "87"
+    },
+    {
+        "Date": "20171221",
+        "Average temperature": "84",
+        "Minimum temperature": "76",
+        "Maximum temperature": "93"
+    },
+    {
+        "Date": "20171222",
+        "Average temperature": "86",
+        "Minimum temperature": "73",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20171223",
+        "Average temperature": "87",
+        "Minimum temperature": "80",
+        "Maximum temperature": "94"
+    },
+    {
+        "Date": "20171224",
+        "Average temperature": "82",
+        "Minimum temperature": "72",
+        "Maximum temperature": "96"
+    },
+    {
+        "Date": "20171225",
+        "Average temperature": "74",
+        "Minimum temperature": "45",
+        "Maximum temperature": "91"
+    },
+    {
+        "Date": "20171226",
+        "Average temperature": "58",
+        "Minimum temperature": "46",
+        "Maximum temperature": "74"
+    },
+    {
+        "Date": "20171227",
+        "Average temperature": "51",
+        "Minimum temperature": "36",
+        "Maximum temperature": "66"
+    },
+    {
+        "Date": "20171228",
+        "Average temperature": "39",
+        "Minimum temperature": "24",
+        "Maximum temperature": "53"
+    },
+    {
+        "Date": "20171229",
+        "Average temperature": "28",
+        "Minimum temperature": "-7",
+        "Maximum temperature": "67"
+    },
+    {
+        "Date": "20171230",
+        "Average temperature": "88",
+        "Minimum temperature": "39",
+        "Maximum temperature": "122"
+    },
+    {
+        "Date": "20171231",
+        "Average temperature": "106",
+        "Minimum temperature": "85",
+        "Maximum temperature": "137"
+    }
+]

@@ -1,0 +1,850 @@
+[
+    {
+        "HPI Rank": "110",
+        "Country": "Afghanistan",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "59.7",
+        "GDP/capita($PPP)": "691",
+        "Population": "29726803"
+    },
+    {
+        "HPI Rank": "13",
+        "Country": "Albania",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "77.3",
+        "GDP/capita($PPP)": "4247",
+        "Population": "2900489"
+    },
+    {
+        "HPI Rank": "30",
+        "Country": "Algeria",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "74.3",
+        "GDP/capita($PPP)": "5584",
+        "Population": "37439427"
+    },
+    {
+        "HPI Rank": "19",
+        "Country": "Argentina",
+        "Region": "Americas",
+        "Average Life Expectancy": "75.9",
+        "GDP/capita($PPP)": "14357",
+        "Population": "42095224"
+    },
+    {
+        "HPI Rank": "73",
+        "Country": "Armenia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "74.4",
+        "GDP/capita($PPP)": "3566",
+        "Population": "2978339"
+    },
+    {
+        "HPI Rank": "8",
+        "Country": "Bangladesh",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "70.8",
+        "GDP/capita($PPP)": "859",
+        "Population": "155257387"
+    },
+    {
+        "HPI Rank": "102",
+        "Country": "Belarus",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "70.9",
+        "GDP/capita($PPP)": "6722",
+        "Population": "9464000"
+    },
+    {
+        "HPI Rank": "27",
+        "Country": "Belize",
+        "Region": "Americas",
+        "Average Life Expectancy": "69.8",
+        "GDP/capita($PPP)": "4674",
+        "Population": "336707"
+    },
+    {
+        "HPI Rank": "137",
+        "Country": "Benin",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "59.2",
+        "GDP/capita($PPP)": "808",
+        "Population": "10049792"
+    },
+    {
+        "HPI Rank": "56",
+        "Country": "Bhutan",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "68.7",
+        "GDP/capita($PPP)": "2452",
+        "Population": "743711"
+    },
+    {
+        "HPI Rank": "92",
+        "Country": "Bolivia",
+        "Region": "Americas",
+        "Average Life Expectancy": "67.5",
+        "GDP/capita($PPP)": "2645",
+        "Population": "10238762"
+    },
+    {
+        "HPI Rank": "76",
+        "Country": "Bosnia and Herzegovina",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "76.2",
+        "GDP/capita($PPP)": "4495",
+        "Population": "3828419"
+    },
+    {
+        "HPI Rank": "126",
+        "Country": "Botswana",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "64.2",
+        "GDP/capita($PPP)": "6936",
+        "Population": "2132822"
+    },
+    {
+        "HPI Rank": "23",
+        "Country": "Brazil",
+        "Region": "Americas",
+        "Average Life Expectancy": "73.9",
+        "GDP/capita($PPP)": "12157",
+        "Population": "202401584"
+    },
+    {
+        "HPI Rank": "109",
+        "Country": "Bulgaria",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "73.9",
+        "GDP/capita($PPP)": "7333",
+        "Population": "7305888"
+    },
+    {
+        "HPI Rank": "119",
+        "Country": "Burkina Faso",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "58",
+        "GDP/capita($PPP)": "673",
+        "Population": "16590813"
+    },
+    {
+        "HPI Rank": "131",
+        "Country": "Burundi",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "55.8",
+        "GDP/capita($PPP)": "244",
+        "Population": "10124572"
+    },
+    {
+        "HPI Rank": "74",
+        "Country": "Cambodia",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "67.5",
+        "GDP/capita($PPP)": "946",
+        "Population": "14832255"
+    },
+    {
+        "HPI Rank": "124",
+        "Country": "Cameroon",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "54.6",
+        "GDP/capita($PPP)": "1222",
+        "Population": "21659488"
+    },
+    {
+        "HPI Rank": "140",
+        "Country": "Chad",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "50.8",
+        "GDP/capita($PPP)": "973",
+        "Population": "12715465"
+    },
+    {
+        "HPI Rank": "35",
+        "Country": "Chile",
+        "Region": "Americas",
+        "Average Life Expectancy": "81.1",
+        "GDP/capita($PPP)": "15253",
+        "Population": "17388437"
+    },
+    {
+        "HPI Rank": "72",
+        "Country": "China",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "75.4",
+        "GDP/capita($PPP)": "6265",
+        "Population": "1350695000"
+    },
+    {
+        "HPI Rank": "3",
+        "Country": "Colombia",
+        "Region": "Americas",
+        "Average Life Expectancy": "73.7",
+        "GDP/capita($PPP)": "7885",
+        "Population": "46881018"
+    },
+    {
+        "HPI Rank": "93",
+        "Country": "Comoros",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "62.6",
+        "GDP/capita($PPP)": "750",
+        "Population": "733661"
+    },
+    {
+        "HPI Rank": "1",
+        "Country": "Costa Rica",
+        "Region": "Americas",
+        "Average Life Expectancy": "79.1",
+        "GDP/capita($PPP)": "9733",
+        "Population": "4654148"
+    },
+    {
+        "HPI Rank": "135",
+        "Country": "Cote d'Ivoire",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "50.8",
+        "GDP/capita($PPP)": "1281",
+        "Population": "21102641"
+    },
+    {
+        "HPI Rank": "47",
+        "Country": "Croatia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "77",
+        "GDP/capita($PPP)": "13236",
+        "Population": "4267558"
+    },
+    {
+        "HPI Rank": "127",
+        "Country": "Djibouti",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "61.3",
+        "GDP/capita($PPP)": "1587",
+        "Population": "853069"
+    },
+    {
+        "HPI Rank": "45",
+        "Country": "Dominican Republic",
+        "Region": "Americas",
+        "Average Life Expectancy": "73.1",
+        "GDP/capita($PPP)": "5967",
+        "Population": "10155036"
+    },
+    {
+        "HPI Rank": "10",
+        "Country": "Ecuador",
+        "Region": "Americas",
+        "Average Life Expectancy": "75.4",
+        "GDP/capita($PPP)": "5702",
+        "Population": "15419493"
+    },
+    {
+        "HPI Rank": "86",
+        "Country": "Egypt",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "70.7",
+        "GDP/capita($PPP)": "3226",
+        "Population": "85660902"
+    },
+    {
+        "HPI Rank": "17",
+        "Country": "El Salvador",
+        "Region": "Americas",
+        "Average Life Expectancy": "72.5",
+        "GDP/capita($PPP)": "3922",
+        "Population": "6072233"
+    },
+    {
+        "HPI Rank": "66",
+        "Country": "Ethiopia",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "62.8",
+        "GDP/capita($PPP)": "470",
+        "Population": "92191211"
+    },
+    {
+        "HPI Rank": "120",
+        "Country": "Gabon",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "63.3",
+        "GDP/capita($PPP)": "10642",
+        "Population": "1613489"
+    },
+    {
+        "HPI Rank": "40",
+        "Country": "Georgia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "74.6",
+        "GDP/capita($PPP)": "4143",
+        "Population": "3825000"
+    },
+    {
+        "HPI Rank": "104",
+        "Country": "Ghana",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "61",
+        "GDP/capita($PPP)": "1642",
+        "Population": "25544565"
+    },
+    {
+        "HPI Rank": "26",
+        "Country": "Guatemala",
+        "Region": "Americas",
+        "Average Life Expectancy": "71.4",
+        "GDP/capita($PPP)": "3279",
+        "Population": "15368759"
+    },
+    {
+        "HPI Rank": "129",
+        "Country": "Guinea",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "57.7",
+        "GDP/capita($PPP)": "487",
+        "Population": "11628767"
+    },
+    {
+        "HPI Rank": "57",
+        "Country": "Haiti",
+        "Region": "Americas",
+        "Average Life Expectancy": "62.1",
+        "GDP/capita($PPP)": "767",
+        "Population": "10288828"
+    },
+    {
+        "HPI Rank": "65",
+        "Country": "Honduras",
+        "Region": "Americas",
+        "Average Life Expectancy": "72.8",
+        "GDP/capita($PPP)": "2395",
+        "Population": "7736131"
+    },
+    {
+        "HPI Rank": "69",
+        "Country": "Hungary",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "74.9",
+        "GDP/capita($PPP)": "12820",
+        "Population": "9920362"
+    },
+    {
+        "HPI Rank": "50",
+        "Country": "India",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "67.3",
+        "GDP/capita($PPP)": "1450",
+        "Population": "1263589639"
+    },
+    {
+        "HPI Rank": "16",
+        "Country": "Indonesia",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "68.5",
+        "GDP/capita($PPP)": "3701",
+        "Population": "248037853"
+    },
+    {
+        "HPI Rank": "84",
+        "Country": "Iran",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "74.8",
+        "GDP/capita($PPP)": "7711",
+        "Population": "76156975"
+    },
+    {
+        "HPI Rank": "67",
+        "Country": "Iraq",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "69",
+        "GDP/capita($PPP)": "6649",
+        "Population": "32780975"
+    },
+    {
+        "HPI Rank": "11",
+        "Country": "Jamaica",
+        "Region": "Americas",
+        "Average Life Expectancy": "75.3",
+        "GDP/capita($PPP)": "5446",
+        "Population": "2707805"
+    },
+    {
+        "HPI Rank": "114",
+        "Country": "Kazakhstan",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "68.6",
+        "GDP/capita($PPP)": "12120",
+        "Population": "16791425"
+    },
+    {
+        "HPI Rank": "83",
+        "Country": "Kenya",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "60.3",
+        "GDP/capita($PPP)": "1185",
+        "Population": "42542978"
+    },
+    {
+        "HPI Rank": "31",
+        "Country": "Kyrgyzstan",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "69.7",
+        "GDP/capita($PPP)": "1178",
+        "Population": "5607200"
+    },
+    {
+        "HPI Rank": "121",
+        "Country": "Latvia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "73.6",
+        "GDP/capita($PPP)": "13775",
+        "Population": "2034319"
+    },
+    {
+        "HPI Rank": "100",
+        "Country": "Lebanon",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "78.8",
+        "GDP/capita($PPP)": "9729",
+        "Population": "4440728"
+    },
+    {
+        "HPI Rank": "125",
+        "Country": "Lesotho",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "48.9",
+        "GDP/capita($PPP)": "1159",
+        "Population": "2057331"
+    },
+    {
+        "HPI Rank": "96",
+        "Country": "Liberia",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "60.2",
+        "GDP/capita($PPP)": "414",
+        "Population": "4190155"
+    },
+    {
+        "HPI Rank": "107",
+        "Country": "Lithuania",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "72.8",
+        "GDP/capita($PPP)": "14343",
+        "Population": "2987773"
+    },
+    {
+        "HPI Rank": "90",
+        "Country": "Macedonia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "75.1",
+        "GDP/capita($PPP)": "4710",
+        "Population": "2069270"
+    },
+    {
+        "HPI Rank": "98",
+        "Country": "Malawi",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "60.1",
+        "GDP/capita($PPP)": "270",
+        "Population": "15700436"
+    },
+    {
+        "HPI Rank": "46",
+        "Country": "Malaysia",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "74.4",
+        "GDP/capita($PPP)": "10835",
+        "Population": "29021940"
+    },
+    {
+        "HPI Rank": "117",
+        "Country": "Mauritania",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "62.6",
+        "GDP/capita($PPP)": "1283",
+        "Population": "3777067"
+    },
+    {
+        "HPI Rank": "63",
+        "Country": "Mauritius",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "74",
+        "GDP/capita($PPP)": "9114",
+        "Population": "1255882"
+    },
+    {
+        "HPI Rank": "2",
+        "Country": "Mexico",
+        "Region": "Americas",
+        "Average Life Expectancy": "76.4",
+        "GDP/capita($PPP)": "9703",
+        "Population": "122070963"
+    },
+    {
+        "HPI Rank": "136",
+        "Country": "Mongolia",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "68.6",
+        "GDP/capita($PPP)": "4377",
+        "Population": "2808339"
+    },
+    {
+        "HPI Rank": "78",
+        "Country": "Montenegro",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "75.8",
+        "GDP/capita($PPP)": "6587",
+        "Population": "620601"
+    },
+    {
+        "HPI Rank": "33",
+        "Country": "Morocco",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "73.4",
+        "GDP/capita($PPP)": "2931",
+        "Population": "32984190"
+    },
+    {
+        "HPI Rank": "88",
+        "Country": "Mozambique",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "54.3",
+        "GDP/capita($PPP)": "565",
+        "Population": "25732928"
+    },
+    {
+        "HPI Rank": "81",
+        "Country": "Myanmar",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "65.5",
+        "GDP/capita($PPP)": "1421",
+        "Population": "52543841"
+    },
+    {
+        "HPI Rank": "103",
+        "Country": "Namibia",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "64",
+        "GDP/capita($PPP)": "5680",
+        "Population": "2291645"
+    },
+    {
+        "HPI Rank": "42",
+        "Country": "Nepal",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "68.8",
+        "GDP/capita($PPP)": "685",
+        "Population": "27500515"
+    },
+    {
+        "HPI Rank": "7",
+        "Country": "Nicaragua",
+        "Region": "Americas",
+        "Average Life Expectancy": "74.3",
+        "GDP/capita($PPP)": "1780",
+        "Population": "5877034"
+    },
+    {
+        "HPI Rank": "122",
+        "Country": "Niger",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "60",
+        "GDP/capita($PPP)": "394",
+        "Population": "17635782"
+    },
+    {
+        "HPI Rank": "95",
+        "Country": "Nigeria",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "52.1",
+        "GDP/capita($PPP)": "2740",
+        "Population": "168240403"
+    },
+    {
+        "HPI Rank": "36",
+        "Country": "Pakistan",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "65.7",
+        "GDP/capita($PPP)": "1266",
+        "Population": "177392252"
+    },
+    {
+        "HPI Rank": "22",
+        "Country": "Palestine",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "72.6",
+        "GDP/capita($PPP)": "2783",
+        "Population": "4046901"
+    },
+    {
+        "HPI Rank": "6",
+        "Country": "Panama",
+        "Region": "Americas",
+        "Average Life Expectancy": "77.2",
+        "GDP/capita($PPP)": "10139",
+        "Population": "3743761"
+    },
+    {
+        "HPI Rank": "91",
+        "Country": "Paraguay",
+        "Region": "Americas",
+        "Average Life Expectancy": "72.6",
+        "GDP/capita($PPP)": "3858",
+        "Population": "6379162"
+    },
+    {
+        "HPI Rank": "21",
+        "Country": "Peru",
+        "Region": "Americas",
+        "Average Life Expectancy": "74.1",
+        "GDP/capita($PPP)": "6389",
+        "Population": "30158768"
+    },
+    {
+        "HPI Rank": "20",
+        "Country": "Philippines",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "67.9",
+        "GDP/capita($PPP)": "2605",
+        "Population": "96017322"
+    },
+    {
+        "HPI Rank": "62",
+        "Country": "Poland",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "76.9",
+        "GDP/capita($PPP)": "13142",
+        "Population": "38063164"
+    },
+    {
+        "HPI Rank": "115",
+        "Country": "Republic of Congo",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "61",
+        "GDP/capita($PPP)": "3191",
+        "Population": "4286188"
+    },
+    {
+        "HPI Rank": "55",
+        "Country": "Romania",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "74.3",
+        "GDP/capita($PPP)": "8577",
+        "Population": "20058035"
+    },
+    {
+        "HPI Rank": "116",
+        "Country": "Russia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "69.5",
+        "GDP/capita($PPP)": "14079",
+        "Population": "143201676"
+    },
+    {
+        "HPI Rank": "111",
+        "Country": "Rwanda",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "63.1",
+        "GDP/capita($PPP)": "667",
+        "Population": "10817350"
+    },
+    {
+        "HPI Rank": "101",
+        "Country": "Senegal",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "65.4",
+        "GDP/capita($PPP)": "1019",
+        "Population": "13780108"
+    },
+    {
+        "HPI Rank": "52",
+        "Country": "Serbia",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "74.5",
+        "GDP/capita($PPP)": "5659",
+        "Population": "7199077"
+    },
+    {
+        "HPI Rank": "133",
+        "Country": "Sierra Leone",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "49.8",
+        "GDP/capita($PPP)": "619",
+        "Population": "6043157"
+    },
+    {
+        "HPI Rank": "128",
+        "Country": "South Africa",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "56.3",
+        "GDP/capita($PPP)": "7592",
+        "Population": "52341695"
+    },
+    {
+        "HPI Rank": "28",
+        "Country": "Sri Lanka",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "74.6",
+        "GDP/capita($PPP)": "3351",
+        "Population": "20424000"
+    },
+    {
+        "HPI Rank": "75",
+        "Country": "Suriname",
+        "Region": "Americas",
+        "Average Life Expectancy": "70.8",
+        "GDP/capita($PPP)": "9422",
+        "Population": "528535"
+    },
+    {
+        "HPI Rank": "132",
+        "Country": "Swaziland",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "48.9",
+        "GDP/capita($PPP)": "3989",
+        "Population": "1231694"
+    },
+    {
+        "HPI Rank": "113",
+        "Country": "Syria",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "70.4",
+        "GDP/capita($PPP)": "2080",
+        "Population": "21427155"
+    },
+    {
+        "HPI Rank": "25",
+        "Country": "Tajikistan",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "69",
+        "GDP/capita($PPP)": "962",
+        "Population": "7930929"
+    },
+    {
+        "HPI Rank": "97",
+        "Country": "Tanzania",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "63.5",
+        "GDP/capita($PPP)": "828",
+        "Population": "48645709"
+    },
+    {
+        "HPI Rank": "9",
+        "Country": "Thailand",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "74.1",
+        "GDP/capita($PPP)": "5918",
+        "Population": "67164130"
+    },
+    {
+        "HPI Rank": "138",
+        "Country": "Togo",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "58.6",
+        "GDP/capita($PPP)": "580",
+        "Population": "6745581"
+    },
+    {
+        "HPI Rank": "71",
+        "Country": "Tunisia",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "74.6",
+        "GDP/capita($PPP)": "4188",
+        "Population": "10777500"
+    },
+    {
+        "HPI Rank": "68",
+        "Country": "Turkey",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "74.7",
+        "GDP/capita($PPP)": "10646",
+        "Population": "74099255"
+    },
+    {
+        "HPI Rank": "134",
+        "Country": "Turkmenistan",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "65.3",
+        "GDP/capita($PPP)": "6798",
+        "Population": "5172941"
+    },
+    {
+        "HPI Rank": "112",
+        "Country": "Uganda",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "57.1",
+        "GDP/capita($PPP)": "656",
+        "Population": "35400620"
+    },
+    {
+        "HPI Rank": "70",
+        "Country": "Ukraine",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "70.3",
+        "GDP/capita($PPP)": "3855",
+        "Population": "45593300"
+    },
+    {
+        "HPI Rank": "14",
+        "Country": "Uruguay",
+        "Region": "Americas",
+        "Average Life Expectancy": "76.9",
+        "GDP/capita($PPP)": "15128",
+        "Population": "3396753"
+    },
+    {
+        "HPI Rank": "51",
+        "Country": "Uzbekistan",
+        "Region": "Post-communist",
+        "Average Life Expectancy": "68.2",
+        "GDP/capita($PPP)": "1719",
+        "Population": "29774500"
+    },
+    {
+        "HPI Rank": "4",
+        "Country": "Vanuatu",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "71.3",
+        "GDP/capita($PPP)": "3158",
+        "Population": "247498"
+    },
+    {
+        "HPI Rank": "29",
+        "Country": "Venezuela",
+        "Region": "Americas",
+        "Average Life Expectancy": "73.9",
+        "GDP/capita($PPP)": "12772",
+        "Population": "29854238"
+    },
+    {
+        "HPI Rank": "5",
+        "Country": "Vietnam",
+        "Region": "Asia Pacific",
+        "Average Life Expectancy": "75.5",
+        "GDP/capita($PPP)": "1755",
+        "Population": "88809200"
+    },
+    {
+        "HPI Rank": "94",
+        "Country": "Yemen",
+        "Region": "Middle East and North Africa",
+        "Average Life Expectancy": "63.3",
+        "GDP/capita($PPP)": "1289",
+        "Population": "24882792"
+    },
+    {
+        "HPI Rank": "77",
+        "Country": "Zambia",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "58.4",
+        "GDP/capita($PPP)": "1687",
+        "Population": "14786581"
+    },
+    {
+        "HPI Rank": "99",
+        "Country": "Zimbabwe",
+        "Region": "Sub Saharan Africa",
+        "Average Life Expectancy": "53.7",
+        "GDP/capita($PPP)": "851",
+        "Population": "14565482"
+    }
+]
