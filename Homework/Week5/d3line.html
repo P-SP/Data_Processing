@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--Puja Chandrikasingh
-Data Processing - Week 4 for week 5
+Data Processing - Week 5
 -->
 
 <html>
@@ -9,13 +9,22 @@ Data Processing - Week 4 for week 5
 
         <title>Data Processing - Week 5</title>
 			
-		<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<link rel='stylesheet' type='text/css' href='d3line.css'>
+		
+		<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
 		<script src="d3line.js"></script>
 		
     </head>
     <body>
+		<p> Select a year: 
+		<select id="selectedYear">
+			<option value="1997">1997</option>
+			<option value="2007">2007</option>
+			<option value="2017">2017</option>
+		</select></p>
+		
+		<svg class="chart", width="950", height="520"></svg>
 		<p>Puja Chandrikasingh </br>
-		See the console for the loaded data. </br>
 		Source: 
 		<a href="http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi">
 		KNMI, De Bilt</a></p>

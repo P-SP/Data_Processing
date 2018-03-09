@@ -1,0 +1,33 @@
+/* CSS file for graph
+** Puja Chandrikasingh
+*/
+
+p {
+	font: 10px sans-serif;
+}
+
+.title {
+	font: 20px sans-serif;
+}
+
+.subtitle {
+	font: 15px sans-serif;
+}
+
+.line-date {
+	font: 10px sans-serif;
+}
+
+.mouse-per-line text {
+	font: 10px sans-serif;
+}
+
+.legendText {
+	font: 10px sans-serif;
+}
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+  

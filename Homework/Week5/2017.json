@@ -1,0 +1,4397 @@
+[
+    {
+        "z": "Average temperature",
+        "values": [
+            {
+                "date": "20170101",
+                "temperature": "5"
+            },
+            {
+                "date": "20170102",
+                "temperature": "30"
+            },
+            {
+                "date": "20170103",
+                "temperature": "50"
+            },
+            {
+                "date": "20170104",
+                "temperature": "58"
+            },
+            {
+                "date": "20170105",
+                "temperature": "0"
+            },
+            {
+                "date": "20170106",
+                "temperature": "-30"
+            },
+            {
+                "date": "20170107",
+                "temperature": "-2"
+            },
+            {
+                "date": "20170108",
+                "temperature": "43"
+            },
+            {
+                "date": "20170109",
+                "temperature": "48"
+            },
+            {
+                "date": "20170110",
+                "temperature": "53"
+            },
+            {
+                "date": "20170111",
+                "temperature": "72"
+            },
+            {
+                "date": "20170112",
+                "temperature": "52"
+            },
+            {
+                "date": "20170113",
+                "temperature": "31"
+            },
+            {
+                "date": "20170114",
+                "temperature": "18"
+            },
+            {
+                "date": "20170115",
+                "temperature": "7"
+            },
+            {
+                "date": "20170116",
+                "temperature": "-16"
+            },
+            {
+                "date": "20170117",
+                "temperature": "-34"
+            },
+            {
+                "date": "20170118",
+                "temperature": "-38"
+            },
+            {
+                "date": "20170119",
+                "temperature": "-20"
+            },
+            {
+                "date": "20170120",
+                "temperature": "-3"
+            },
+            {
+                "date": "20170121",
+                "temperature": "-2"
+            },
+            {
+                "date": "20170122",
+                "temperature": "-17"
+            },
+            {
+                "date": "20170123",
+                "temperature": "16"
+            },
+            {
+                "date": "20170124",
+                "temperature": "8"
+            },
+            {
+                "date": "20170125",
+                "temperature": "-11"
+            },
+            {
+                "date": "20170126",
+                "temperature": "-28"
+            },
+            {
+                "date": "20170127",
+                "temperature": "8"
+            },
+            {
+                "date": "20170128",
+                "temperature": "54"
+            },
+            {
+                "date": "20170129",
+                "temperature": "47"
+            },
+            {
+                "date": "20170130",
+                "temperature": "49"
+            },
+            {
+                "date": "20170131",
+                "temperature": "37"
+            },
+            {
+                "date": "20170201",
+                "temperature": "34"
+            },
+            {
+                "date": "20170202",
+                "temperature": "86"
+            },
+            {
+                "date": "20170203",
+                "temperature": "86"
+            },
+            {
+                "date": "20170204",
+                "temperature": "57"
+            },
+            {
+                "date": "20170205",
+                "temperature": "44"
+            },
+            {
+                "date": "20170206",
+                "temperature": "43"
+            },
+            {
+                "date": "20170207",
+                "temperature": "24"
+            },
+            {
+                "date": "20170208",
+                "temperature": "0"
+            },
+            {
+                "date": "20170209",
+                "temperature": "-16"
+            },
+            {
+                "date": "20170210",
+                "temperature": "-23"
+            },
+            {
+                "date": "20170211",
+                "temperature": "-4"
+            },
+            {
+                "date": "20170212",
+                "temperature": "7"
+            },
+            {
+                "date": "20170213",
+                "temperature": "22"
+            },
+            {
+                "date": "20170214",
+                "temperature": "38"
+            },
+            {
+                "date": "20170215",
+                "temperature": "74"
+            },
+            {
+                "date": "20170216",
+                "temperature": "68"
+            },
+            {
+                "date": "20170217",
+                "temperature": "70"
+            },
+            {
+                "date": "20170218",
+                "temperature": "56"
+            },
+            {
+                "date": "20170219",
+                "temperature": "62"
+            },
+            {
+                "date": "20170220",
+                "temperature": "91"
+            },
+            {
+                "date": "20170221",
+                "temperature": "96"
+            },
+            {
+                "date": "20170222",
+                "temperature": "95"
+            },
+            {
+                "date": "20170223",
+                "temperature": "80"
+            },
+            {
+                "date": "20170224",
+                "temperature": "45"
+            },
+            {
+                "date": "20170225",
+                "temperature": "58"
+            },
+            {
+                "date": "20170226",
+                "temperature": "87"
+            },
+            {
+                "date": "20170227",
+                "temperature": "87"
+            },
+            {
+                "date": "20170228",
+                "temperature": "47"
+            },
+            {
+                "date": "20170301",
+                "temperature": "63"
+            },
+            {
+                "date": "20170302",
+                "temperature": "66"
+            },
+            {
+                "date": "20170303",
+                "temperature": "59"
+            },
+            {
+                "date": "20170304",
+                "temperature": "92"
+            },
+            {
+                "date": "20170305",
+                "temperature": "69"
+            },
+            {
+                "date": "20170306",
+                "temperature": "60"
+            },
+            {
+                "date": "20170307",
+                "temperature": "67"
+            },
+            {
+                "date": "20170308",
+                "temperature": "59"
+            },
+            {
+                "date": "20170309",
+                "temperature": "77"
+            },
+            {
+                "date": "20170310",
+                "temperature": "65"
+            },
+            {
+                "date": "20170311",
+                "temperature": "73"
+            },
+            {
+                "date": "20170312",
+                "temperature": "79"
+            },
+            {
+                "date": "20170313",
+                "temperature": "65"
+            },
+            {
+                "date": "20170314",
+                "temperature": "88"
+            },
+            {
+                "date": "20170315",
+                "temperature": "90"
+            },
+            {
+                "date": "20170316",
+                "temperature": "94"
+            },
+            {
+                "date": "20170317",
+                "temperature": "83"
+            },
+            {
+                "date": "20170318",
+                "temperature": "97"
+            },
+            {
+                "date": "20170319",
+                "temperature": "113"
+            },
+            {
+                "date": "20170320",
+                "temperature": "103"
+            },
+            {
+                "date": "20170321",
+                "temperature": "75"
+            },
+            {
+                "date": "20170322",
+                "temperature": "63"
+            },
+            {
+                "date": "20170323",
+                "temperature": "82"
+            },
+            {
+                "date": "20170324",
+                "temperature": "84"
+            },
+            {
+                "date": "20170325",
+                "temperature": "85"
+            },
+            {
+                "date": "20170326",
+                "temperature": "80"
+            },
+            {
+                "date": "20170327",
+                "temperature": "92"
+            },
+            {
+                "date": "20170328",
+                "temperature": "113"
+            },
+            {
+                "date": "20170329",
+                "temperature": "126"
+            },
+            {
+                "date": "20170330",
+                "temperature": "157"
+            },
+            {
+                "date": "20170331",
+                "temperature": "145"
+            },
+            {
+                "date": "20170401",
+                "temperature": "108"
+            },
+            {
+                "date": "20170402",
+                "temperature": "103"
+            },
+            {
+                "date": "20170403",
+                "temperature": "81"
+            },
+            {
+                "date": "20170404",
+                "temperature": "98"
+            },
+            {
+                "date": "20170405",
+                "temperature": "92"
+            },
+            {
+                "date": "20170406",
+                "temperature": "81"
+            },
+            {
+                "date": "20170407",
+                "temperature": "105"
+            },
+            {
+                "date": "20170408",
+                "temperature": "96"
+            },
+            {
+                "date": "20170409",
+                "temperature": "117"
+            },
+            {
+                "date": "20170410",
+                "temperature": "98"
+            },
+            {
+                "date": "20170411",
+                "temperature": "96"
+            },
+            {
+                "date": "20170412",
+                "temperature": "98"
+            },
+            {
+                "date": "20170413",
+                "temperature": "93"
+            },
+            {
+                "date": "20170414",
+                "temperature": "99"
+            },
+            {
+                "date": "20170415",
+                "temperature": "96"
+            },
+            {
+                "date": "20170416",
+                "temperature": "79"
+            },
+            {
+                "date": "20170417",
+                "temperature": "65"
+            },
+            {
+                "date": "20170418",
+                "temperature": "61"
+            },
+            {
+                "date": "20170419",
+                "temperature": "39"
+            },
+            {
+                "date": "20170420",
+                "temperature": "69"
+            },
+            {
+                "date": "20170421",
+                "temperature": "111"
+            },
+            {
+                "date": "20170422",
+                "temperature": "78"
+            },
+            {
+                "date": "20170423",
+                "temperature": "66"
+            },
+            {
+                "date": "20170424",
+                "temperature": "93"
+            },
+            {
+                "date": "20170425",
+                "temperature": "59"
+            },
+            {
+                "date": "20170426",
+                "temperature": "50"
+            },
+            {
+                "date": "20170427",
+                "temperature": "61"
+            },
+            {
+                "date": "20170428",
+                "temperature": "76"
+            },
+            {
+                "date": "20170429",
+                "temperature": "76"
+            },
+            {
+                "date": "20170430",
+                "temperature": "123"
+            },
+            {
+                "date": "20170501",
+                "temperature": "117"
+            },
+            {
+                "date": "20170502",
+                "temperature": "100"
+            },
+            {
+                "date": "20170503",
+                "temperature": "107"
+            },
+            {
+                "date": "20170504",
+                "temperature": "104"
+            },
+            {
+                "date": "20170505",
+                "temperature": "89"
+            },
+            {
+                "date": "20170506",
+                "temperature": "128"
+            },
+            {
+                "date": "20170507",
+                "temperature": "117"
+            },
+            {
+                "date": "20170508",
+                "temperature": "97"
+            },
+            {
+                "date": "20170509",
+                "temperature": "80"
+            },
+            {
+                "date": "20170510",
+                "temperature": "90"
+            },
+            {
+                "date": "20170511",
+                "temperature": "154"
+            },
+            {
+                "date": "20170512",
+                "temperature": "155"
+            },
+            {
+                "date": "20170513",
+                "temperature": "140"
+            },
+            {
+                "date": "20170514",
+                "temperature": "134"
+            },
+            {
+                "date": "20170515",
+                "temperature": "149"
+            },
+            {
+                "date": "20170516",
+                "temperature": "204"
+            },
+            {
+                "date": "20170517",
+                "temperature": "223"
+            },
+            {
+                "date": "20170518",
+                "temperature": "165"
+            },
+            {
+                "date": "20170519",
+                "temperature": "136"
+            },
+            {
+                "date": "20170520",
+                "temperature": "125"
+            },
+            {
+                "date": "20170521",
+                "temperature": "144"
+            },
+            {
+                "date": "20170522",
+                "temperature": "176"
+            },
+            {
+                "date": "20170523",
+                "temperature": "161"
+            },
+            {
+                "date": "20170524",
+                "temperature": "159"
+            },
+            {
+                "date": "20170525",
+                "temperature": "174"
+            },
+            {
+                "date": "20170526",
+                "temperature": "203"
+            },
+            {
+                "date": "20170527",
+                "temperature": "229"
+            },
+            {
+                "date": "20170528",
+                "temperature": "205"
+            },
+            {
+                "date": "20170529",
+                "temperature": "219"
+            },
+            {
+                "date": "20170530",
+                "temperature": "183"
+            },
+            {
+                "date": "20170531",
+                "temperature": "174"
+            },
+            {
+                "date": "20170601",
+                "temperature": "166"
+            },
+            {
+                "date": "20170602",
+                "temperature": "198"
+            },
+            {
+                "date": "20170603",
+                "temperature": "184"
+            },
+            {
+                "date": "20170604",
+                "temperature": "154"
+            },
+            {
+                "date": "20170605",
+                "temperature": "171"
+            },
+            {
+                "date": "20170606",
+                "temperature": "141"
+            },
+            {
+                "date": "20170607",
+                "temperature": "140"
+            },
+            {
+                "date": "20170608",
+                "temperature": "168"
+            },
+            {
+                "date": "20170609",
+                "temperature": "165"
+            },
+            {
+                "date": "20170610",
+                "temperature": "178"
+            },
+            {
+                "date": "20170611",
+                "temperature": "199"
+            },
+            {
+                "date": "20170612",
+                "temperature": "161"
+            },
+            {
+                "date": "20170613",
+                "temperature": "163"
+            },
+            {
+                "date": "20170614",
+                "temperature": "174"
+            },
+            {
+                "date": "20170615",
+                "temperature": "200"
+            },
+            {
+                "date": "20170616",
+                "temperature": "162"
+            },
+            {
+                "date": "20170617",
+                "temperature": "186"
+            },
+            {
+                "date": "20170618",
+                "temperature": "208"
+            },
+            {
+                "date": "20170619",
+                "temperature": "236"
+            },
+            {
+                "date": "20170620",
+                "temperature": "216"
+            },
+            {
+                "date": "20170621",
+                "temperature": "214"
+            },
+            {
+                "date": "20170622",
+                "temperature": "229"
+            },
+            {
+                "date": "20170623",
+                "temperature": "196"
+            },
+            {
+                "date": "20170624",
+                "temperature": "171"
+            },
+            {
+                "date": "20170625",
+                "temperature": "175"
+            },
+            {
+                "date": "20170626",
+                "temperature": "168"
+            },
+            {
+                "date": "20170627",
+                "temperature": "173"
+            },
+            {
+                "date": "20170628",
+                "temperature": "180"
+            },
+            {
+                "date": "20170629",
+                "temperature": "175"
+            },
+            {
+                "date": "20170630",
+                "temperature": "162"
+            },
+            {
+                "date": "20170701",
+                "temperature": "161"
+            },
+            {
+                "date": "20170702",
+                "temperature": "156"
+            },
+            {
+                "date": "20170703",
+                "temperature": "166"
+            },
+            {
+                "date": "20170704",
+                "temperature": "186"
+            },
+            {
+                "date": "20170705",
+                "temperature": "190"
+            },
+            {
+                "date": "20170706",
+                "temperature": "199"
+            },
+            {
+                "date": "20170707",
+                "temperature": "206"
+            },
+            {
+                "date": "20170708",
+                "temperature": "186"
+            },
+            {
+                "date": "20170709",
+                "temperature": "172"
+            },
+            {
+                "date": "20170710",
+                "temperature": "196"
+            },
+            {
+                "date": "20170711",
+                "temperature": "177"
+            },
+            {
+                "date": "20170712",
+                "temperature": "149"
+            },
+            {
+                "date": "20170713",
+                "temperature": "146"
+            },
+            {
+                "date": "20170714",
+                "temperature": "142"
+            },
+            {
+                "date": "20170715",
+                "temperature": "172"
+            },
+            {
+                "date": "20170716",
+                "temperature": "186"
+            },
+            {
+                "date": "20170717",
+                "temperature": "186"
+            },
+            {
+                "date": "20170718",
+                "temperature": "199"
+            },
+            {
+                "date": "20170719",
+                "temperature": "235"
+            },
+            {
+                "date": "20170720",
+                "temperature": "191"
+            },
+            {
+                "date": "20170721",
+                "temperature": "182"
+            },
+            {
+                "date": "20170722",
+                "temperature": "194"
+            },
+            {
+                "date": "20170723",
+                "temperature": "160"
+            },
+            {
+                "date": "20170724",
+                "temperature": "161"
+            },
+            {
+                "date": "20170725",
+                "temperature": "167"
+            },
+            {
+                "date": "20170726",
+                "temperature": "190"
+            },
+            {
+                "date": "20170727",
+                "temperature": "185"
+            },
+            {
+                "date": "20170728",
+                "temperature": "172"
+            },
+            {
+                "date": "20170729",
+                "temperature": "182"
+            },
+            {
+                "date": "20170730",
+                "temperature": "188"
+            },
+            {
+                "date": "20170731",
+                "temperature": "181"
+            },
+            {
+                "date": "20170801",
+                "temperature": "178"
+            },
+            {
+                "date": "20170802",
+                "temperature": "176"
+            },
+            {
+                "date": "20170803",
+                "temperature": "190"
+            },
+            {
+                "date": "20170804",
+                "temperature": "183"
+            },
+            {
+                "date": "20170805",
+                "temperature": "159"
+            },
+            {
+                "date": "20170806",
+                "temperature": "158"
+            },
+            {
+                "date": "20170807",
+                "temperature": "168"
+            },
+            {
+                "date": "20170808",
+                "temperature": "162"
+            },
+            {
+                "date": "20170809",
+                "temperature": "167"
+            },
+            {
+                "date": "20170810",
+                "temperature": "157"
+            },
+            {
+                "date": "20170811",
+                "temperature": "167"
+            },
+            {
+                "date": "20170812",
+                "temperature": "168"
+            },
+            {
+                "date": "20170813",
+                "temperature": "162"
+            },
+            {
+                "date": "20170814",
+                "temperature": "179"
+            },
+            {
+                "date": "20170815",
+                "temperature": "179"
+            },
+            {
+                "date": "20170816",
+                "temperature": "176"
+            },
+            {
+                "date": "20170817",
+                "temperature": "173"
+            },
+            {
+                "date": "20170818",
+                "temperature": "169"
+            },
+            {
+                "date": "20170819",
+                "temperature": "154"
+            },
+            {
+                "date": "20170820",
+                "temperature": "158"
+            },
+            {
+                "date": "20170821",
+                "temperature": "159"
+            },
+            {
+                "date": "20170822",
+                "temperature": "182"
+            },
+            {
+                "date": "20170823",
+                "temperature": "196"
+            },
+            {
+                "date": "20170824",
+                "temperature": "179"
+            },
+            {
+                "date": "20170825",
+                "temperature": "169"
+            },
+            {
+                "date": "20170826",
+                "temperature": "182"
+            },
+            {
+                "date": "20170827",
+                "temperature": "178"
+            },
+            {
+                "date": "20170828",
+                "temperature": "187"
+            },
+            {
+                "date": "20170829",
+                "temperature": "210"
+            },
+            {
+                "date": "20170830",
+                "temperature": "178"
+            },
+            {
+                "date": "20170831",
+                "temperature": "144"
+            },
+            {
+                "date": "20170901",
+                "temperature": "147"
+            },
+            {
+                "date": "20170902",
+                "temperature": "133"
+            },
+            {
+                "date": "20170903",
+                "temperature": "130"
+            },
+            {
+                "date": "20170904",
+                "temperature": "158"
+            },
+            {
+                "date": "20170905",
+                "temperature": "186"
+            },
+            {
+                "date": "20170906",
+                "temperature": "159"
+            },
+            {
+                "date": "20170907",
+                "temperature": "156"
+            },
+            {
+                "date": "20170908",
+                "temperature": "151"
+            },
+            {
+                "date": "20170909",
+                "temperature": "132"
+            },
+            {
+                "date": "20170910",
+                "temperature": "139"
+            },
+            {
+                "date": "20170911",
+                "temperature": "141"
+            },
+            {
+                "date": "20170912",
+                "temperature": "146"
+            },
+            {
+                "date": "20170913",
+                "temperature": "141"
+            },
+            {
+                "date": "20170914",
+                "temperature": "117"
+            },
+            {
+                "date": "20170915",
+                "temperature": "125"
+            },
+            {
+                "date": "20170916",
+                "temperature": "106"
+            },
+            {
+                "date": "20170917",
+                "temperature": "108"
+            },
+            {
+                "date": "20170918",
+                "temperature": "120"
+            },
+            {
+                "date": "20170919",
+                "temperature": "120"
+            },
+            {
+                "date": "20170920",
+                "temperature": "135"
+            },
+            {
+                "date": "20170921",
+                "temperature": "134"
+            },
+            {
+                "date": "20170922",
+                "temperature": "119"
+            },
+            {
+                "date": "20170923",
+                "temperature": "109"
+            },
+            {
+                "date": "20170924",
+                "temperature": "121"
+            },
+            {
+                "date": "20170925",
+                "temperature": "142"
+            },
+            {
+                "date": "20170926",
+                "temperature": "132"
+            },
+            {
+                "date": "20170927",
+                "temperature": "136"
+            },
+            {
+                "date": "20170928",
+                "temperature": "158"
+            },
+            {
+                "date": "20170929",
+                "temperature": "171"
+            },
+            {
+                "date": "20170930",
+                "temperature": "131"
+            },
+            {
+                "date": "20171001",
+                "temperature": "141"
+            },
+            {
+                "date": "20171002",
+                "temperature": "156"
+            },
+            {
+                "date": "20171003",
+                "temperature": "136"
+            },
+            {
+                "date": "20171004",
+                "temperature": "130"
+            },
+            {
+                "date": "20171005",
+                "temperature": "129"
+            },
+            {
+                "date": "20171006",
+                "temperature": "116"
+            },
+            {
+                "date": "20171007",
+                "temperature": "122"
+            },
+            {
+                "date": "20171008",
+                "temperature": "121"
+            },
+            {
+                "date": "20171009",
+                "temperature": "121"
+            },
+            {
+                "date": "20171010",
+                "temperature": "143"
+            },
+            {
+                "date": "20171011",
+                "temperature": "148"
+            },
+            {
+                "date": "20171012",
+                "temperature": "134"
+            },
+            {
+                "date": "20171013",
+                "temperature": "153"
+            },
+            {
+                "date": "20171014",
+                "temperature": "148"
+            },
+            {
+                "date": "20171015",
+                "temperature": "158"
+            },
+            {
+                "date": "20171016",
+                "temperature": "186"
+            },
+            {
+                "date": "20171017",
+                "temperature": "129"
+            },
+            {
+                "date": "20171018",
+                "temperature": "137"
+            },
+            {
+                "date": "20171019",
+                "temperature": "157"
+            },
+            {
+                "date": "20171020",
+                "temperature": "137"
+            },
+            {
+                "date": "20171021",
+                "temperature": "132"
+            },
+            {
+                "date": "20171022",
+                "temperature": "108"
+            },
+            {
+                "date": "20171023",
+                "temperature": "126"
+            },
+            {
+                "date": "20171024",
+                "temperature": "153"
+            },
+            {
+                "date": "20171025",
+                "temperature": "142"
+            },
+            {
+                "date": "20171026",
+                "temperature": "140"
+            },
+            {
+                "date": "20171027",
+                "temperature": "118"
+            },
+            {
+                "date": "20171028",
+                "temperature": "124"
+            },
+            {
+                "date": "20171029",
+                "temperature": "107"
+            },
+            {
+                "date": "20171030",
+                "temperature": "83"
+            },
+            {
+                "date": "20171031",
+                "temperature": "101"
+            },
+            {
+                "date": "20171101",
+                "temperature": "112"
+            },
+            {
+                "date": "20171102",
+                "temperature": "98"
+            },
+            {
+                "date": "20171103",
+                "temperature": "88"
+            },
+            {
+                "date": "20171104",
+                "temperature": "106"
+            },
+            {
+                "date": "20171105",
+                "temperature": "78"
+            },
+            {
+                "date": "20171106",
+                "temperature": "48"
+            },
+            {
+                "date": "20171107",
+                "temperature": "33"
+            },
+            {
+                "date": "20171108",
+                "temperature": "59"
+            },
+            {
+                "date": "20171109",
+                "temperature": "87"
+            },
+            {
+                "date": "20171110",
+                "temperature": "92"
+            },
+            {
+                "date": "20171111",
+                "temperature": "66"
+            },
+            {
+                "date": "20171112",
+                "temperature": "52"
+            },
+            {
+                "date": "20171113",
+                "temperature": "62"
+            },
+            {
+                "date": "20171114",
+                "temperature": "77"
+            },
+            {
+                "date": "20171115",
+                "temperature": "94"
+            },
+            {
+                "date": "20171116",
+                "temperature": "93"
+            },
+            {
+                "date": "20171117",
+                "temperature": "56"
+            },
+            {
+                "date": "20171118",
+                "temperature": "69"
+            },
+            {
+                "date": "20171119",
+                "temperature": "67"
+            },
+            {
+                "date": "20171120",
+                "temperature": "78"
+            },
+            {
+                "date": "20171121",
+                "temperature": "115"
+            },
+            {
+                "date": "20171122",
+                "temperature": "114"
+            },
+            {
+                "date": "20171123",
+                "temperature": "111"
+            },
+            {
+                "date": "20171124",
+                "temperature": "69"
+            },
+            {
+                "date": "20171125",
+                "temperature": "37"
+            },
+            {
+                "date": "20171126",
+                "temperature": "53"
+            },
+            {
+                "date": "20171127",
+                "temperature": "67"
+            },
+            {
+                "date": "20171128",
+                "temperature": "54"
+            },
+            {
+                "date": "20171129",
+                "temperature": "29"
+            },
+            {
+                "date": "20171130",
+                "temperature": "15"
+            },
+            {
+                "date": "20171201",
+                "temperature": "0"
+            },
+            {
+                "date": "20171202",
+                "temperature": "-4"
+            },
+            {
+                "date": "20171203",
+                "temperature": "37"
+            },
+            {
+                "date": "20171204",
+                "temperature": "70"
+            },
+            {
+                "date": "20171205",
+                "temperature": "76"
+            },
+            {
+                "date": "20171206",
+                "temperature": "80"
+            },
+            {
+                "date": "20171207",
+                "temperature": "59"
+            },
+            {
+                "date": "20171208",
+                "temperature": "26"
+            },
+            {
+                "date": "20171209",
+                "temperature": "21"
+            },
+            {
+                "date": "20171210",
+                "temperature": "11"
+            },
+            {
+                "date": "20171211",
+                "temperature": "-1"
+            },
+            {
+                "date": "20171212",
+                "temperature": "18"
+            },
+            {
+                "date": "20171213",
+                "temperature": "40"
+            },
+            {
+                "date": "20171214",
+                "temperature": "33"
+            },
+            {
+                "date": "20171215",
+                "temperature": "26"
+            },
+            {
+                "date": "20171216",
+                "temperature": "27"
+            },
+            {
+                "date": "20171217",
+                "temperature": "25"
+            },
+            {
+                "date": "20171218",
+                "temperature": "59"
+            },
+            {
+                "date": "20171219",
+                "temperature": "52"
+            },
+            {
+                "date": "20171220",
+                "temperature": "75"
+            },
+            {
+                "date": "20171221",
+                "temperature": "84"
+            },
+            {
+                "date": "20171222",
+                "temperature": "86"
+            },
+            {
+                "date": "20171223",
+                "temperature": "87"
+            },
+            {
+                "date": "20171224",
+                "temperature": "82"
+            },
+            {
+                "date": "20171225",
+                "temperature": "74"
+            },
+            {
+                "date": "20171226",
+                "temperature": "58"
+            },
+            {
+                "date": "20171227",
+                "temperature": "51"
+            },
+            {
+                "date": "20171228",
+                "temperature": "39"
+            },
+            {
+                "date": "20171229",
+                "temperature": "28"
+            },
+            {
+                "date": "20171230",
+                "temperature": "88"
+            },
+            {
+                "date": "20171231",
+                "temperature": "106"
+            }
+        ]
+    },
+    {
+        "z": "Minimum temperature",
+        "values": [
+            {
+                "date": "20170101",
+                "temperature": "-8"
+            },
+            {
+                "date": "20170102",
+                "temperature": "-3"
+            },
+            {
+                "date": "20170103",
+                "temperature": "15"
+            },
+            {
+                "date": "20170104",
+                "temperature": "26"
+            },
+            {
+                "date": "20170105",
+                "temperature": "-59"
+            },
+            {
+                "date": "20170106",
+                "temperature": "-65"
+            },
+            {
+                "date": "20170107",
+                "temperature": "-21"
+            },
+            {
+                "date": "20170108",
+                "temperature": "28"
+            },
+            {
+                "date": "20170109",
+                "temperature": "33"
+            },
+            {
+                "date": "20170110",
+                "temperature": "29"
+            },
+            {
+                "date": "20170111",
+                "temperature": "57"
+            },
+            {
+                "date": "20170112",
+                "temperature": "2"
+            },
+            {
+                "date": "20170113",
+                "temperature": "2"
+            },
+            {
+                "date": "20170114",
+                "temperature": "1"
+            },
+            {
+                "date": "20170115",
+                "temperature": "-18"
+            },
+            {
+                "date": "20170116",
+                "temperature": "-44"
+            },
+            {
+                "date": "20170117",
+                "temperature": "-50"
+            },
+            {
+                "date": "20170118",
+                "temperature": "-53"
+            },
+            {
+                "date": "20170119",
+                "temperature": "-56"
+            },
+            {
+                "date": "20170120",
+                "temperature": "-52"
+            },
+            {
+                "date": "20170121",
+                "temperature": "-52"
+            },
+            {
+                "date": "20170122",
+                "temperature": "-74"
+            },
+            {
+                "date": "20170123",
+                "temperature": "-3"
+            },
+            {
+                "date": "20170124",
+                "temperature": "0"
+            },
+            {
+                "date": "20170125",
+                "temperature": "-43"
+            },
+            {
+                "date": "20170126",
+                "temperature": "-53"
+            },
+            {
+                "date": "20170127",
+                "temperature": "-70"
+            },
+            {
+                "date": "20170128",
+                "temperature": "20"
+            },
+            {
+                "date": "20170129",
+                "temperature": "31"
+            },
+            {
+                "date": "20170130",
+                "temperature": "28"
+            },
+            {
+                "date": "20170131",
+                "temperature": "26"
+            },
+            {
+                "date": "20170201",
+                "temperature": "5"
+            },
+            {
+                "date": "20170202",
+                "temperature": "52"
+            },
+            {
+                "date": "20170203",
+                "temperature": "63"
+            },
+            {
+                "date": "20170204",
+                "temperature": "26"
+            },
+            {
+                "date": "20170205",
+                "temperature": "-11"
+            },
+            {
+                "date": "20170206",
+                "temperature": "-10"
+            },
+            {
+                "date": "20170207",
+                "temperature": "9"
+            },
+            {
+                "date": "20170208",
+                "temperature": "-11"
+            },
+            {
+                "date": "20170209",
+                "temperature": "-30"
+            },
+            {
+                "date": "20170210",
+                "temperature": "-45"
+            },
+            {
+                "date": "20170211",
+                "temperature": "-17"
+            },
+            {
+                "date": "20170212",
+                "temperature": "-6"
+            },
+            {
+                "date": "20170213",
+                "temperature": "-14"
+            },
+            {
+                "date": "20170214",
+                "temperature": "-5"
+            },
+            {
+                "date": "20170215",
+                "temperature": "3"
+            },
+            {
+                "date": "20170216",
+                "temperature": "55"
+            },
+            {
+                "date": "20170217",
+                "temperature": "52"
+            },
+            {
+                "date": "20170218",
+                "temperature": "32"
+            },
+            {
+                "date": "20170219",
+                "temperature": "32"
+            },
+            {
+                "date": "20170220",
+                "temperature": "72"
+            },
+            {
+                "date": "20170221",
+                "temperature": "86"
+            },
+            {
+                "date": "20170222",
+                "temperature": "78"
+            },
+            {
+                "date": "20170223",
+                "temperature": "42"
+            },
+            {
+                "date": "20170224",
+                "temperature": "-6"
+            },
+            {
+                "date": "20170225",
+                "temperature": "18"
+            },
+            {
+                "date": "20170226",
+                "temperature": "67"
+            },
+            {
+                "date": "20170227",
+                "temperature": "43"
+            },
+            {
+                "date": "20170228",
+                "temperature": "32"
+            },
+            {
+                "date": "20170301",
+                "temperature": "32"
+            },
+            {
+                "date": "20170302",
+                "temperature": "42"
+            },
+            {
+                "date": "20170303",
+                "temperature": "12"
+            },
+            {
+                "date": "20170304",
+                "temperature": "62"
+            },
+            {
+                "date": "20170305",
+                "temperature": "38"
+            },
+            {
+                "date": "20170306",
+                "temperature": "32"
+            },
+            {
+                "date": "20170307",
+                "temperature": "45"
+            },
+            {
+                "date": "20170308",
+                "temperature": "8"
+            },
+            {
+                "date": "20170309",
+                "temperature": "7"
+            },
+            {
+                "date": "20170310",
+                "temperature": "-9"
+            },
+            {
+                "date": "20170311",
+                "temperature": "15"
+            },
+            {
+                "date": "20170312",
+                "temperature": "14"
+            },
+            {
+                "date": "20170313",
+                "temperature": "-5"
+            },
+            {
+                "date": "20170314",
+                "temperature": "32"
+            },
+            {
+                "date": "20170315",
+                "temperature": "16"
+            },
+            {
+                "date": "20170316",
+                "temperature": "11"
+            },
+            {
+                "date": "20170317",
+                "temperature": "67"
+            },
+            {
+                "date": "20170318",
+                "temperature": "74"
+            },
+            {
+                "date": "20170319",
+                "temperature": "98"
+            },
+            {
+                "date": "20170320",
+                "temperature": "88"
+            },
+            {
+                "date": "20170321",
+                "temperature": "13"
+            },
+            {
+                "date": "20170322",
+                "temperature": "-3"
+            },
+            {
+                "date": "20170323",
+                "temperature": "19"
+            },
+            {
+                "date": "20170324",
+                "temperature": "31"
+            },
+            {
+                "date": "20170325",
+                "temperature": "21"
+            },
+            {
+                "date": "20170326",
+                "temperature": "33"
+            },
+            {
+                "date": "20170327",
+                "temperature": "18"
+            },
+            {
+                "date": "20170328",
+                "temperature": "6"
+            },
+            {
+                "date": "20170329",
+                "temperature": "103"
+            },
+            {
+                "date": "20170330",
+                "temperature": "108"
+            },
+            {
+                "date": "20170331",
+                "temperature": "89"
+            },
+            {
+                "date": "20170401",
+                "temperature": "60"
+            },
+            {
+                "date": "20170402",
+                "temperature": "44"
+            },
+            {
+                "date": "20170403",
+                "temperature": "27"
+            },
+            {
+                "date": "20170404",
+                "temperature": "22"
+            },
+            {
+                "date": "20170405",
+                "temperature": "62"
+            },
+            {
+                "date": "20170406",
+                "temperature": "38"
+            },
+            {
+                "date": "20170407",
+                "temperature": "73"
+            },
+            {
+                "date": "20170408",
+                "temperature": "29"
+            },
+            {
+                "date": "20170409",
+                "temperature": "8"
+            },
+            {
+                "date": "20170410",
+                "temperature": "41"
+            },
+            {
+                "date": "20170411",
+                "temperature": "23"
+            },
+            {
+                "date": "20170412",
+                "temperature": "83"
+            },
+            {
+                "date": "20170413",
+                "temperature": "60"
+            },
+            {
+                "date": "20170414",
+                "temperature": "65"
+            },
+            {
+                "date": "20170415",
+                "temperature": "65"
+            },
+            {
+                "date": "20170416",
+                "temperature": "50"
+            },
+            {
+                "date": "20170417",
+                "temperature": "27"
+            },
+            {
+                "date": "20170418",
+                "temperature": "8"
+            },
+            {
+                "date": "20170419",
+                "temperature": "-13"
+            },
+            {
+                "date": "20170420",
+                "temperature": "-34"
+            },
+            {
+                "date": "20170421",
+                "temperature": "82"
+            },
+            {
+                "date": "20170422",
+                "temperature": "40"
+            },
+            {
+                "date": "20170423",
+                "temperature": "20"
+            },
+            {
+                "date": "20170424",
+                "temperature": "52"
+            },
+            {
+                "date": "20170425",
+                "temperature": "21"
+            },
+            {
+                "date": "20170426",
+                "temperature": "-14"
+            },
+            {
+                "date": "20170427",
+                "temperature": "-20"
+            },
+            {
+                "date": "20170428",
+                "temperature": "30"
+            },
+            {
+                "date": "20170429",
+                "temperature": "5"
+            },
+            {
+                "date": "20170430",
+                "temperature": "33"
+            },
+            {
+                "date": "20170501",
+                "temperature": "82"
+            },
+            {
+                "date": "20170502",
+                "temperature": "47"
+            },
+            {
+                "date": "20170503",
+                "temperature": "77"
+            },
+            {
+                "date": "20170504",
+                "temperature": "77"
+            },
+            {
+                "date": "20170505",
+                "temperature": "66"
+            },
+            {
+                "date": "20170506",
+                "temperature": "59"
+            },
+            {
+                "date": "20170507",
+                "temperature": "86"
+            },
+            {
+                "date": "20170508",
+                "temperature": "43"
+            },
+            {
+                "date": "20170509",
+                "temperature": "11"
+            },
+            {
+                "date": "20170510",
+                "temperature": "-1"
+            },
+            {
+                "date": "20170511",
+                "temperature": "47"
+            },
+            {
+                "date": "20170512",
+                "temperature": "120"
+            },
+            {
+                "date": "20170513",
+                "temperature": "85"
+            },
+            {
+                "date": "20170514",
+                "temperature": "66"
+            },
+            {
+                "date": "20170515",
+                "temperature": "55"
+            },
+            {
+                "date": "20170516",
+                "temperature": "152"
+            },
+            {
+                "date": "20170517",
+                "temperature": "144"
+            },
+            {
+                "date": "20170518",
+                "temperature": "144"
+            },
+            {
+                "date": "20170519",
+                "temperature": "105"
+            },
+            {
+                "date": "20170520",
+                "temperature": "74"
+            },
+            {
+                "date": "20170521",
+                "temperature": "54"
+            },
+            {
+                "date": "20170522",
+                "temperature": "81"
+            },
+            {
+                "date": "20170523",
+                "temperature": "99"
+            },
+            {
+                "date": "20170524",
+                "temperature": "90"
+            },
+            {
+                "date": "20170525",
+                "temperature": "92"
+            },
+            {
+                "date": "20170526",
+                "temperature": "110"
+            },
+            {
+                "date": "20170527",
+                "temperature": "160"
+            },
+            {
+                "date": "20170528",
+                "temperature": "149"
+            },
+            {
+                "date": "20170529",
+                "temperature": "154"
+            },
+            {
+                "date": "20170530",
+                "temperature": "155"
+            },
+            {
+                "date": "20170531",
+                "temperature": "107"
+            },
+            {
+                "date": "20170601",
+                "temperature": "75"
+            },
+            {
+                "date": "20170602",
+                "temperature": "108"
+            },
+            {
+                "date": "20170603",
+                "temperature": "143"
+            },
+            {
+                "date": "20170604",
+                "temperature": "87"
+            },
+            {
+                "date": "20170605",
+                "temperature": "84"
+            },
+            {
+                "date": "20170606",
+                "temperature": "110"
+            },
+            {
+                "date": "20170607",
+                "temperature": "113"
+            },
+            {
+                "date": "20170608",
+                "temperature": "117"
+            },
+            {
+                "date": "20170609",
+                "temperature": "130"
+            },
+            {
+                "date": "20170610",
+                "temperature": "117"
+            },
+            {
+                "date": "20170611",
+                "temperature": "121"
+            },
+            {
+                "date": "20170612",
+                "temperature": "145"
+            },
+            {
+                "date": "20170613",
+                "temperature": "93"
+            },
+            {
+                "date": "20170614",
+                "temperature": "75"
+            },
+            {
+                "date": "20170615",
+                "temperature": "120"
+            },
+            {
+                "date": "20170616",
+                "temperature": "129"
+            },
+            {
+                "date": "20170617",
+                "temperature": "129"
+            },
+            {
+                "date": "20170618",
+                "temperature": "111"
+            },
+            {
+                "date": "20170619",
+                "temperature": "137"
+            },
+            {
+                "date": "20170620",
+                "temperature": "149"
+            },
+            {
+                "date": "20170621",
+                "temperature": "131"
+            },
+            {
+                "date": "20170622",
+                "temperature": "171"
+            },
+            {
+                "date": "20170623",
+                "temperature": "168"
+            },
+            {
+                "date": "20170624",
+                "temperature": "163"
+            },
+            {
+                "date": "20170625",
+                "temperature": "154"
+            },
+            {
+                "date": "20170626",
+                "temperature": "123"
+            },
+            {
+                "date": "20170627",
+                "temperature": "113"
+            },
+            {
+                "date": "20170628",
+                "temperature": "150"
+            },
+            {
+                "date": "20170629",
+                "temperature": "133"
+            },
+            {
+                "date": "20170630",
+                "temperature": "116"
+            },
+            {
+                "date": "20170701",
+                "temperature": "139"
+            },
+            {
+                "date": "20170702",
+                "temperature": "89"
+            },
+            {
+                "date": "20170703",
+                "temperature": "81"
+            },
+            {
+                "date": "20170704",
+                "temperature": "150"
+            },
+            {
+                "date": "20170705",
+                "temperature": "120"
+            },
+            {
+                "date": "20170706",
+                "temperature": "108"
+            },
+            {
+                "date": "20170707",
+                "temperature": "153"
+            },
+            {
+                "date": "20170708",
+                "temperature": "113"
+            },
+            {
+                "date": "20170709",
+                "temperature": "91"
+            },
+            {
+                "date": "20170710",
+                "temperature": "140"
+            },
+            {
+                "date": "20170711",
+                "temperature": "153"
+            },
+            {
+                "date": "20170712",
+                "temperature": "89"
+            },
+            {
+                "date": "20170713",
+                "temperature": "74"
+            },
+            {
+                "date": "20170714",
+                "temperature": "80"
+            },
+            {
+                "date": "20170715",
+                "temperature": "109"
+            },
+            {
+                "date": "20170716",
+                "temperature": "160"
+            },
+            {
+                "date": "20170717",
+                "temperature": "130"
+            },
+            {
+                "date": "20170718",
+                "temperature": "120"
+            },
+            {
+                "date": "20170719",
+                "temperature": "180"
+            },
+            {
+                "date": "20170720",
+                "temperature": "135"
+            },
+            {
+                "date": "20170721",
+                "temperature": "128"
+            },
+            {
+                "date": "20170722",
+                "temperature": "145"
+            },
+            {
+                "date": "20170723",
+                "temperature": "132"
+            },
+            {
+                "date": "20170724",
+                "temperature": "119"
+            },
+            {
+                "date": "20170725",
+                "temperature": "140"
+            },
+            {
+                "date": "20170726",
+                "temperature": "138"
+            },
+            {
+                "date": "20170727",
+                "temperature": "162"
+            },
+            {
+                "date": "20170728",
+                "temperature": "148"
+            },
+            {
+                "date": "20170729",
+                "temperature": "162"
+            },
+            {
+                "date": "20170730",
+                "temperature": "133"
+            },
+            {
+                "date": "20170731",
+                "temperature": "126"
+            },
+            {
+                "date": "20170801",
+                "temperature": "125"
+            },
+            {
+                "date": "20170802",
+                "temperature": "135"
+            },
+            {
+                "date": "20170803",
+                "temperature": "165"
+            },
+            {
+                "date": "20170804",
+                "temperature": "154"
+            },
+            {
+                "date": "20170805",
+                "temperature": "106"
+            },
+            {
+                "date": "20170806",
+                "temperature": "90"
+            },
+            {
+                "date": "20170807",
+                "temperature": "88"
+            },
+            {
+                "date": "20170808",
+                "temperature": "141"
+            },
+            {
+                "date": "20170809",
+                "temperature": "123"
+            },
+            {
+                "date": "20170810",
+                "temperature": "97"
+            },
+            {
+                "date": "20170811",
+                "temperature": "120"
+            },
+            {
+                "date": "20170812",
+                "temperature": "125"
+            },
+            {
+                "date": "20170813",
+                "temperature": "100"
+            },
+            {
+                "date": "20170814",
+                "temperature": "105"
+            },
+            {
+                "date": "20170815",
+                "temperature": "136"
+            },
+            {
+                "date": "20170816",
+                "temperature": "116"
+            },
+            {
+                "date": "20170817",
+                "temperature": "121"
+            },
+            {
+                "date": "20170818",
+                "temperature": "130"
+            },
+            {
+                "date": "20170819",
+                "temperature": "127"
+            },
+            {
+                "date": "20170820",
+                "temperature": "115"
+            },
+            {
+                "date": "20170821",
+                "temperature": "112"
+            },
+            {
+                "date": "20170822",
+                "temperature": "129"
+            },
+            {
+                "date": "20170823",
+                "temperature": "129"
+            },
+            {
+                "date": "20170824",
+                "temperature": "111"
+            },
+            {
+                "date": "20170825",
+                "temperature": "102"
+            },
+            {
+                "date": "20170826",
+                "temperature": "100"
+            },
+            {
+                "date": "20170827",
+                "temperature": "110"
+            },
+            {
+                "date": "20170828",
+                "temperature": "106"
+            },
+            {
+                "date": "20170829",
+                "temperature": "122"
+            },
+            {
+                "date": "20170830",
+                "temperature": "135"
+            },
+            {
+                "date": "20170831",
+                "temperature": "95"
+            },
+            {
+                "date": "20170901",
+                "temperature": "98"
+            },
+            {
+                "date": "20170902",
+                "temperature": "77"
+            },
+            {
+                "date": "20170903",
+                "temperature": "57"
+            },
+            {
+                "date": "20170904",
+                "temperature": "84"
+            },
+            {
+                "date": "20170905",
+                "temperature": "158"
+            },
+            {
+                "date": "20170906",
+                "temperature": "136"
+            },
+            {
+                "date": "20170907",
+                "temperature": "130"
+            },
+            {
+                "date": "20170908",
+                "temperature": "139"
+            },
+            {
+                "date": "20170909",
+                "temperature": "82"
+            },
+            {
+                "date": "20170910",
+                "temperature": "82"
+            },
+            {
+                "date": "20170911",
+                "temperature": "117"
+            },
+            {
+                "date": "20170912",
+                "temperature": "122"
+            },
+            {
+                "date": "20170913",
+                "temperature": "108"
+            },
+            {
+                "date": "20170914",
+                "temperature": "102"
+            },
+            {
+                "date": "20170915",
+                "temperature": "97"
+            },
+            {
+                "date": "20170916",
+                "temperature": "62"
+            },
+            {
+                "date": "20170917",
+                "temperature": "48"
+            },
+            {
+                "date": "20170918",
+                "temperature": "74"
+            },
+            {
+                "date": "20170919",
+                "temperature": "80"
+            },
+            {
+                "date": "20170920",
+                "temperature": "80"
+            },
+            {
+                "date": "20170921",
+                "temperature": "89"
+            },
+            {
+                "date": "20170922",
+                "temperature": "58"
+            },
+            {
+                "date": "20170923",
+                "temperature": "39"
+            },
+            {
+                "date": "20170924",
+                "temperature": "45"
+            },
+            {
+                "date": "20170925",
+                "temperature": "97"
+            },
+            {
+                "date": "20170926",
+                "temperature": "86"
+            },
+            {
+                "date": "20170927",
+                "temperature": "66"
+            },
+            {
+                "date": "20170928",
+                "temperature": "127"
+            },
+            {
+                "date": "20170929",
+                "temperature": "127"
+            },
+            {
+                "date": "20170930",
+                "temperature": "77"
+            },
+            {
+                "date": "20171001",
+                "temperature": "97"
+            },
+            {
+                "date": "20171002",
+                "temperature": "134"
+            },
+            {
+                "date": "20171003",
+                "temperature": "118"
+            },
+            {
+                "date": "20171004",
+                "temperature": "114"
+            },
+            {
+                "date": "20171005",
+                "temperature": "103"
+            },
+            {
+                "date": "20171006",
+                "temperature": "95"
+            },
+            {
+                "date": "20171007",
+                "temperature": "106"
+            },
+            {
+                "date": "20171008",
+                "temperature": "97"
+            },
+            {
+                "date": "20171009",
+                "temperature": "101"
+            },
+            {
+                "date": "20171010",
+                "temperature": "124"
+            },
+            {
+                "date": "20171011",
+                "temperature": "142"
+            },
+            {
+                "date": "20171012",
+                "temperature": "108"
+            },
+            {
+                "date": "20171013",
+                "temperature": "109"
+            },
+            {
+                "date": "20171014",
+                "temperature": "96"
+            },
+            {
+                "date": "20171015",
+                "temperature": "93"
+            },
+            {
+                "date": "20171016",
+                "temperature": "137"
+            },
+            {
+                "date": "20171017",
+                "temperature": "82"
+            },
+            {
+                "date": "20171018",
+                "temperature": "104"
+            },
+            {
+                "date": "20171019",
+                "temperature": "101"
+            },
+            {
+                "date": "20171020",
+                "temperature": "104"
+            },
+            {
+                "date": "20171021",
+                "temperature": "104"
+            },
+            {
+                "date": "20171022",
+                "temperature": "96"
+            },
+            {
+                "date": "20171023",
+                "temperature": "103"
+            },
+            {
+                "date": "20171024",
+                "temperature": "130"
+            },
+            {
+                "date": "20171025",
+                "temperature": "90"
+            },
+            {
+                "date": "20171026",
+                "temperature": "127"
+            },
+            {
+                "date": "20171027",
+                "temperature": "99"
+            },
+            {
+                "date": "20171028",
+                "temperature": "93"
+            },
+            {
+                "date": "20171029",
+                "temperature": "68"
+            },
+            {
+                "date": "20171030",
+                "temperature": "45"
+            },
+            {
+                "date": "20171031",
+                "temperature": "82"
+            },
+            {
+                "date": "20171101",
+                "temperature": "96"
+            },
+            {
+                "date": "20171102",
+                "temperature": "38"
+            },
+            {
+                "date": "20171103",
+                "temperature": "34"
+            },
+            {
+                "date": "20171104",
+                "temperature": "74"
+            },
+            {
+                "date": "20171105",
+                "temperature": "50"
+            },
+            {
+                "date": "20171106",
+                "temperature": "-5"
+            },
+            {
+                "date": "20171107",
+                "temperature": "-13"
+            },
+            {
+                "date": "20171108",
+                "temperature": "24"
+            },
+            {
+                "date": "20171109",
+                "temperature": "62"
+            },
+            {
+                "date": "20171110",
+                "temperature": "58"
+            },
+            {
+                "date": "20171111",
+                "temperature": "38"
+            },
+            {
+                "date": "20171112",
+                "temperature": "32"
+            },
+            {
+                "date": "20171113",
+                "temperature": "10"
+            },
+            {
+                "date": "20171114",
+                "temperature": "27"
+            },
+            {
+                "date": "20171115",
+                "temperature": "85"
+            },
+            {
+                "date": "20171116",
+                "temperature": "62"
+            },
+            {
+                "date": "20171117",
+                "temperature": "6"
+            },
+            {
+                "date": "20171118",
+                "temperature": "35"
+            },
+            {
+                "date": "20171119",
+                "temperature": "44"
+            },
+            {
+                "date": "20171120",
+                "temperature": "46"
+            },
+            {
+                "date": "20171121",
+                "temperature": "106"
+            },
+            {
+                "date": "20171122",
+                "temperature": "105"
+            },
+            {
+                "date": "20171123",
+                "temperature": "82"
+            },
+            {
+                "date": "20171124",
+                "temperature": "43"
+            },
+            {
+                "date": "20171125",
+                "temperature": "-6"
+            },
+            {
+                "date": "20171126",
+                "temperature": "30"
+            },
+            {
+                "date": "20171127",
+                "temperature": "47"
+            },
+            {
+                "date": "20171128",
+                "temperature": "12"
+            },
+            {
+                "date": "20171129",
+                "temperature": "6"
+            },
+            {
+                "date": "20171130",
+                "temperature": "-24"
+            },
+            {
+                "date": "20171201",
+                "temperature": "-28"
+            },
+            {
+                "date": "20171202",
+                "temperature": "-12"
+            },
+            {
+                "date": "20171203",
+                "temperature": "3"
+            },
+            {
+                "date": "20171204",
+                "temperature": "52"
+            },
+            {
+                "date": "20171205",
+                "temperature": "54"
+            },
+            {
+                "date": "20171206",
+                "temperature": "69"
+            },
+            {
+                "date": "20171207",
+                "temperature": "43"
+            },
+            {
+                "date": "20171208",
+                "temperature": "3"
+            },
+            {
+                "date": "20171209",
+                "temperature": "4"
+            },
+            {
+                "date": "20171210",
+                "temperature": "0"
+            },
+            {
+                "date": "20171211",
+                "temperature": "-29"
+            },
+            {
+                "date": "20171212",
+                "temperature": "3"
+            },
+            {
+                "date": "20171213",
+                "temperature": "8"
+            },
+            {
+                "date": "20171214",
+                "temperature": "4"
+            },
+            {
+                "date": "20171215",
+                "temperature": "-2"
+            },
+            {
+                "date": "20171216",
+                "temperature": "1"
+            },
+            {
+                "date": "20171217",
+                "temperature": "-28"
+            },
+            {
+                "date": "20171218",
+                "temperature": "22"
+            },
+            {
+                "date": "20171219",
+                "temperature": "13"
+            },
+            {
+                "date": "20171220",
+                "temperature": "49"
+            },
+            {
+                "date": "20171221",
+                "temperature": "76"
+            },
+            {
+                "date": "20171222",
+                "temperature": "73"
+            },
+            {
+                "date": "20171223",
+                "temperature": "80"
+            },
+            {
+                "date": "20171224",
+                "temperature": "72"
+            },
+            {
+                "date": "20171225",
+                "temperature": "45"
+            },
+            {
+                "date": "20171226",
+                "temperature": "46"
+            },
+            {
+                "date": "20171227",
+                "temperature": "36"
+            },
+            {
+                "date": "20171228",
+                "temperature": "24"
+            },
+            {
+                "date": "20171229",
+                "temperature": "-7"
+            },
+            {
+                "date": "20171230",
+                "temperature": "39"
+            },
+            {
+                "date": "20171231",
+                "temperature": "85"
+            }
+        ]
+    },
+    {
+        "z": "Maximum temperature",
+        "values": [
+            {
+                "date": "20170101",
+                "temperature": "19"
+            },
+            {
+                "date": "20170102",
+                "temperature": "68"
+            },
+            {
+                "date": "20170103",
+                "temperature": "71"
+            },
+            {
+                "date": "20170104",
+                "temperature": "73"
+            },
+            {
+                "date": "20170105",
+                "temperature": "33"
+            },
+            {
+                "date": "20170106",
+                "temperature": "-3"
+            },
+            {
+                "date": "20170107",
+                "temperature": "34"
+            },
+            {
+                "date": "20170108",
+                "temperature": "61"
+            },
+            {
+                "date": "20170109",
+                "temperature": "59"
+            },
+            {
+                "date": "20170110",
+                "temperature": "66"
+            },
+            {
+                "date": "20170111",
+                "temperature": "104"
+            },
+            {
+                "date": "20170112",
+                "temperature": "74"
+            },
+            {
+                "date": "20170113",
+                "temperature": "56"
+            },
+            {
+                "date": "20170114",
+                "temperature": "48"
+            },
+            {
+                "date": "20170115",
+                "temperature": "48"
+            },
+            {
+                "date": "20170116",
+                "temperature": "12"
+            },
+            {
+                "date": "20170117",
+                "temperature": "13"
+            },
+            {
+                "date": "20170118",
+                "temperature": "-19"
+            },
+            {
+                "date": "20170119",
+                "temperature": "31"
+            },
+            {
+                "date": "20170120",
+                "temperature": "51"
+            },
+            {
+                "date": "20170121",
+                "temperature": "50"
+            },
+            {
+                "date": "20170122",
+                "temperature": "37"
+            },
+            {
+                "date": "20170123",
+                "temperature": "31"
+            },
+            {
+                "date": "20170124",
+                "temperature": "21"
+            },
+            {
+                "date": "20170125",
+                "temperature": "6"
+            },
+            {
+                "date": "20170126",
+                "temperature": "6"
+            },
+            {
+                "date": "20170127",
+                "temperature": "51"
+            },
+            {
+                "date": "20170128",
+                "temperature": "81"
+            },
+            {
+                "date": "20170129",
+                "temperature": "65"
+            },
+            {
+                "date": "20170130",
+                "temperature": "72"
+            },
+            {
+                "date": "20170131",
+                "temperature": "61"
+            },
+            {
+                "date": "20170201",
+                "temperature": "54"
+            },
+            {
+                "date": "20170202",
+                "temperature": "125"
+            },
+            {
+                "date": "20170203",
+                "temperature": "119"
+            },
+            {
+                "date": "20170204",
+                "temperature": "74"
+            },
+            {
+                "date": "20170205",
+                "temperature": "77"
+            },
+            {
+                "date": "20170206",
+                "temperature": "66"
+            },
+            {
+                "date": "20170207",
+                "temperature": "39"
+            },
+            {
+                "date": "20170208",
+                "temperature": "9"
+            },
+            {
+                "date": "20170209",
+                "temperature": "-10"
+            },
+            {
+                "date": "20170210",
+                "temperature": "-13"
+            },
+            {
+                "date": "20170211",
+                "temperature": "10"
+            },
+            {
+                "date": "20170212",
+                "temperature": "25"
+            },
+            {
+                "date": "20170213",
+                "temperature": "71"
+            },
+            {
+                "date": "20170214",
+                "temperature": "94"
+            },
+            {
+                "date": "20170215",
+                "temperature": "135"
+            },
+            {
+                "date": "20170216",
+                "temperature": "99"
+            },
+            {
+                "date": "20170217",
+                "temperature": "86"
+            },
+            {
+                "date": "20170218",
+                "temperature": "103"
+            },
+            {
+                "date": "20170219",
+                "temperature": "92"
+            },
+            {
+                "date": "20170220",
+                "temperature": "109"
+            },
+            {
+                "date": "20170221",
+                "temperature": "111"
+            },
+            {
+                "date": "20170222",
+                "temperature": "108"
+            },
+            {
+                "date": "20170223",
+                "temperature": "105"
+            },
+            {
+                "date": "20170224",
+                "temperature": "87"
+            },
+            {
+                "date": "20170225",
+                "temperature": "89"
+            },
+            {
+                "date": "20170226",
+                "temperature": "106"
+            },
+            {
+                "date": "20170227",
+                "temperature": "106"
+            },
+            {
+                "date": "20170228",
+                "temperature": "65"
+            },
+            {
+                "date": "20170301",
+                "temperature": "94"
+            },
+            {
+                "date": "20170302",
+                "temperature": "82"
+            },
+            {
+                "date": "20170303",
+                "temperature": "88"
+            },
+            {
+                "date": "20170304",
+                "temperature": "132"
+            },
+            {
+                "date": "20170305",
+                "temperature": "106"
+            },
+            {
+                "date": "20170306",
+                "temperature": "95"
+            },
+            {
+                "date": "20170307",
+                "temperature": "94"
+            },
+            {
+                "date": "20170308",
+                "temperature": "106"
+            },
+            {
+                "date": "20170309",
+                "temperature": "128"
+            },
+            {
+                "date": "20170310",
+                "temperature": "112"
+            },
+            {
+                "date": "20170311",
+                "temperature": "130"
+            },
+            {
+                "date": "20170312",
+                "temperature": "148"
+            },
+            {
+                "date": "20170313",
+                "temperature": "137"
+            },
+            {
+                "date": "20170314",
+                "temperature": "149"
+            },
+            {
+                "date": "20170315",
+                "temperature": "139"
+            },
+            {
+                "date": "20170316",
+                "temperature": "168"
+            },
+            {
+                "date": "20170317",
+                "temperature": "103"
+            },
+            {
+                "date": "20170318",
+                "temperature": "127"
+            },
+            {
+                "date": "20170319",
+                "temperature": "127"
+            },
+            {
+                "date": "20170320",
+                "temperature": "115"
+            },
+            {
+                "date": "20170321",
+                "temperature": "98"
+            },
+            {
+                "date": "20170322",
+                "temperature": "124"
+            },
+            {
+                "date": "20170323",
+                "temperature": "140"
+            },
+            {
+                "date": "20170324",
+                "temperature": "142"
+            },
+            {
+                "date": "20170325",
+                "temperature": "143"
+            },
+            {
+                "date": "20170326",
+                "temperature": "130"
+            },
+            {
+                "date": "20170327",
+                "temperature": "174"
+            },
+            {
+                "date": "20170328",
+                "temperature": "197"
+            },
+            {
+                "date": "20170329",
+                "temperature": "147"
+            },
+            {
+                "date": "20170330",
+                "temperature": "218"
+            },
+            {
+                "date": "20170331",
+                "temperature": "218"
+            },
+            {
+                "date": "20170401",
+                "temperature": "141"
+            },
+            {
+                "date": "20170402",
+                "temperature": "169"
+            },
+            {
+                "date": "20170403",
+                "temperature": "143"
+            },
+            {
+                "date": "20170404",
+                "temperature": "165"
+            },
+            {
+                "date": "20170405",
+                "temperature": "128"
+            },
+            {
+                "date": "20170406",
+                "temperature": "118"
+            },
+            {
+                "date": "20170407",
+                "temperature": "138"
+            },
+            {
+                "date": "20170408",
+                "temperature": "155"
+            },
+            {
+                "date": "20170409",
+                "temperature": "210"
+            },
+            {
+                "date": "20170410",
+                "temperature": "155"
+            },
+            {
+                "date": "20170411",
+                "temperature": "138"
+            },
+            {
+                "date": "20170412",
+                "temperature": "119"
+            },
+            {
+                "date": "20170413",
+                "temperature": "133"
+            },
+            {
+                "date": "20170414",
+                "temperature": "130"
+            },
+            {
+                "date": "20170415",
+                "temperature": "121"
+            },
+            {
+                "date": "20170416",
+                "temperature": "108"
+            },
+            {
+                "date": "20170417",
+                "temperature": "109"
+            },
+            {
+                "date": "20170418",
+                "temperature": "111"
+            },
+            {
+                "date": "20170419",
+                "temperature": "83"
+            },
+            {
+                "date": "20170420",
+                "temperature": "129"
+            },
+            {
+                "date": "20170421",
+                "temperature": "149"
+            },
+            {
+                "date": "20170422",
+                "temperature": "113"
+            },
+            {
+                "date": "20170423",
+                "temperature": "114"
+            },
+            {
+                "date": "20170424",
+                "temperature": "130"
+            },
+            {
+                "date": "20170425",
+                "temperature": "99"
+            },
+            {
+                "date": "20170426",
+                "temperature": "104"
+            },
+            {
+                "date": "20170427",
+                "temperature": "109"
+            },
+            {
+                "date": "20170428",
+                "temperature": "117"
+            },
+            {
+                "date": "20170429",
+                "temperature": "140"
+            },
+            {
+                "date": "20170430",
+                "temperature": "184"
+            },
+            {
+                "date": "20170501",
+                "temperature": "137"
+            },
+            {
+                "date": "20170502",
+                "temperature": "152"
+            },
+            {
+                "date": "20170503",
+                "temperature": "152"
+            },
+            {
+                "date": "20170504",
+                "temperature": "133"
+            },
+            {
+                "date": "20170505",
+                "temperature": "111"
+            },
+            {
+                "date": "20170506",
+                "temperature": "188"
+            },
+            {
+                "date": "20170507",
+                "temperature": "162"
+            },
+            {
+                "date": "20170508",
+                "temperature": "153"
+            },
+            {
+                "date": "20170509",
+                "temperature": "138"
+            },
+            {
+                "date": "20170510",
+                "temperature": "159"
+            },
+            {
+                "date": "20170511",
+                "temperature": "228"
+            },
+            {
+                "date": "20170512",
+                "temperature": "212"
+            },
+            {
+                "date": "20170513",
+                "temperature": "190"
+            },
+            {
+                "date": "20170514",
+                "temperature": "199"
+            },
+            {
+                "date": "20170515",
+                "temperature": "212"
+            },
+            {
+                "date": "20170516",
+                "temperature": "262"
+            },
+            {
+                "date": "20170517",
+                "temperature": "284"
+            },
+            {
+                "date": "20170518",
+                "temperature": "211"
+            },
+            {
+                "date": "20170519",
+                "temperature": "167"
+            },
+            {
+                "date": "20170520",
+                "temperature": "173"
+            },
+            {
+                "date": "20170521",
+                "temperature": "202"
+            },
+            {
+                "date": "20170522",
+                "temperature": "246"
+            },
+            {
+                "date": "20170523",
+                "temperature": "210"
+            },
+            {
+                "date": "20170524",
+                "temperature": "223"
+            },
+            {
+                "date": "20170525",
+                "temperature": "230"
+            },
+            {
+                "date": "20170526",
+                "temperature": "266"
+            },
+            {
+                "date": "20170527",
+                "temperature": "319"
+            },
+            {
+                "date": "20170528",
+                "temperature": "266"
+            },
+            {
+                "date": "20170529",
+                "temperature": "286"
+            },
+            {
+                "date": "20170530",
+                "temperature": "212"
+            },
+            {
+                "date": "20170531",
+                "temperature": "222"
+            },
+            {
+                "date": "20170601",
+                "temperature": "234"
+            },
+            {
+                "date": "20170602",
+                "temperature": "266"
+            },
+            {
+                "date": "20170603",
+                "temperature": "237"
+            },
+            {
+                "date": "20170604",
+                "temperature": "195"
+            },
+            {
+                "date": "20170605",
+                "temperature": "229"
+            },
+            {
+                "date": "20170606",
+                "temperature": "174"
+            },
+            {
+                "date": "20170607",
+                "temperature": "174"
+            },
+            {
+                "date": "20170608",
+                "temperature": "232"
+            },
+            {
+                "date": "20170609",
+                "temperature": "196"
+            },
+            {
+                "date": "20170610",
+                "temperature": "239"
+            },
+            {
+                "date": "20170611",
+                "temperature": "271"
+            },
+            {
+                "date": "20170612",
+                "temperature": "178"
+            },
+            {
+                "date": "20170613",
+                "temperature": "208"
+            },
+            {
+                "date": "20170614",
+                "temperature": "244"
+            },
+            {
+                "date": "20170615",
+                "temperature": "264"
+            },
+            {
+                "date": "20170616",
+                "temperature": "180"
+            },
+            {
+                "date": "20170617",
+                "temperature": "232"
+            },
+            {
+                "date": "20170618",
+                "temperature": "278"
+            },
+            {
+                "date": "20170619",
+                "temperature": "309"
+            },
+            {
+                "date": "20170620",
+                "temperature": "274"
+            },
+            {
+                "date": "20170621",
+                "temperature": "291"
+            },
+            {
+                "date": "20170622",
+                "temperature": "308"
+            },
+            {
+                "date": "20170623",
+                "temperature": "232"
+            },
+            {
+                "date": "20170624",
+                "temperature": "179"
+            },
+            {
+                "date": "20170625",
+                "temperature": "190"
+            },
+            {
+                "date": "20170626",
+                "temperature": "206"
+            },
+            {
+                "date": "20170627",
+                "temperature": "218"
+            },
+            {
+                "date": "20170628",
+                "temperature": "219"
+            },
+            {
+                "date": "20170629",
+                "temperature": "217"
+            },
+            {
+                "date": "20170630",
+                "temperature": "208"
+            },
+            {
+                "date": "20170701",
+                "temperature": "210"
+            },
+            {
+                "date": "20170702",
+                "temperature": "196"
+            },
+            {
+                "date": "20170703",
+                "temperature": "220"
+            },
+            {
+                "date": "20170704",
+                "temperature": "232"
+            },
+            {
+                "date": "20170705",
+                "temperature": "248"
+            },
+            {
+                "date": "20170706",
+                "temperature": "265"
+            },
+            {
+                "date": "20170707",
+                "temperature": "260"
+            },
+            {
+                "date": "20170708",
+                "temperature": "245"
+            },
+            {
+                "date": "20170709",
+                "temperature": "232"
+            },
+            {
+                "date": "20170710",
+                "temperature": "259"
+            },
+            {
+                "date": "20170711",
+                "temperature": "207"
+            },
+            {
+                "date": "20170712",
+                "temperature": "182"
+            },
+            {
+                "date": "20170713",
+                "temperature": "205"
+            },
+            {
+                "date": "20170714",
+                "temperature": "186"
+            },
+            {
+                "date": "20170715",
+                "temperature": "215"
+            },
+            {
+                "date": "20170716",
+                "temperature": "221"
+            },
+            {
+                "date": "20170717",
+                "temperature": "231"
+            },
+            {
+                "date": "20170718",
+                "temperature": "252"
+            },
+            {
+                "date": "20170719",
+                "temperature": "294"
+            },
+            {
+                "date": "20170720",
+                "temperature": "242"
+            },
+            {
+                "date": "20170721",
+                "temperature": "227"
+            },
+            {
+                "date": "20170722",
+                "temperature": "242"
+            },
+            {
+                "date": "20170723",
+                "temperature": "191"
+            },
+            {
+                "date": "20170724",
+                "temperature": "202"
+            },
+            {
+                "date": "20170725",
+                "temperature": "200"
+            },
+            {
+                "date": "20170726",
+                "temperature": "236"
+            },
+            {
+                "date": "20170727",
+                "temperature": "214"
+            },
+            {
+                "date": "20170728",
+                "temperature": "210"
+            },
+            {
+                "date": "20170729",
+                "temperature": "205"
+            },
+            {
+                "date": "20170730",
+                "temperature": "229"
+            },
+            {
+                "date": "20170731",
+                "temperature": "228"
+            },
+            {
+                "date": "20170801",
+                "temperature": "227"
+            },
+            {
+                "date": "20170802",
+                "temperature": "220"
+            },
+            {
+                "date": "20170803",
+                "temperature": "225"
+            },
+            {
+                "date": "20170804",
+                "temperature": "218"
+            },
+            {
+                "date": "20170805",
+                "temperature": "204"
+            },
+            {
+                "date": "20170806",
+                "temperature": "217"
+            },
+            {
+                "date": "20170807",
+                "temperature": "226"
+            },
+            {
+                "date": "20170808",
+                "temperature": "196"
+            },
+            {
+                "date": "20170809",
+                "temperature": "213"
+            },
+            {
+                "date": "20170810",
+                "temperature": "205"
+            },
+            {
+                "date": "20170811",
+                "temperature": "203"
+            },
+            {
+                "date": "20170812",
+                "temperature": "216"
+            },
+            {
+                "date": "20170813",
+                "temperature": "215"
+            },
+            {
+                "date": "20170814",
+                "temperature": "241"
+            },
+            {
+                "date": "20170815",
+                "temperature": "218"
+            },
+            {
+                "date": "20170816",
+                "temperature": "233"
+            },
+            {
+                "date": "20170817",
+                "temperature": "199"
+            },
+            {
+                "date": "20170818",
+                "temperature": "201"
+            },
+            {
+                "date": "20170819",
+                "temperature": "196"
+            },
+            {
+                "date": "20170820",
+                "temperature": "198"
+            },
+            {
+                "date": "20170821",
+                "temperature": "208"
+            },
+            {
+                "date": "20170822",
+                "temperature": "235"
+            },
+            {
+                "date": "20170823",
+                "temperature": "250"
+            },
+            {
+                "date": "20170824",
+                "temperature": "222"
+            },
+            {
+                "date": "20170825",
+                "temperature": "234"
+            },
+            {
+                "date": "20170826",
+                "temperature": "250"
+            },
+            {
+                "date": "20170827",
+                "temperature": "247"
+            },
+            {
+                "date": "20170828",
+                "temperature": "268"
+            },
+            {
+                "date": "20170829",
+                "temperature": "290"
+            },
+            {
+                "date": "20170830",
+                "temperature": "225"
+            },
+            {
+                "date": "20170831",
+                "temperature": "197"
+            },
+            {
+                "date": "20170901",
+                "temperature": "193"
+            },
+            {
+                "date": "20170902",
+                "temperature": "194"
+            },
+            {
+                "date": "20170903",
+                "temperature": "200"
+            },
+            {
+                "date": "20170904",
+                "temperature": "216"
+            },
+            {
+                "date": "20170905",
+                "temperature": "217"
+            },
+            {
+                "date": "20170906",
+                "temperature": "183"
+            },
+            {
+                "date": "20170907",
+                "temperature": "185"
+            },
+            {
+                "date": "20170908",
+                "temperature": "158"
+            },
+            {
+                "date": "20170909",
+                "temperature": "177"
+            },
+            {
+                "date": "20170910",
+                "temperature": "177"
+            },
+            {
+                "date": "20170911",
+                "temperature": "174"
+            },
+            {
+                "date": "20170912",
+                "temperature": "183"
+            },
+            {
+                "date": "20170913",
+                "temperature": "176"
+            },
+            {
+                "date": "20170914",
+                "temperature": "144"
+            },
+            {
+                "date": "20170915",
+                "temperature": "164"
+            },
+            {
+                "date": "20170916",
+                "temperature": "129"
+            },
+            {
+                "date": "20170917",
+                "temperature": "172"
+            },
+            {
+                "date": "20170918",
+                "temperature": "162"
+            },
+            {
+                "date": "20170919",
+                "temperature": "174"
+            },
+            {
+                "date": "20170920",
+                "temperature": "175"
+            },
+            {
+                "date": "20170921",
+                "temperature": "186"
+            },
+            {
+                "date": "20170922",
+                "temperature": "192"
+            },
+            {
+                "date": "20170923",
+                "temperature": "183"
+            },
+            {
+                "date": "20170924",
+                "temperature": "204"
+            },
+            {
+                "date": "20170925",
+                "temperature": "181"
+            },
+            {
+                "date": "20170926",
+                "temperature": "172"
+            },
+            {
+                "date": "20170927",
+                "temperature": "202"
+            },
+            {
+                "date": "20170928",
+                "temperature": "206"
+            },
+            {
+                "date": "20170929",
+                "temperature": "227"
+            },
+            {
+                "date": "20170930",
+                "temperature": "157"
+            },
+            {
+                "date": "20171001",
+                "temperature": "174"
+            },
+            {
+                "date": "20171002",
+                "temperature": "179"
+            },
+            {
+                "date": "20171003",
+                "temperature": "164"
+            },
+            {
+                "date": "20171004",
+                "temperature": "152"
+            },
+            {
+                "date": "20171005",
+                "temperature": "160"
+            },
+            {
+                "date": "20171006",
+                "temperature": "150"
+            },
+            {
+                "date": "20171007",
+                "temperature": "143"
+            },
+            {
+                "date": "20171008",
+                "temperature": "147"
+            },
+            {
+                "date": "20171009",
+                "temperature": "134"
+            },
+            {
+                "date": "20171010",
+                "temperature": "158"
+            },
+            {
+                "date": "20171011",
+                "temperature": "161"
+            },
+            {
+                "date": "20171012",
+                "temperature": "161"
+            },
+            {
+                "date": "20171013",
+                "temperature": "182"
+            },
+            {
+                "date": "20171014",
+                "temperature": "199"
+            },
+            {
+                "date": "20171015",
+                "temperature": "221"
+            },
+            {
+                "date": "20171016",
+                "temperature": "244"
+            },
+            {
+                "date": "20171017",
+                "temperature": "166"
+            },
+            {
+                "date": "20171018",
+                "temperature": "186"
+            },
+            {
+                "date": "20171019",
+                "temperature": "204"
+            },
+            {
+                "date": "20171020",
+                "temperature": "167"
+            },
+            {
+                "date": "20171021",
+                "temperature": "175"
+            },
+            {
+                "date": "20171022",
+                "temperature": "132"
+            },
+            {
+                "date": "20171023",
+                "temperature": "152"
+            },
+            {
+                "date": "20171024",
+                "temperature": "171"
+            },
+            {
+                "date": "20171025",
+                "temperature": "171"
+            },
+            {
+                "date": "20171026",
+                "temperature": "175"
+            },
+            {
+                "date": "20171027",
+                "temperature": "144"
+            },
+            {
+                "date": "20171028",
+                "temperature": "153"
+            },
+            {
+                "date": "20171029",
+                "temperature": "152"
+            },
+            {
+                "date": "20171030",
+                "temperature": "121"
+            },
+            {
+                "date": "20171031",
+                "temperature": "112"
+            },
+            {
+                "date": "20171101",
+                "temperature": "135"
+            },
+            {
+                "date": "20171102",
+                "temperature": "140"
+            },
+            {
+                "date": "20171103",
+                "temperature": "124"
+            },
+            {
+                "date": "20171104",
+                "temperature": "131"
+            },
+            {
+                "date": "20171105",
+                "temperature": "109"
+            },
+            {
+                "date": "20171106",
+                "temperature": "109"
+            },
+            {
+                "date": "20171107",
+                "temperature": "98"
+            },
+            {
+                "date": "20171108",
+                "temperature": "76"
+            },
+            {
+                "date": "20171109",
+                "temperature": "111"
+            },
+            {
+                "date": "20171110",
+                "temperature": "118"
+            },
+            {
+                "date": "20171111",
+                "temperature": "94"
+            },
+            {
+                "date": "20171112",
+                "temperature": "64"
+            },
+            {
+                "date": "20171113",
+                "temperature": "103"
+            },
+            {
+                "date": "20171114",
+                "temperature": "92"
+            },
+            {
+                "date": "20171115",
+                "temperature": "102"
+            },
+            {
+                "date": "20171116",
+                "temperature": "107"
+            },
+            {
+                "date": "20171117",
+                "temperature": "110"
+            },
+            {
+                "date": "20171118",
+                "temperature": "96"
+            },
+            {
+                "date": "20171119",
+                "temperature": "99"
+            },
+            {
+                "date": "20171120",
+                "temperature": "118"
+            },
+            {
+                "date": "20171121",
+                "temperature": "124"
+            },
+            {
+                "date": "20171122",
+                "temperature": "133"
+            },
+            {
+                "date": "20171123",
+                "temperature": "144"
+            },
+            {
+                "date": "20171124",
+                "temperature": "92"
+            },
+            {
+                "date": "20171125",
+                "temperature": "74"
+            },
+            {
+                "date": "20171126",
+                "temperature": "80"
+            },
+            {
+                "date": "20171127",
+                "temperature": "91"
+            },
+            {
+                "date": "20171128",
+                "temperature": "78"
+            },
+            {
+                "date": "20171129",
+                "temperature": "40"
+            },
+            {
+                "date": "20171130",
+                "temperature": "46"
+            },
+            {
+                "date": "20171201",
+                "temperature": "31"
+            },
+            {
+                "date": "20171202",
+                "temperature": "6"
+            },
+            {
+                "date": "20171203",
+                "temperature": "66"
+            },
+            {
+                "date": "20171204",
+                "temperature": "91"
+            },
+            {
+                "date": "20171205",
+                "temperature": "91"
+            },
+            {
+                "date": "20171206",
+                "temperature": "92"
+            },
+            {
+                "date": "20171207",
+                "temperature": "72"
+            },
+            {
+                "date": "20171208",
+                "temperature": "61"
+            },
+            {
+                "date": "20171209",
+                "temperature": "46"
+            },
+            {
+                "date": "20171210",
+                "temperature": "41"
+            },
+            {
+                "date": "20171211",
+                "temperature": "16"
+            },
+            {
+                "date": "20171212",
+                "temperature": "41"
+            },
+            {
+                "date": "20171213",
+                "temperature": "64"
+            },
+            {
+                "date": "20171214",
+                "temperature": "54"
+            },
+            {
+                "date": "20171215",
+                "temperature": "43"
+            },
+            {
+                "date": "20171216",
+                "temperature": "62"
+            },
+            {
+                "date": "20171217",
+                "temperature": "63"
+            },
+            {
+                "date": "20171218",
+                "temperature": "80"
+            },
+            {
+                "date": "20171219",
+                "temperature": "75"
+            },
+            {
+                "date": "20171220",
+                "temperature": "87"
+            },
+            {
+                "date": "20171221",
+                "temperature": "93"
+            },
+            {
+                "date": "20171222",
+                "temperature": "96"
+            },
+            {
+                "date": "20171223",
+                "temperature": "94"
+            },
+            {
+                "date": "20171224",
+                "temperature": "96"
+            },
+            {
+                "date": "20171225",
+                "temperature": "91"
+            },
+            {
+                "date": "20171226",
+                "temperature": "74"
+            },
+            {
+                "date": "20171227",
+                "temperature": "66"
+            },
+            {
+                "date": "20171228",
+                "temperature": "53"
+            },
+            {
+                "date": "20171229",
+                "temperature": "67"
+            },
+            {
+                "date": "20171230",
+                "temperature": "122"
+            },
+            {
+                "date": "20171231",
+                "temperature": "137"
+            }
+        ]
+    }
+]

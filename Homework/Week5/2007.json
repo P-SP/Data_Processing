@@ -1,0 +1,4397 @@
+[
+    {
+        "z": "Average temperature",
+        "values": [
+            {
+                "date": "20070101",
+                "temperature": "82"
+            },
+            {
+                "date": "20070102",
+                "temperature": "57"
+            },
+            {
+                "date": "20070103",
+                "temperature": "67"
+            },
+            {
+                "date": "20070104",
+                "temperature": "95"
+            },
+            {
+                "date": "20070105",
+                "temperature": "88"
+            },
+            {
+                "date": "20070106",
+                "temperature": "81"
+            },
+            {
+                "date": "20070107",
+                "temperature": "79"
+            },
+            {
+                "date": "20070108",
+                "temperature": "94"
+            },
+            {
+                "date": "20070109",
+                "temperature": "129"
+            },
+            {
+                "date": "20070110",
+                "temperature": "107"
+            },
+            {
+                "date": "20070111",
+                "temperature": "84"
+            },
+            {
+                "date": "20070112",
+                "temperature": "101"
+            },
+            {
+                "date": "20070113",
+                "temperature": "109"
+            },
+            {
+                "date": "20070114",
+                "temperature": "72"
+            },
+            {
+                "date": "20070115",
+                "temperature": "53"
+            },
+            {
+                "date": "20070116",
+                "temperature": "81"
+            },
+            {
+                "date": "20070117",
+                "temperature": "95"
+            },
+            {
+                "date": "20070118",
+                "temperature": "106"
+            },
+            {
+                "date": "20070119",
+                "temperature": "103"
+            },
+            {
+                "date": "20070120",
+                "temperature": "104"
+            },
+            {
+                "date": "20070121",
+                "temperature": "65"
+            },
+            {
+                "date": "20070122",
+                "temperature": "23"
+            },
+            {
+                "date": "20070123",
+                "temperature": "-19"
+            },
+            {
+                "date": "20070124",
+                "temperature": "-12"
+            },
+            {
+                "date": "20070125",
+                "temperature": "-17"
+            },
+            {
+                "date": "20070126",
+                "temperature": "21"
+            },
+            {
+                "date": "20070127",
+                "temperature": "41"
+            },
+            {
+                "date": "20070128",
+                "temperature": "72"
+            },
+            {
+                "date": "20070129",
+                "temperature": "84"
+            },
+            {
+                "date": "20070130",
+                "temperature": "81"
+            },
+            {
+                "date": "20070131",
+                "temperature": "73"
+            },
+            {
+                "date": "20070201",
+                "temperature": "85"
+            },
+            {
+                "date": "20070202",
+                "temperature": "70"
+            },
+            {
+                "date": "20070203",
+                "temperature": "49"
+            },
+            {
+                "date": "20070204",
+                "temperature": "39"
+            },
+            {
+                "date": "20070205",
+                "temperature": "19"
+            },
+            {
+                "date": "20070206",
+                "temperature": "6"
+            },
+            {
+                "date": "20070207",
+                "temperature": "2"
+            },
+            {
+                "date": "20070208",
+                "temperature": "2"
+            },
+            {
+                "date": "20070209",
+                "temperature": "23"
+            },
+            {
+                "date": "20070210",
+                "temperature": "38"
+            },
+            {
+                "date": "20070211",
+                "temperature": "76"
+            },
+            {
+                "date": "20070212",
+                "temperature": "83"
+            },
+            {
+                "date": "20070213",
+                "temperature": "77"
+            },
+            {
+                "date": "20070214",
+                "temperature": "60"
+            },
+            {
+                "date": "20070215",
+                "temperature": "70"
+            },
+            {
+                "date": "20070216",
+                "temperature": "78"
+            },
+            {
+                "date": "20070217",
+                "temperature": "69"
+            },
+            {
+                "date": "20070218",
+                "temperature": "50"
+            },
+            {
+                "date": "20070219",
+                "temperature": "54"
+            },
+            {
+                "date": "20070220",
+                "temperature": "84"
+            },
+            {
+                "date": "20070221",
+                "temperature": "80"
+            },
+            {
+                "date": "20070222",
+                "temperature": "78"
+            },
+            {
+                "date": "20070223",
+                "temperature": "88"
+            },
+            {
+                "date": "20070224",
+                "temperature": "93"
+            },
+            {
+                "date": "20070225",
+                "temperature": "77"
+            },
+            {
+                "date": "20070226",
+                "temperature": "72"
+            },
+            {
+                "date": "20070227",
+                "temperature": "69"
+            },
+            {
+                "date": "20070228",
+                "temperature": "99"
+            },
+            {
+                "date": "20070301",
+                "temperature": "80"
+            },
+            {
+                "date": "20070302",
+                "temperature": "57"
+            },
+            {
+                "date": "20070303",
+                "temperature": "59"
+            },
+            {
+                "date": "20070304",
+                "temperature": "86"
+            },
+            {
+                "date": "20070305",
+                "temperature": "92"
+            },
+            {
+                "date": "20070306",
+                "temperature": "88"
+            },
+            {
+                "date": "20070307",
+                "temperature": "87"
+            },
+            {
+                "date": "20070308",
+                "temperature": "76"
+            },
+            {
+                "date": "20070309",
+                "temperature": "67"
+            },
+            {
+                "date": "20070310",
+                "temperature": "72"
+            },
+            {
+                "date": "20070311",
+                "temperature": "81"
+            },
+            {
+                "date": "20070312",
+                "temperature": "86"
+            },
+            {
+                "date": "20070313",
+                "temperature": "66"
+            },
+            {
+                "date": "20070314",
+                "temperature": "60"
+            },
+            {
+                "date": "20070315",
+                "temperature": "66"
+            },
+            {
+                "date": "20070316",
+                "temperature": "90"
+            },
+            {
+                "date": "20070317",
+                "temperature": "108"
+            },
+            {
+                "date": "20070318",
+                "temperature": "72"
+            },
+            {
+                "date": "20070319",
+                "temperature": "29"
+            },
+            {
+                "date": "20070320",
+                "temperature": "38"
+            },
+            {
+                "date": "20070321",
+                "temperature": "49"
+            },
+            {
+                "date": "20070322",
+                "temperature": "64"
+            },
+            {
+                "date": "20070323",
+                "temperature": "64"
+            },
+            {
+                "date": "20070324",
+                "temperature": "89"
+            },
+            {
+                "date": "20070325",
+                "temperature": "102"
+            },
+            {
+                "date": "20070326",
+                "temperature": "119"
+            },
+            {
+                "date": "20070327",
+                "temperature": "115"
+            },
+            {
+                "date": "20070328",
+                "temperature": "107"
+            },
+            {
+                "date": "20070329",
+                "temperature": "87"
+            },
+            {
+                "date": "20070330",
+                "temperature": "102"
+            },
+            {
+                "date": "20070331",
+                "temperature": "111"
+            },
+            {
+                "date": "20070401",
+                "temperature": "121"
+            },
+            {
+                "date": "20070402",
+                "temperature": "120"
+            },
+            {
+                "date": "20070403",
+                "temperature": "73"
+            },
+            {
+                "date": "20070404",
+                "temperature": "68"
+            },
+            {
+                "date": "20070405",
+                "temperature": "83"
+            },
+            {
+                "date": "20070406",
+                "temperature": "103"
+            },
+            {
+                "date": "20070407",
+                "temperature": "87"
+            },
+            {
+                "date": "20070408",
+                "temperature": "89"
+            },
+            {
+                "date": "20070409",
+                "temperature": "111"
+            },
+            {
+                "date": "20070410",
+                "temperature": "127"
+            },
+            {
+                "date": "20070411",
+                "temperature": "130"
+            },
+            {
+                "date": "20070412",
+                "temperature": "139"
+            },
+            {
+                "date": "20070413",
+                "temperature": "163"
+            },
+            {
+                "date": "20070414",
+                "temperature": "184"
+            },
+            {
+                "date": "20070415",
+                "temperature": "186"
+            },
+            {
+                "date": "20070416",
+                "temperature": "169"
+            },
+            {
+                "date": "20070417",
+                "temperature": "109"
+            },
+            {
+                "date": "20070418",
+                "temperature": "96"
+            },
+            {
+                "date": "20070419",
+                "temperature": "106"
+            },
+            {
+                "date": "20070420",
+                "temperature": "82"
+            },
+            {
+                "date": "20070421",
+                "temperature": "84"
+            },
+            {
+                "date": "20070422",
+                "temperature": "115"
+            },
+            {
+                "date": "20070423",
+                "temperature": "160"
+            },
+            {
+                "date": "20070424",
+                "temperature": "168"
+            },
+            {
+                "date": "20070425",
+                "temperature": "192"
+            },
+            {
+                "date": "20070426",
+                "temperature": "179"
+            },
+            {
+                "date": "20070427",
+                "temperature": "191"
+            },
+            {
+                "date": "20070428",
+                "temperature": "182"
+            },
+            {
+                "date": "20070429",
+                "temperature": "160"
+            },
+            {
+                "date": "20070430",
+                "temperature": "140"
+            },
+            {
+                "date": "20070501",
+                "temperature": "159"
+            },
+            {
+                "date": "20070502",
+                "temperature": "149"
+            },
+            {
+                "date": "20070503",
+                "temperature": "141"
+            },
+            {
+                "date": "20070504",
+                "temperature": "148"
+            },
+            {
+                "date": "20070505",
+                "temperature": "125"
+            },
+            {
+                "date": "20070506",
+                "temperature": "130"
+            },
+            {
+                "date": "20070507",
+                "temperature": "123"
+            },
+            {
+                "date": "20070508",
+                "temperature": "124"
+            },
+            {
+                "date": "20070509",
+                "temperature": "134"
+            },
+            {
+                "date": "20070510",
+                "temperature": "134"
+            },
+            {
+                "date": "20070511",
+                "temperature": "123"
+            },
+            {
+                "date": "20070512",
+                "temperature": "134"
+            },
+            {
+                "date": "20070513",
+                "temperature": "154"
+            },
+            {
+                "date": "20070514",
+                "temperature": "137"
+            },
+            {
+                "date": "20070515",
+                "temperature": "123"
+            },
+            {
+                "date": "20070516",
+                "temperature": "121"
+            },
+            {
+                "date": "20070517",
+                "temperature": "104"
+            },
+            {
+                "date": "20070518",
+                "temperature": "163"
+            },
+            {
+                "date": "20070519",
+                "temperature": "143"
+            },
+            {
+                "date": "20070520",
+                "temperature": "139"
+            },
+            {
+                "date": "20070521",
+                "temperature": "166"
+            },
+            {
+                "date": "20070522",
+                "temperature": "148"
+            },
+            {
+                "date": "20070523",
+                "temperature": "153"
+            },
+            {
+                "date": "20070524",
+                "temperature": "183"
+            },
+            {
+                "date": "20070525",
+                "temperature": "190"
+            },
+            {
+                "date": "20070526",
+                "temperature": "149"
+            },
+            {
+                "date": "20070527",
+                "temperature": "141"
+            },
+            {
+                "date": "20070528",
+                "temperature": "133"
+            },
+            {
+                "date": "20070529",
+                "temperature": "110"
+            },
+            {
+                "date": "20070530",
+                "temperature": "148"
+            },
+            {
+                "date": "20070531",
+                "temperature": "149"
+            },
+            {
+                "date": "20070601",
+                "temperature": "173"
+            },
+            {
+                "date": "20070602",
+                "temperature": "181"
+            },
+            {
+                "date": "20070603",
+                "temperature": "175"
+            },
+            {
+                "date": "20070604",
+                "temperature": "186"
+            },
+            {
+                "date": "20070605",
+                "temperature": "189"
+            },
+            {
+                "date": "20070606",
+                "temperature": "177"
+            },
+            {
+                "date": "20070607",
+                "temperature": "214"
+            },
+            {
+                "date": "20070608",
+                "temperature": "231"
+            },
+            {
+                "date": "20070609",
+                "temperature": "182"
+            },
+            {
+                "date": "20070610",
+                "temperature": "187"
+            },
+            {
+                "date": "20070611",
+                "temperature": "200"
+            },
+            {
+                "date": "20070612",
+                "temperature": "163"
+            },
+            {
+                "date": "20070613",
+                "temperature": "173"
+            },
+            {
+                "date": "20070614",
+                "temperature": "192"
+            },
+            {
+                "date": "20070615",
+                "temperature": "192"
+            },
+            {
+                "date": "20070616",
+                "temperature": "164"
+            },
+            {
+                "date": "20070617",
+                "temperature": "168"
+            },
+            {
+                "date": "20070618",
+                "temperature": "167"
+            },
+            {
+                "date": "20070619",
+                "temperature": "199"
+            },
+            {
+                "date": "20070620",
+                "temperature": "189"
+            },
+            {
+                "date": "20070621",
+                "temperature": "163"
+            },
+            {
+                "date": "20070622",
+                "temperature": "164"
+            },
+            {
+                "date": "20070623",
+                "temperature": "164"
+            },
+            {
+                "date": "20070624",
+                "temperature": "159"
+            },
+            {
+                "date": "20070625",
+                "temperature": "152"
+            },
+            {
+                "date": "20070626",
+                "temperature": "127"
+            },
+            {
+                "date": "20070627",
+                "temperature": "139"
+            },
+            {
+                "date": "20070628",
+                "temperature": "155"
+            },
+            {
+                "date": "20070629",
+                "temperature": "150"
+            },
+            {
+                "date": "20070630",
+                "temperature": "168"
+            },
+            {
+                "date": "20070701",
+                "temperature": "192"
+            },
+            {
+                "date": "20070702",
+                "temperature": "171"
+            },
+            {
+                "date": "20070703",
+                "temperature": "154"
+            },
+            {
+                "date": "20070704",
+                "temperature": "145"
+            },
+            {
+                "date": "20070705",
+                "temperature": "158"
+            },
+            {
+                "date": "20070706",
+                "temperature": "155"
+            },
+            {
+                "date": "20070707",
+                "temperature": "166"
+            },
+            {
+                "date": "20070708",
+                "temperature": "163"
+            },
+            {
+                "date": "20070709",
+                "temperature": "149"
+            },
+            {
+                "date": "20070710",
+                "temperature": "140"
+            },
+            {
+                "date": "20070711",
+                "temperature": "151"
+            },
+            {
+                "date": "20070712",
+                "temperature": "162"
+            },
+            {
+                "date": "20070713",
+                "temperature": "203"
+            },
+            {
+                "date": "20070714",
+                "temperature": "203"
+            },
+            {
+                "date": "20070715",
+                "temperature": "214"
+            },
+            {
+                "date": "20070716",
+                "temperature": "215"
+            },
+            {
+                "date": "20070717",
+                "temperature": "193"
+            },
+            {
+                "date": "20070718",
+                "temperature": "180"
+            },
+            {
+                "date": "20070719",
+                "temperature": "190"
+            },
+            {
+                "date": "20070720",
+                "temperature": "171"
+            },
+            {
+                "date": "20070721",
+                "temperature": "182"
+            },
+            {
+                "date": "20070722",
+                "temperature": "157"
+            },
+            {
+                "date": "20070723",
+                "temperature": "155"
+            },
+            {
+                "date": "20070724",
+                "temperature": "160"
+            },
+            {
+                "date": "20070725",
+                "temperature": "181"
+            },
+            {
+                "date": "20070726",
+                "temperature": "181"
+            },
+            {
+                "date": "20070727",
+                "temperature": "180"
+            },
+            {
+                "date": "20070728",
+                "temperature": "170"
+            },
+            {
+                "date": "20070729",
+                "temperature": "149"
+            },
+            {
+                "date": "20070730",
+                "temperature": "142"
+            },
+            {
+                "date": "20070731",
+                "temperature": "141"
+            },
+            {
+                "date": "20070801",
+                "temperature": "162"
+            },
+            {
+                "date": "20070802",
+                "temperature": "165"
+            },
+            {
+                "date": "20070803",
+                "temperature": "170"
+            },
+            {
+                "date": "20070804",
+                "temperature": "192"
+            },
+            {
+                "date": "20070805",
+                "temperature": "227"
+            },
+            {
+                "date": "20070806",
+                "temperature": "213"
+            },
+            {
+                "date": "20070807",
+                "temperature": "185"
+            },
+            {
+                "date": "20070808",
+                "temperature": "164"
+            },
+            {
+                "date": "20070809",
+                "temperature": "161"
+            },
+            {
+                "date": "20070810",
+                "temperature": "171"
+            },
+            {
+                "date": "20070811",
+                "temperature": "159"
+            },
+            {
+                "date": "20070812",
+                "temperature": "168"
+            },
+            {
+                "date": "20070813",
+                "temperature": "170"
+            },
+            {
+                "date": "20070814",
+                "temperature": "187"
+            },
+            {
+                "date": "20070815",
+                "temperature": "203"
+            },
+            {
+                "date": "20070816",
+                "temperature": "162"
+            },
+            {
+                "date": "20070817",
+                "temperature": "145"
+            },
+            {
+                "date": "20070818",
+                "temperature": "163"
+            },
+            {
+                "date": "20070819",
+                "temperature": "180"
+            },
+            {
+                "date": "20070820",
+                "temperature": "165"
+            },
+            {
+                "date": "20070821",
+                "temperature": "171"
+            },
+            {
+                "date": "20070822",
+                "temperature": "180"
+            },
+            {
+                "date": "20070823",
+                "temperature": "172"
+            },
+            {
+                "date": "20070824",
+                "temperature": "191"
+            },
+            {
+                "date": "20070825",
+                "temperature": "183"
+            },
+            {
+                "date": "20070826",
+                "temperature": "170"
+            },
+            {
+                "date": "20070827",
+                "temperature": "147"
+            },
+            {
+                "date": "20070828",
+                "temperature": "138"
+            },
+            {
+                "date": "20070829",
+                "temperature": "127"
+            },
+            {
+                "date": "20070830",
+                "temperature": "148"
+            },
+            {
+                "date": "20070831",
+                "temperature": "165"
+            },
+            {
+                "date": "20070901",
+                "temperature": "163"
+            },
+            {
+                "date": "20070902",
+                "temperature": "177"
+            },
+            {
+                "date": "20070903",
+                "temperature": "139"
+            },
+            {
+                "date": "20070904",
+                "temperature": "117"
+            },
+            {
+                "date": "20070905",
+                "temperature": "117"
+            },
+            {
+                "date": "20070906",
+                "temperature": "167"
+            },
+            {
+                "date": "20070907",
+                "temperature": "161"
+            },
+            {
+                "date": "20070908",
+                "temperature": "163"
+            },
+            {
+                "date": "20070909",
+                "temperature": "146"
+            },
+            {
+                "date": "20070910",
+                "temperature": "145"
+            },
+            {
+                "date": "20070911",
+                "temperature": "140"
+            },
+            {
+                "date": "20070912",
+                "temperature": "134"
+            },
+            {
+                "date": "20070913",
+                "temperature": "126"
+            },
+            {
+                "date": "20070914",
+                "temperature": "129"
+            },
+            {
+                "date": "20070915",
+                "temperature": "123"
+            },
+            {
+                "date": "20070916",
+                "temperature": "156"
+            },
+            {
+                "date": "20070917",
+                "temperature": "140"
+            },
+            {
+                "date": "20070918",
+                "temperature": "108"
+            },
+            {
+                "date": "20070919",
+                "temperature": "118"
+            },
+            {
+                "date": "20070920",
+                "temperature": "149"
+            },
+            {
+                "date": "20070921",
+                "temperature": "156"
+            },
+            {
+                "date": "20070922",
+                "temperature": "141"
+            },
+            {
+                "date": "20070923",
+                "temperature": "157"
+            },
+            {
+                "date": "20070924",
+                "temperature": "139"
+            },
+            {
+                "date": "20070925",
+                "temperature": "114"
+            },
+            {
+                "date": "20070926",
+                "temperature": "100"
+            },
+            {
+                "date": "20070927",
+                "temperature": "123"
+            },
+            {
+                "date": "20070928",
+                "temperature": "140"
+            },
+            {
+                "date": "20070929",
+                "temperature": "126"
+            },
+            {
+                "date": "20070930",
+                "temperature": "122"
+            },
+            {
+                "date": "20071001",
+                "temperature": "108"
+            },
+            {
+                "date": "20071002",
+                "temperature": "125"
+            },
+            {
+                "date": "20071003",
+                "temperature": "136"
+            },
+            {
+                "date": "20071004",
+                "temperature": "123"
+            },
+            {
+                "date": "20071005",
+                "temperature": "114"
+            },
+            {
+                "date": "20071006",
+                "temperature": "116"
+            },
+            {
+                "date": "20071007",
+                "temperature": "101"
+            },
+            {
+                "date": "20071008",
+                "temperature": "103"
+            },
+            {
+                "date": "20071009",
+                "temperature": "122"
+            },
+            {
+                "date": "20071010",
+                "temperature": "128"
+            },
+            {
+                "date": "20071011",
+                "temperature": "105"
+            },
+            {
+                "date": "20071012",
+                "temperature": "143"
+            },
+            {
+                "date": "20071013",
+                "temperature": "118"
+            },
+            {
+                "date": "20071014",
+                "temperature": "107"
+            },
+            {
+                "date": "20071015",
+                "temperature": "115"
+            },
+            {
+                "date": "20071016",
+                "temperature": "136"
+            },
+            {
+                "date": "20071017",
+                "temperature": "118"
+            },
+            {
+                "date": "20071018",
+                "temperature": "91"
+            },
+            {
+                "date": "20071019",
+                "temperature": "85"
+            },
+            {
+                "date": "20071020",
+                "temperature": "52"
+            },
+            {
+                "date": "20071021",
+                "temperature": "92"
+            },
+            {
+                "date": "20071022",
+                "temperature": "48"
+            },
+            {
+                "date": "20071023",
+                "temperature": "40"
+            },
+            {
+                "date": "20071024",
+                "temperature": "80"
+            },
+            {
+                "date": "20071025",
+                "temperature": "84"
+            },
+            {
+                "date": "20071026",
+                "temperature": "85"
+            },
+            {
+                "date": "20071027",
+                "temperature": "91"
+            },
+            {
+                "date": "20071028",
+                "temperature": "102"
+            },
+            {
+                "date": "20071029",
+                "temperature": "90"
+            },
+            {
+                "date": "20071030",
+                "temperature": "69"
+            },
+            {
+                "date": "20071031",
+                "temperature": "94"
+            },
+            {
+                "date": "20071101",
+                "temperature": "127"
+            },
+            {
+                "date": "20071102",
+                "temperature": "136"
+            },
+            {
+                "date": "20071103",
+                "temperature": "120"
+            },
+            {
+                "date": "20071104",
+                "temperature": "98"
+            },
+            {
+                "date": "20071105",
+                "temperature": "99"
+            },
+            {
+                "date": "20071106",
+                "temperature": "85"
+            },
+            {
+                "date": "20071107",
+                "temperature": "106"
+            },
+            {
+                "date": "20071108",
+                "temperature": "95"
+            },
+            {
+                "date": "20071109",
+                "temperature": "57"
+            },
+            {
+                "date": "20071110",
+                "temperature": "91"
+            },
+            {
+                "date": "20071111",
+                "temperature": "83"
+            },
+            {
+                "date": "20071112",
+                "temperature": "55"
+            },
+            {
+                "date": "20071113",
+                "temperature": "47"
+            },
+            {
+                "date": "20071114",
+                "temperature": "32"
+            },
+            {
+                "date": "20071115",
+                "temperature": "18"
+            },
+            {
+                "date": "20071116",
+                "temperature": "30"
+            },
+            {
+                "date": "20071117",
+                "temperature": "28"
+            },
+            {
+                "date": "20071118",
+                "temperature": "27"
+            },
+            {
+                "date": "20071119",
+                "temperature": "44"
+            },
+            {
+                "date": "20071120",
+                "temperature": "76"
+            },
+            {
+                "date": "20071121",
+                "temperature": "87"
+            },
+            {
+                "date": "20071122",
+                "temperature": "74"
+            },
+            {
+                "date": "20071123",
+                "temperature": "49"
+            },
+            {
+                "date": "20071124",
+                "temperature": "46"
+            },
+            {
+                "date": "20071125",
+                "temperature": "65"
+            },
+            {
+                "date": "20071126",
+                "temperature": "50"
+            },
+            {
+                "date": "20071127",
+                "temperature": "54"
+            },
+            {
+                "date": "20071128",
+                "temperature": "59"
+            },
+            {
+                "date": "20071129",
+                "temperature": "63"
+            },
+            {
+                "date": "20071130",
+                "temperature": "72"
+            },
+            {
+                "date": "20071201",
+                "temperature": "90"
+            },
+            {
+                "date": "20071202",
+                "temperature": "90"
+            },
+            {
+                "date": "20071203",
+                "temperature": "68"
+            },
+            {
+                "date": "20071204",
+                "temperature": "76"
+            },
+            {
+                "date": "20071205",
+                "temperature": "115"
+            },
+            {
+                "date": "20071206",
+                "temperature": "104"
+            },
+            {
+                "date": "20071207",
+                "temperature": "101"
+            },
+            {
+                "date": "20071208",
+                "temperature": "65"
+            },
+            {
+                "date": "20071209",
+                "temperature": "77"
+            },
+            {
+                "date": "20071210",
+                "temperature": "69"
+            },
+            {
+                "date": "20071211",
+                "temperature": "47"
+            },
+            {
+                "date": "20071212",
+                "temperature": "30"
+            },
+            {
+                "date": "20071213",
+                "temperature": "16"
+            },
+            {
+                "date": "20071214",
+                "temperature": "5"
+            },
+            {
+                "date": "20071215",
+                "temperature": "15"
+            },
+            {
+                "date": "20071216",
+                "temperature": "-12"
+            },
+            {
+                "date": "20071217",
+                "temperature": "-7"
+            },
+            {
+                "date": "20071218",
+                "temperature": "-18"
+            },
+            {
+                "date": "20071219",
+                "temperature": "-30"
+            },
+            {
+                "date": "20071220",
+                "temperature": "-40"
+            },
+            {
+                "date": "20071221",
+                "temperature": "-45"
+            },
+            {
+                "date": "20071222",
+                "temperature": "-33"
+            },
+            {
+                "date": "20071223",
+                "temperature": "15"
+            },
+            {
+                "date": "20071224",
+                "temperature": "19"
+            },
+            {
+                "date": "20071225",
+                "temperature": "33"
+            },
+            {
+                "date": "20071226",
+                "temperature": "39"
+            },
+            {
+                "date": "20071227",
+                "temperature": "51"
+            },
+            {
+                "date": "20071228",
+                "temperature": "69"
+            },
+            {
+                "date": "20071229",
+                "temperature": "64"
+            },
+            {
+                "date": "20071230",
+                "temperature": "60"
+            },
+            {
+                "date": "20071231",
+                "temperature": "38"
+            }
+        ]
+    },
+    {
+        "z": "Minimum temperature",
+        "values": [
+            {
+                "date": "20070101",
+                "temperature": "55"
+            },
+            {
+                "date": "20070102",
+                "temperature": "33"
+            },
+            {
+                "date": "20070103",
+                "temperature": "28"
+            },
+            {
+                "date": "20070104",
+                "temperature": "78"
+            },
+            {
+                "date": "20070105",
+                "temperature": "62"
+            },
+            {
+                "date": "20070106",
+                "temperature": "56"
+            },
+            {
+                "date": "20070107",
+                "temperature": "60"
+            },
+            {
+                "date": "20070108",
+                "temperature": "81"
+            },
+            {
+                "date": "20070109",
+                "temperature": "118"
+            },
+            {
+                "date": "20070110",
+                "temperature": "71"
+            },
+            {
+                "date": "20070111",
+                "temperature": "56"
+            },
+            {
+                "date": "20070112",
+                "temperature": "77"
+            },
+            {
+                "date": "20070113",
+                "temperature": "99"
+            },
+            {
+                "date": "20070114",
+                "temperature": "33"
+            },
+            {
+                "date": "20070115",
+                "temperature": "34"
+            },
+            {
+                "date": "20070116",
+                "temperature": "40"
+            },
+            {
+                "date": "20070117",
+                "temperature": "78"
+            },
+            {
+                "date": "20070118",
+                "temperature": "76"
+            },
+            {
+                "date": "20070119",
+                "temperature": "88"
+            },
+            {
+                "date": "20070120",
+                "temperature": "66"
+            },
+            {
+                "date": "20070121",
+                "temperature": "37"
+            },
+            {
+                "date": "20070122",
+                "temperature": "-40"
+            },
+            {
+                "date": "20070123",
+                "temperature": "-53"
+            },
+            {
+                "date": "20070124",
+                "temperature": "-41"
+            },
+            {
+                "date": "20070125",
+                "temperature": "-44"
+            },
+            {
+                "date": "20070126",
+                "temperature": "-13"
+            },
+            {
+                "date": "20070127",
+                "temperature": "10"
+            },
+            {
+                "date": "20070128",
+                "temperature": "59"
+            },
+            {
+                "date": "20070129",
+                "temperature": "73"
+            },
+            {
+                "date": "20070130",
+                "temperature": "70"
+            },
+            {
+                "date": "20070131",
+                "temperature": "56"
+            },
+            {
+                "date": "20070201",
+                "temperature": "71"
+            },
+            {
+                "date": "20070202",
+                "temperature": "29"
+            },
+            {
+                "date": "20070203",
+                "temperature": "7"
+            },
+            {
+                "date": "20070204",
+                "temperature": "-13"
+            },
+            {
+                "date": "20070205",
+                "temperature": "-19"
+            },
+            {
+                "date": "20070206",
+                "temperature": "-23"
+            },
+            {
+                "date": "20070207",
+                "temperature": "-23"
+            },
+            {
+                "date": "20070208",
+                "temperature": "-27"
+            },
+            {
+                "date": "20070209",
+                "temperature": "10"
+            },
+            {
+                "date": "20070210",
+                "temperature": "10"
+            },
+            {
+                "date": "20070211",
+                "temperature": "59"
+            },
+            {
+                "date": "20070212",
+                "temperature": "65"
+            },
+            {
+                "date": "20070213",
+                "temperature": "54"
+            },
+            {
+                "date": "20070214",
+                "temperature": "47"
+            },
+            {
+                "date": "20070215",
+                "temperature": "23"
+            },
+            {
+                "date": "20070216",
+                "temperature": "41"
+            },
+            {
+                "date": "20070217",
+                "temperature": "21"
+            },
+            {
+                "date": "20070218",
+                "temperature": "9"
+            },
+            {
+                "date": "20070219",
+                "temperature": "31"
+            },
+            {
+                "date": "20070220",
+                "temperature": "48"
+            },
+            {
+                "date": "20070221",
+                "temperature": "56"
+            },
+            {
+                "date": "20070222",
+                "temperature": "40"
+            },
+            {
+                "date": "20070223",
+                "temperature": "61"
+            },
+            {
+                "date": "20070224",
+                "temperature": "78"
+            },
+            {
+                "date": "20070225",
+                "temperature": "66"
+            },
+            {
+                "date": "20070226",
+                "temperature": "55"
+            },
+            {
+                "date": "20070227",
+                "temperature": "46"
+            },
+            {
+                "date": "20070228",
+                "temperature": "83"
+            },
+            {
+                "date": "20070301",
+                "temperature": "51"
+            },
+            {
+                "date": "20070302",
+                "temperature": "8"
+            },
+            {
+                "date": "20070303",
+                "temperature": "28"
+            },
+            {
+                "date": "20070304",
+                "temperature": "31"
+            },
+            {
+                "date": "20070305",
+                "temperature": "71"
+            },
+            {
+                "date": "20070306",
+                "temperature": "80"
+            },
+            {
+                "date": "20070307",
+                "temperature": "72"
+            },
+            {
+                "date": "20070308",
+                "temperature": "27"
+            },
+            {
+                "date": "20070309",
+                "temperature": "44"
+            },
+            {
+                "date": "20070310",
+                "temperature": "17"
+            },
+            {
+                "date": "20070311",
+                "temperature": "42"
+            },
+            {
+                "date": "20070312",
+                "temperature": "23"
+            },
+            {
+                "date": "20070313",
+                "temperature": "13"
+            },
+            {
+                "date": "20070314",
+                "temperature": "-5"
+            },
+            {
+                "date": "20070315",
+                "temperature": "-9"
+            },
+            {
+                "date": "20070316",
+                "temperature": "66"
+            },
+            {
+                "date": "20070317",
+                "temperature": "91"
+            },
+            {
+                "date": "20070318",
+                "temperature": "31"
+            },
+            {
+                "date": "20070319",
+                "temperature": "0"
+            },
+            {
+                "date": "20070320",
+                "temperature": "-10"
+            },
+            {
+                "date": "20070321",
+                "temperature": "16"
+            },
+            {
+                "date": "20070322",
+                "temperature": "42"
+            },
+            {
+                "date": "20070323",
+                "temperature": "41"
+            },
+            {
+                "date": "20070324",
+                "temperature": "49"
+            },
+            {
+                "date": "20070325",
+                "temperature": "68"
+            },
+            {
+                "date": "20070326",
+                "temperature": "68"
+            },
+            {
+                "date": "20070327",
+                "temperature": "54"
+            },
+            {
+                "date": "20070328",
+                "temperature": "40"
+            },
+            {
+                "date": "20070329",
+                "temperature": "23"
+            },
+            {
+                "date": "20070330",
+                "temperature": "54"
+            },
+            {
+                "date": "20070331",
+                "temperature": "62"
+            },
+            {
+                "date": "20070401",
+                "temperature": "68"
+            },
+            {
+                "date": "20070402",
+                "temperature": "58"
+            },
+            {
+                "date": "20070403",
+                "temperature": "50"
+            },
+            {
+                "date": "20070404",
+                "temperature": "9"
+            },
+            {
+                "date": "20070405",
+                "temperature": "-2"
+            },
+            {
+                "date": "20070406",
+                "temperature": "26"
+            },
+            {
+                "date": "20070407",
+                "temperature": "43"
+            },
+            {
+                "date": "20070408",
+                "temperature": "4"
+            },
+            {
+                "date": "20070409",
+                "temperature": "70"
+            },
+            {
+                "date": "20070410",
+                "temperature": "91"
+            },
+            {
+                "date": "20070411",
+                "temperature": "82"
+            },
+            {
+                "date": "20070412",
+                "temperature": "70"
+            },
+            {
+                "date": "20070413",
+                "temperature": "90"
+            },
+            {
+                "date": "20070414",
+                "temperature": "102"
+            },
+            {
+                "date": "20070415",
+                "temperature": "86"
+            },
+            {
+                "date": "20070416",
+                "temperature": "77"
+            },
+            {
+                "date": "20070417",
+                "temperature": "57"
+            },
+            {
+                "date": "20070418",
+                "temperature": "45"
+            },
+            {
+                "date": "20070419",
+                "temperature": "14"
+            },
+            {
+                "date": "20070420",
+                "temperature": "30"
+            },
+            {
+                "date": "20070421",
+                "temperature": "12"
+            },
+            {
+                "date": "20070422",
+                "temperature": "3"
+            },
+            {
+                "date": "20070423",
+                "temperature": "64"
+            },
+            {
+                "date": "20070424",
+                "temperature": "105"
+            },
+            {
+                "date": "20070425",
+                "temperature": "116"
+            },
+            {
+                "date": "20070426",
+                "temperature": "116"
+            },
+            {
+                "date": "20070427",
+                "temperature": "112"
+            },
+            {
+                "date": "20070428",
+                "temperature": "110"
+            },
+            {
+                "date": "20070429",
+                "temperature": "110"
+            },
+            {
+                "date": "20070430",
+                "temperature": "69"
+            },
+            {
+                "date": "20070501",
+                "temperature": "90"
+            },
+            {
+                "date": "20070502",
+                "temperature": "69"
+            },
+            {
+                "date": "20070503",
+                "temperature": "77"
+            },
+            {
+                "date": "20070504",
+                "temperature": "80"
+            },
+            {
+                "date": "20070505",
+                "temperature": "70"
+            },
+            {
+                "date": "20070506",
+                "temperature": "63"
+            },
+            {
+                "date": "20070507",
+                "temperature": "115"
+            },
+            {
+                "date": "20070508",
+                "temperature": "87"
+            },
+            {
+                "date": "20070509",
+                "temperature": "108"
+            },
+            {
+                "date": "20070510",
+                "temperature": "107"
+            },
+            {
+                "date": "20070511",
+                "temperature": "103"
+            },
+            {
+                "date": "20070512",
+                "temperature": "105"
+            },
+            {
+                "date": "20070513",
+                "temperature": "111"
+            },
+            {
+                "date": "20070514",
+                "temperature": "97"
+            },
+            {
+                "date": "20070515",
+                "temperature": "70"
+            },
+            {
+                "date": "20070516",
+                "temperature": "87"
+            },
+            {
+                "date": "20070517",
+                "temperature": "63"
+            },
+            {
+                "date": "20070518",
+                "temperature": "58"
+            },
+            {
+                "date": "20070519",
+                "temperature": "71"
+            },
+            {
+                "date": "20070520",
+                "temperature": "52"
+            },
+            {
+                "date": "20070521",
+                "temperature": "138"
+            },
+            {
+                "date": "20070522",
+                "temperature": "79"
+            },
+            {
+                "date": "20070523",
+                "temperature": "62"
+            },
+            {
+                "date": "20070524",
+                "temperature": "92"
+            },
+            {
+                "date": "20070525",
+                "temperature": "117"
+            },
+            {
+                "date": "20070526",
+                "temperature": "119"
+            },
+            {
+                "date": "20070527",
+                "temperature": "111"
+            },
+            {
+                "date": "20070528",
+                "temperature": "110"
+            },
+            {
+                "date": "20070529",
+                "temperature": "79"
+            },
+            {
+                "date": "20070530",
+                "temperature": "71"
+            },
+            {
+                "date": "20070531",
+                "temperature": "113"
+            },
+            {
+                "date": "20070601",
+                "temperature": "104"
+            },
+            {
+                "date": "20070602",
+                "temperature": "105"
+            },
+            {
+                "date": "20070603",
+                "temperature": "135"
+            },
+            {
+                "date": "20070604",
+                "temperature": "126"
+            },
+            {
+                "date": "20070605",
+                "temperature": "151"
+            },
+            {
+                "date": "20070606",
+                "temperature": "145"
+            },
+            {
+                "date": "20070607",
+                "temperature": "149"
+            },
+            {
+                "date": "20070608",
+                "temperature": "171"
+            },
+            {
+                "date": "20070609",
+                "temperature": "148"
+            },
+            {
+                "date": "20070610",
+                "temperature": "150"
+            },
+            {
+                "date": "20070611",
+                "temperature": "150"
+            },
+            {
+                "date": "20070612",
+                "temperature": "145"
+            },
+            {
+                "date": "20070613",
+                "temperature": "135"
+            },
+            {
+                "date": "20070614",
+                "temperature": "127"
+            },
+            {
+                "date": "20070615",
+                "temperature": "160"
+            },
+            {
+                "date": "20070616",
+                "temperature": "139"
+            },
+            {
+                "date": "20070617",
+                "temperature": "138"
+            },
+            {
+                "date": "20070618",
+                "temperature": "120"
+            },
+            {
+                "date": "20070619",
+                "temperature": "100"
+            },
+            {
+                "date": "20070620",
+                "temperature": "126"
+            },
+            {
+                "date": "20070621",
+                "temperature": "124"
+            },
+            {
+                "date": "20070622",
+                "temperature": "123"
+            },
+            {
+                "date": "20070623",
+                "temperature": "135"
+            },
+            {
+                "date": "20070624",
+                "temperature": "128"
+            },
+            {
+                "date": "20070625",
+                "temperature": "113"
+            },
+            {
+                "date": "20070626",
+                "temperature": "98"
+            },
+            {
+                "date": "20070627",
+                "temperature": "83"
+            },
+            {
+                "date": "20070628",
+                "temperature": "120"
+            },
+            {
+                "date": "20070629",
+                "temperature": "126"
+            },
+            {
+                "date": "20070630",
+                "temperature": "140"
+            },
+            {
+                "date": "20070701",
+                "temperature": "155"
+            },
+            {
+                "date": "20070702",
+                "temperature": "142"
+            },
+            {
+                "date": "20070703",
+                "temperature": "136"
+            },
+            {
+                "date": "20070704",
+                "temperature": "120"
+            },
+            {
+                "date": "20070705",
+                "temperature": "125"
+            },
+            {
+                "date": "20070706",
+                "temperature": "132"
+            },
+            {
+                "date": "20070707",
+                "temperature": "112"
+            },
+            {
+                "date": "20070708",
+                "temperature": "92"
+            },
+            {
+                "date": "20070709",
+                "temperature": "98"
+            },
+            {
+                "date": "20070710",
+                "temperature": "83"
+            },
+            {
+                "date": "20070711",
+                "temperature": "108"
+            },
+            {
+                "date": "20070712",
+                "temperature": "120"
+            },
+            {
+                "date": "20070713",
+                "temperature": "169"
+            },
+            {
+                "date": "20070714",
+                "temperature": "137"
+            },
+            {
+                "date": "20070715",
+                "temperature": "135"
+            },
+            {
+                "date": "20070716",
+                "temperature": "166"
+            },
+            {
+                "date": "20070717",
+                "temperature": "158"
+            },
+            {
+                "date": "20070718",
+                "temperature": "116"
+            },
+            {
+                "date": "20070719",
+                "temperature": "104"
+            },
+            {
+                "date": "20070720",
+                "temperature": "137"
+            },
+            {
+                "date": "20070721",
+                "temperature": "120"
+            },
+            {
+                "date": "20070722",
+                "temperature": "102"
+            },
+            {
+                "date": "20070723",
+                "temperature": "91"
+            },
+            {
+                "date": "20070724",
+                "temperature": "125"
+            },
+            {
+                "date": "20070725",
+                "temperature": "119"
+            },
+            {
+                "date": "20070726",
+                "temperature": "161"
+            },
+            {
+                "date": "20070727",
+                "temperature": "149"
+            },
+            {
+                "date": "20070728",
+                "temperature": "145"
+            },
+            {
+                "date": "20070729",
+                "temperature": "105"
+            },
+            {
+                "date": "20070730",
+                "temperature": "108"
+            },
+            {
+                "date": "20070731",
+                "temperature": "86"
+            },
+            {
+                "date": "20070801",
+                "temperature": "76"
+            },
+            {
+                "date": "20070802",
+                "temperature": "108"
+            },
+            {
+                "date": "20070803",
+                "temperature": "111"
+            },
+            {
+                "date": "20070804",
+                "temperature": "110"
+            },
+            {
+                "date": "20070805",
+                "temperature": "138"
+            },
+            {
+                "date": "20070806",
+                "temperature": "175"
+            },
+            {
+                "date": "20070807",
+                "temperature": "150"
+            },
+            {
+                "date": "20070808",
+                "temperature": "129"
+            },
+            {
+                "date": "20070809",
+                "temperature": "145"
+            },
+            {
+                "date": "20070810",
+                "temperature": "129"
+            },
+            {
+                "date": "20070811",
+                "temperature": "101"
+            },
+            {
+                "date": "20070812",
+                "temperature": "83"
+            },
+            {
+                "date": "20070813",
+                "temperature": "113"
+            },
+            {
+                "date": "20070814",
+                "temperature": "109"
+            },
+            {
+                "date": "20070815",
+                "temperature": "172"
+            },
+            {
+                "date": "20070816",
+                "temperature": "127"
+            },
+            {
+                "date": "20070817",
+                "temperature": "111"
+            },
+            {
+                "date": "20070818",
+                "temperature": "101"
+            },
+            {
+                "date": "20070819",
+                "temperature": "142"
+            },
+            {
+                "date": "20070820",
+                "temperature": "129"
+            },
+            {
+                "date": "20070821",
+                "temperature": "119"
+            },
+            {
+                "date": "20070822",
+                "temperature": "131"
+            },
+            {
+                "date": "20070823",
+                "temperature": "127"
+            },
+            {
+                "date": "20070824",
+                "temperature": "126"
+            },
+            {
+                "date": "20070825",
+                "temperature": "126"
+            },
+            {
+                "date": "20070826",
+                "temperature": "101"
+            },
+            {
+                "date": "20070827",
+                "temperature": "93"
+            },
+            {
+                "date": "20070828",
+                "temperature": "87"
+            },
+            {
+                "date": "20070829",
+                "temperature": "65"
+            },
+            {
+                "date": "20070830",
+                "temperature": "62"
+            },
+            {
+                "date": "20070831",
+                "temperature": "148"
+            },
+            {
+                "date": "20070901",
+                "temperature": "123"
+            },
+            {
+                "date": "20070902",
+                "temperature": "149"
+            },
+            {
+                "date": "20070903",
+                "temperature": "83"
+            },
+            {
+                "date": "20070904",
+                "temperature": "61"
+            },
+            {
+                "date": "20070905",
+                "temperature": "47"
+            },
+            {
+                "date": "20070906",
+                "temperature": "127"
+            },
+            {
+                "date": "20070907",
+                "temperature": "109"
+            },
+            {
+                "date": "20070908",
+                "temperature": "102"
+            },
+            {
+                "date": "20070909",
+                "temperature": "111"
+            },
+            {
+                "date": "20070910",
+                "temperature": "122"
+            },
+            {
+                "date": "20070911",
+                "temperature": "81"
+            },
+            {
+                "date": "20070912",
+                "temperature": "74"
+            },
+            {
+                "date": "20070913",
+                "temperature": "72"
+            },
+            {
+                "date": "20070914",
+                "temperature": "58"
+            },
+            {
+                "date": "20070915",
+                "temperature": "59"
+            },
+            {
+                "date": "20070916",
+                "temperature": "78"
+            },
+            {
+                "date": "20070917",
+                "temperature": "113"
+            },
+            {
+                "date": "20070918",
+                "temperature": "57"
+            },
+            {
+                "date": "20070919",
+                "temperature": "52"
+            },
+            {
+                "date": "20070920",
+                "temperature": "125"
+            },
+            {
+                "date": "20070921",
+                "temperature": "111"
+            },
+            {
+                "date": "20070922",
+                "temperature": "93"
+            },
+            {
+                "date": "20070923",
+                "temperature": "79"
+            },
+            {
+                "date": "20070924",
+                "temperature": "100"
+            },
+            {
+                "date": "20070925",
+                "temperature": "90"
+            },
+            {
+                "date": "20070926",
+                "temperature": "72"
+            },
+            {
+                "date": "20070927",
+                "temperature": "78"
+            },
+            {
+                "date": "20070928",
+                "temperature": "122"
+            },
+            {
+                "date": "20070929",
+                "temperature": "116"
+            },
+            {
+                "date": "20070930",
+                "temperature": "62"
+            },
+            {
+                "date": "20071001",
+                "temperature": "61"
+            },
+            {
+                "date": "20071002",
+                "temperature": "105"
+            },
+            {
+                "date": "20071003",
+                "temperature": "118"
+            },
+            {
+                "date": "20071004",
+                "temperature": "58"
+            },
+            {
+                "date": "20071005",
+                "temperature": "41"
+            },
+            {
+                "date": "20071006",
+                "temperature": "67"
+            },
+            {
+                "date": "20071007",
+                "temperature": "47"
+            },
+            {
+                "date": "20071008",
+                "temperature": "37"
+            },
+            {
+                "date": "20071009",
+                "temperature": "100"
+            },
+            {
+                "date": "20071010",
+                "temperature": "84"
+            },
+            {
+                "date": "20071011",
+                "temperature": "46"
+            },
+            {
+                "date": "20071012",
+                "temperature": "111"
+            },
+            {
+                "date": "20071013",
+                "temperature": "70"
+            },
+            {
+                "date": "20071014",
+                "temperature": "48"
+            },
+            {
+                "date": "20071015",
+                "temperature": "62"
+            },
+            {
+                "date": "20071016",
+                "temperature": "104"
+            },
+            {
+                "date": "20071017",
+                "temperature": "71"
+            },
+            {
+                "date": "20071018",
+                "temperature": "60"
+            },
+            {
+                "date": "20071019",
+                "temperature": "48"
+            },
+            {
+                "date": "20071020",
+                "temperature": "-6"
+            },
+            {
+                "date": "20071021",
+                "temperature": "27"
+            },
+            {
+                "date": "20071022",
+                "temperature": "8"
+            },
+            {
+                "date": "20071023",
+                "temperature": "-14"
+            },
+            {
+                "date": "20071024",
+                "temperature": "19"
+            },
+            {
+                "date": "20071025",
+                "temperature": "70"
+            },
+            {
+                "date": "20071026",
+                "temperature": "77"
+            },
+            {
+                "date": "20071027",
+                "temperature": "77"
+            },
+            {
+                "date": "20071028",
+                "temperature": "89"
+            },
+            {
+                "date": "20071029",
+                "temperature": "59"
+            },
+            {
+                "date": "20071030",
+                "temperature": "27"
+            },
+            {
+                "date": "20071031",
+                "temperature": "16"
+            },
+            {
+                "date": "20071101",
+                "temperature": "115"
+            },
+            {
+                "date": "20071102",
+                "temperature": "123"
+            },
+            {
+                "date": "20071103",
+                "temperature": "69"
+            },
+            {
+                "date": "20071104",
+                "temperature": "67"
+            },
+            {
+                "date": "20071105",
+                "temperature": "75"
+            },
+            {
+                "date": "20071106",
+                "temperature": "58"
+            },
+            {
+                "date": "20071107",
+                "temperature": "85"
+            },
+            {
+                "date": "20071108",
+                "temperature": "57"
+            },
+            {
+                "date": "20071109",
+                "temperature": "29"
+            },
+            {
+                "date": "20071110",
+                "temperature": "55"
+            },
+            {
+                "date": "20071111",
+                "temperature": "36"
+            },
+            {
+                "date": "20071112",
+                "temperature": "20"
+            },
+            {
+                "date": "20071113",
+                "temperature": "24"
+            },
+            {
+                "date": "20071114",
+                "temperature": "3"
+            },
+            {
+                "date": "20071115",
+                "temperature": "-29"
+            },
+            {
+                "date": "20071116",
+                "temperature": "-25"
+            },
+            {
+                "date": "20071117",
+                "temperature": "-19"
+            },
+            {
+                "date": "20071118",
+                "temperature": "-26"
+            },
+            {
+                "date": "20071119",
+                "temperature": "25"
+            },
+            {
+                "date": "20071120",
+                "temperature": "48"
+            },
+            {
+                "date": "20071121",
+                "temperature": "60"
+            },
+            {
+                "date": "20071122",
+                "temperature": "40"
+            },
+            {
+                "date": "20071123",
+                "temperature": "6"
+            },
+            {
+                "date": "20071124",
+                "temperature": "-6"
+            },
+            {
+                "date": "20071125",
+                "temperature": "32"
+            },
+            {
+                "date": "20071126",
+                "temperature": "22"
+            },
+            {
+                "date": "20071127",
+                "temperature": "10"
+            },
+            {
+                "date": "20071128",
+                "temperature": "47"
+            },
+            {
+                "date": "20071129",
+                "temperature": "50"
+            },
+            {
+                "date": "20071130",
+                "temperature": "28"
+            },
+            {
+                "date": "20071201",
+                "temperature": "74"
+            },
+            {
+                "date": "20071202",
+                "temperature": "68"
+            },
+            {
+                "date": "20071203",
+                "temperature": "26"
+            },
+            {
+                "date": "20071204",
+                "temperature": "40"
+            },
+            {
+                "date": "20071205",
+                "temperature": "98"
+            },
+            {
+                "date": "20071206",
+                "temperature": "80"
+            },
+            {
+                "date": "20071207",
+                "temperature": "71"
+            },
+            {
+                "date": "20071208",
+                "temperature": "42"
+            },
+            {
+                "date": "20071209",
+                "temperature": "66"
+            },
+            {
+                "date": "20071210",
+                "temperature": "51"
+            },
+            {
+                "date": "20071211",
+                "temperature": "1"
+            },
+            {
+                "date": "20071212",
+                "temperature": "-10"
+            },
+            {
+                "date": "20071213",
+                "temperature": "-18"
+            },
+            {
+                "date": "20071214",
+                "temperature": "-24"
+            },
+            {
+                "date": "20071215",
+                "temperature": "-17"
+            },
+            {
+                "date": "20071216",
+                "temperature": "-36"
+            },
+            {
+                "date": "20071217",
+                "temperature": "-25"
+            },
+            {
+                "date": "20071218",
+                "temperature": "-34"
+            },
+            {
+                "date": "20071219",
+                "temperature": "-44"
+            },
+            {
+                "date": "20071220",
+                "temperature": "-47"
+            },
+            {
+                "date": "20071221",
+                "temperature": "-57"
+            },
+            {
+                "date": "20071222",
+                "temperature": "-69"
+            },
+            {
+                "date": "20071223",
+                "temperature": "-34"
+            },
+            {
+                "date": "20071224",
+                "temperature": "-4"
+            },
+            {
+                "date": "20071225",
+                "temperature": "8"
+            },
+            {
+                "date": "20071226",
+                "temperature": "29"
+            },
+            {
+                "date": "20071227",
+                "temperature": "32"
+            },
+            {
+                "date": "20071228",
+                "temperature": "54"
+            },
+            {
+                "date": "20071229",
+                "temperature": "41"
+            },
+            {
+                "date": "20071230",
+                "temperature": "0"
+            },
+            {
+                "date": "20071231",
+                "temperature": "-10"
+            }
+        ]
+    },
+    {
+        "z": "Maximum temperature",
+        "values": [
+            {
+                "date": "20070101",
+                "temperature": "116"
+            },
+            {
+                "date": "20070102",
+                "temperature": "77"
+            },
+            {
+                "date": "20070103",
+                "temperature": "91"
+            },
+            {
+                "date": "20070104",
+                "temperature": "102"
+            },
+            {
+                "date": "20070105",
+                "temperature": "104"
+            },
+            {
+                "date": "20070106",
+                "temperature": "107"
+            },
+            {
+                "date": "20070107",
+                "temperature": "89"
+            },
+            {
+                "date": "20070108",
+                "temperature": "119"
+            },
+            {
+                "date": "20070109",
+                "temperature": "137"
+            },
+            {
+                "date": "20070110",
+                "temperature": "134"
+            },
+            {
+                "date": "20070111",
+                "temperature": "111"
+            },
+            {
+                "date": "20070112",
+                "temperature": "121"
+            },
+            {
+                "date": "20070113",
+                "temperature": "119"
+            },
+            {
+                "date": "20070114",
+                "temperature": "112"
+            },
+            {
+                "date": "20070115",
+                "temperature": "88"
+            },
+            {
+                "date": "20070116",
+                "temperature": "96"
+            },
+            {
+                "date": "20070117",
+                "temperature": "119"
+            },
+            {
+                "date": "20070118",
+                "temperature": "141"
+            },
+            {
+                "date": "20070119",
+                "temperature": "119"
+            },
+            {
+                "date": "20070120",
+                "temperature": "131"
+            },
+            {
+                "date": "20070121",
+                "temperature": "85"
+            },
+            {
+                "date": "20070122",
+                "temperature": "55"
+            },
+            {
+                "date": "20070123",
+                "temperature": "32"
+            },
+            {
+                "date": "20070124",
+                "temperature": "39"
+            },
+            {
+                "date": "20070125",
+                "temperature": "14"
+            },
+            {
+                "date": "20070126",
+                "temperature": "50"
+            },
+            {
+                "date": "20070127",
+                "temperature": "78"
+            },
+            {
+                "date": "20070128",
+                "temperature": "85"
+            },
+            {
+                "date": "20070129",
+                "temperature": "108"
+            },
+            {
+                "date": "20070130",
+                "temperature": "98"
+            },
+            {
+                "date": "20070131",
+                "temperature": "88"
+            },
+            {
+                "date": "20070201",
+                "temperature": "108"
+            },
+            {
+                "date": "20070202",
+                "temperature": "105"
+            },
+            {
+                "date": "20070203",
+                "temperature": "111"
+            },
+            {
+                "date": "20070204",
+                "temperature": "71"
+            },
+            {
+                "date": "20070205",
+                "temperature": "54"
+            },
+            {
+                "date": "20070206",
+                "temperature": "48"
+            },
+            {
+                "date": "20070207",
+                "temperature": "47"
+            },
+            {
+                "date": "20070208",
+                "temperature": "36"
+            },
+            {
+                "date": "20070209",
+                "temperature": "42"
+            },
+            {
+                "date": "20070210",
+                "temperature": "71"
+            },
+            {
+                "date": "20070211",
+                "temperature": "100"
+            },
+            {
+                "date": "20070212",
+                "temperature": "112"
+            },
+            {
+                "date": "20070213",
+                "temperature": "94"
+            },
+            {
+                "date": "20070214",
+                "temperature": "71"
+            },
+            {
+                "date": "20070215",
+                "temperature": "113"
+            },
+            {
+                "date": "20070216",
+                "temperature": "114"
+            },
+            {
+                "date": "20070217",
+                "temperature": "103"
+            },
+            {
+                "date": "20070218",
+                "temperature": "68"
+            },
+            {
+                "date": "20070219",
+                "temperature": "72"
+            },
+            {
+                "date": "20070220",
+                "temperature": "115"
+            },
+            {
+                "date": "20070221",
+                "temperature": "97"
+            },
+            {
+                "date": "20070222",
+                "temperature": "116"
+            },
+            {
+                "date": "20070223",
+                "temperature": "114"
+            },
+            {
+                "date": "20070224",
+                "temperature": "124"
+            },
+            {
+                "date": "20070225",
+                "temperature": "91"
+            },
+            {
+                "date": "20070226",
+                "temperature": "85"
+            },
+            {
+                "date": "20070227",
+                "temperature": "110"
+            },
+            {
+                "date": "20070228",
+                "temperature": "117"
+            },
+            {
+                "date": "20070301",
+                "temperature": "105"
+            },
+            {
+                "date": "20070302",
+                "temperature": "87"
+            },
+            {
+                "date": "20070303",
+                "temperature": "93"
+            },
+            {
+                "date": "20070304",
+                "temperature": "119"
+            },
+            {
+                "date": "20070305",
+                "temperature": "110"
+            },
+            {
+                "date": "20070306",
+                "temperature": "95"
+            },
+            {
+                "date": "20070307",
+                "temperature": "114"
+            },
+            {
+                "date": "20070308",
+                "temperature": "131"
+            },
+            {
+                "date": "20070309",
+                "temperature": "93"
+            },
+            {
+                "date": "20070310",
+                "temperature": "127"
+            },
+            {
+                "date": "20070311",
+                "temperature": "138"
+            },
+            {
+                "date": "20070312",
+                "temperature": "163"
+            },
+            {
+                "date": "20070313",
+                "temperature": "133"
+            },
+            {
+                "date": "20070314",
+                "temperature": "133"
+            },
+            {
+                "date": "20070315",
+                "temperature": "133"
+            },
+            {
+                "date": "20070316",
+                "temperature": "125"
+            },
+            {
+                "date": "20070317",
+                "temperature": "134"
+            },
+            {
+                "date": "20070318",
+                "temperature": "102"
+            },
+            {
+                "date": "20070319",
+                "temperature": "74"
+            },
+            {
+                "date": "20070320",
+                "temperature": "85"
+            },
+            {
+                "date": "20070321",
+                "temperature": "83"
+            },
+            {
+                "date": "20070322",
+                "temperature": "91"
+            },
+            {
+                "date": "20070323",
+                "temperature": "87"
+            },
+            {
+                "date": "20070324",
+                "temperature": "124"
+            },
+            {
+                "date": "20070325",
+                "temperature": "145"
+            },
+            {
+                "date": "20070326",
+                "temperature": "174"
+            },
+            {
+                "date": "20070327",
+                "temperature": "172"
+            },
+            {
+                "date": "20070328",
+                "temperature": "173"
+            },
+            {
+                "date": "20070329",
+                "temperature": "143"
+            },
+            {
+                "date": "20070330",
+                "temperature": "144"
+            },
+            {
+                "date": "20070331",
+                "temperature": "160"
+            },
+            {
+                "date": "20070401",
+                "temperature": "177"
+            },
+            {
+                "date": "20070402",
+                "temperature": "191"
+            },
+            {
+                "date": "20070403",
+                "temperature": "105"
+            },
+            {
+                "date": "20070404",
+                "temperature": "121"
+            },
+            {
+                "date": "20070405",
+                "temperature": "160"
+            },
+            {
+                "date": "20070406",
+                "temperature": "173"
+            },
+            {
+                "date": "20070407",
+                "temperature": "140"
+            },
+            {
+                "date": "20070408",
+                "temperature": "159"
+            },
+            {
+                "date": "20070409",
+                "temperature": "164"
+            },
+            {
+                "date": "20070410",
+                "temperature": "166"
+            },
+            {
+                "date": "20070411",
+                "temperature": "172"
+            },
+            {
+                "date": "20070412",
+                "temperature": "209"
+            },
+            {
+                "date": "20070413",
+                "temperature": "244"
+            },
+            {
+                "date": "20070414",
+                "temperature": "276"
+            },
+            {
+                "date": "20070415",
+                "temperature": "289"
+            },
+            {
+                "date": "20070416",
+                "temperature": "273"
+            },
+            {
+                "date": "20070417",
+                "temperature": "150"
+            },
+            {
+                "date": "20070418",
+                "temperature": "147"
+            },
+            {
+                "date": "20070419",
+                "temperature": "174"
+            },
+            {
+                "date": "20070420",
+                "temperature": "123"
+            },
+            {
+                "date": "20070421",
+                "temperature": "158"
+            },
+            {
+                "date": "20070422",
+                "temperature": "203"
+            },
+            {
+                "date": "20070423",
+                "temperature": "228"
+            },
+            {
+                "date": "20070424",
+                "temperature": "230"
+            },
+            {
+                "date": "20070425",
+                "temperature": "277"
+            },
+            {
+                "date": "20070426",
+                "temperature": "256"
+            },
+            {
+                "date": "20070427",
+                "temperature": "273"
+            },
+            {
+                "date": "20070428",
+                "temperature": "264"
+            },
+            {
+                "date": "20070429",
+                "temperature": "219"
+            },
+            {
+                "date": "20070430",
+                "temperature": "202"
+            },
+            {
+                "date": "20070501",
+                "temperature": "225"
+            },
+            {
+                "date": "20070502",
+                "temperature": "220"
+            },
+            {
+                "date": "20070503",
+                "temperature": "210"
+            },
+            {
+                "date": "20070504",
+                "temperature": "228"
+            },
+            {
+                "date": "20070505",
+                "temperature": "182"
+            },
+            {
+                "date": "20070506",
+                "temperature": "175"
+            },
+            {
+                "date": "20070507",
+                "temperature": "138"
+            },
+            {
+                "date": "20070508",
+                "temperature": "163"
+            },
+            {
+                "date": "20070509",
+                "temperature": "170"
+            },
+            {
+                "date": "20070510",
+                "temperature": "173"
+            },
+            {
+                "date": "20070511",
+                "temperature": "155"
+            },
+            {
+                "date": "20070512",
+                "temperature": "174"
+            },
+            {
+                "date": "20070513",
+                "temperature": "190"
+            },
+            {
+                "date": "20070514",
+                "temperature": "179"
+            },
+            {
+                "date": "20070515",
+                "temperature": "167"
+            },
+            {
+                "date": "20070516",
+                "temperature": "164"
+            },
+            {
+                "date": "20070517",
+                "temperature": "158"
+            },
+            {
+                "date": "20070518",
+                "temperature": "228"
+            },
+            {
+                "date": "20070519",
+                "temperature": "188"
+            },
+            {
+                "date": "20070520",
+                "temperature": "201"
+            },
+            {
+                "date": "20070521",
+                "temperature": "194"
+            },
+            {
+                "date": "20070522",
+                "temperature": "176"
+            },
+            {
+                "date": "20070523",
+                "temperature": "211"
+            },
+            {
+                "date": "20070524",
+                "temperature": "246"
+            },
+            {
+                "date": "20070525",
+                "temperature": "255"
+            },
+            {
+                "date": "20070526",
+                "temperature": "172"
+            },
+            {
+                "date": "20070527",
+                "temperature": "186"
+            },
+            {
+                "date": "20070528",
+                "temperature": "162"
+            },
+            {
+                "date": "20070529",
+                "temperature": "129"
+            },
+            {
+                "date": "20070530",
+                "temperature": "204"
+            },
+            {
+                "date": "20070531",
+                "temperature": "187"
+            },
+            {
+                "date": "20070601",
+                "temperature": "229"
+            },
+            {
+                "date": "20070602",
+                "temperature": "235"
+            },
+            {
+                "date": "20070603",
+                "temperature": "220"
+            },
+            {
+                "date": "20070604",
+                "temperature": "229"
+            },
+            {
+                "date": "20070605",
+                "temperature": "236"
+            },
+            {
+                "date": "20070606",
+                "temperature": "224"
+            },
+            {
+                "date": "20070607",
+                "temperature": "270"
+            },
+            {
+                "date": "20070608",
+                "temperature": "315"
+            },
+            {
+                "date": "20070609",
+                "temperature": "211"
+            },
+            {
+                "date": "20070610",
+                "temperature": "232"
+            },
+            {
+                "date": "20070611",
+                "temperature": "255"
+            },
+            {
+                "date": "20070612",
+                "temperature": "186"
+            },
+            {
+                "date": "20070613",
+                "temperature": "215"
+            },
+            {
+                "date": "20070614",
+                "temperature": "247"
+            },
+            {
+                "date": "20070615",
+                "temperature": "221"
+            },
+            {
+                "date": "20070616",
+                "temperature": "208"
+            },
+            {
+                "date": "20070617",
+                "temperature": "198"
+            },
+            {
+                "date": "20070618",
+                "temperature": "214"
+            },
+            {
+                "date": "20070619",
+                "temperature": "255"
+            },
+            {
+                "date": "20070620",
+                "temperature": "232"
+            },
+            {
+                "date": "20070621",
+                "temperature": "213"
+            },
+            {
+                "date": "20070622",
+                "temperature": "220"
+            },
+            {
+                "date": "20070623",
+                "temperature": "202"
+            },
+            {
+                "date": "20070624",
+                "temperature": "195"
+            },
+            {
+                "date": "20070625",
+                "temperature": "207"
+            },
+            {
+                "date": "20070626",
+                "temperature": "153"
+            },
+            {
+                "date": "20070627",
+                "temperature": "175"
+            },
+            {
+                "date": "20070628",
+                "temperature": "187"
+            },
+            {
+                "date": "20070629",
+                "temperature": "174"
+            },
+            {
+                "date": "20070630",
+                "temperature": "194"
+            },
+            {
+                "date": "20070701",
+                "temperature": "233"
+            },
+            {
+                "date": "20070702",
+                "temperature": "216"
+            },
+            {
+                "date": "20070703",
+                "temperature": "188"
+            },
+            {
+                "date": "20070704",
+                "temperature": "174"
+            },
+            {
+                "date": "20070705",
+                "temperature": "196"
+            },
+            {
+                "date": "20070706",
+                "temperature": "171"
+            },
+            {
+                "date": "20070707",
+                "temperature": "203"
+            },
+            {
+                "date": "20070708",
+                "temperature": "215"
+            },
+            {
+                "date": "20070709",
+                "temperature": "204"
+            },
+            {
+                "date": "20070710",
+                "temperature": "186"
+            },
+            {
+                "date": "20070711",
+                "temperature": "180"
+            },
+            {
+                "date": "20070712",
+                "temperature": "195"
+            },
+            {
+                "date": "20070713",
+                "temperature": "246"
+            },
+            {
+                "date": "20070714",
+                "temperature": "249"
+            },
+            {
+                "date": "20070715",
+                "temperature": "289"
+            },
+            {
+                "date": "20070716",
+                "temperature": "275"
+            },
+            {
+                "date": "20070717",
+                "temperature": "238"
+            },
+            {
+                "date": "20070718",
+                "temperature": "231"
+            },
+            {
+                "date": "20070719",
+                "temperature": "251"
+            },
+            {
+                "date": "20070720",
+                "temperature": "211"
+            },
+            {
+                "date": "20070721",
+                "temperature": "236"
+            },
+            {
+                "date": "20070722",
+                "temperature": "199"
+            },
+            {
+                "date": "20070723",
+                "temperature": "202"
+            },
+            {
+                "date": "20070724",
+                "temperature": "193"
+            },
+            {
+                "date": "20070725",
+                "temperature": "225"
+            },
+            {
+                "date": "20070726",
+                "temperature": "225"
+            },
+            {
+                "date": "20070727",
+                "temperature": "216"
+            },
+            {
+                "date": "20070728",
+                "temperature": "204"
+            },
+            {
+                "date": "20070729",
+                "temperature": "191"
+            },
+            {
+                "date": "20070730",
+                "temperature": "180"
+            },
+            {
+                "date": "20070731",
+                "temperature": "198"
+            },
+            {
+                "date": "20070801",
+                "temperature": "220"
+            },
+            {
+                "date": "20070802",
+                "temperature": "221"
+            },
+            {
+                "date": "20070803",
+                "temperature": "230"
+            },
+            {
+                "date": "20070804",
+                "temperature": "262"
+            },
+            {
+                "date": "20070805",
+                "temperature": "286"
+            },
+            {
+                "date": "20070806",
+                "temperature": "280"
+            },
+            {
+                "date": "20070807",
+                "temperature": "218"
+            },
+            {
+                "date": "20070808",
+                "temperature": "196"
+            },
+            {
+                "date": "20070809",
+                "temperature": "175"
+            },
+            {
+                "date": "20070810",
+                "temperature": "211"
+            },
+            {
+                "date": "20070811",
+                "temperature": "215"
+            },
+            {
+                "date": "20070812",
+                "temperature": "236"
+            },
+            {
+                "date": "20070813",
+                "temperature": "224"
+            },
+            {
+                "date": "20070814",
+                "temperature": "246"
+            },
+            {
+                "date": "20070815",
+                "temperature": "255"
+            },
+            {
+                "date": "20070816",
+                "temperature": "191"
+            },
+            {
+                "date": "20070817",
+                "temperature": "194"
+            },
+            {
+                "date": "20070818",
+                "temperature": "210"
+            },
+            {
+                "date": "20070819",
+                "temperature": "231"
+            },
+            {
+                "date": "20070820",
+                "temperature": "204"
+            },
+            {
+                "date": "20070821",
+                "temperature": "215"
+            },
+            {
+                "date": "20070822",
+                "temperature": "215"
+            },
+            {
+                "date": "20070823",
+                "temperature": "222"
+            },
+            {
+                "date": "20070824",
+                "temperature": "254"
+            },
+            {
+                "date": "20070825",
+                "temperature": "247"
+            },
+            {
+                "date": "20070826",
+                "temperature": "218"
+            },
+            {
+                "date": "20070827",
+                "temperature": "200"
+            },
+            {
+                "date": "20070828",
+                "temperature": "182"
+            },
+            {
+                "date": "20070829",
+                "temperature": "192"
+            },
+            {
+                "date": "20070830",
+                "temperature": "196"
+            },
+            {
+                "date": "20070831",
+                "temperature": "185"
+            },
+            {
+                "date": "20070901",
+                "temperature": "204"
+            },
+            {
+                "date": "20070902",
+                "temperature": "209"
+            },
+            {
+                "date": "20070903",
+                "temperature": "184"
+            },
+            {
+                "date": "20070904",
+                "temperature": "170"
+            },
+            {
+                "date": "20070905",
+                "temperature": "153"
+            },
+            {
+                "date": "20070906",
+                "temperature": "207"
+            },
+            {
+                "date": "20070907",
+                "temperature": "201"
+            },
+            {
+                "date": "20070908",
+                "temperature": "187"
+            },
+            {
+                "date": "20070909",
+                "temperature": "179"
+            },
+            {
+                "date": "20070910",
+                "temperature": "177"
+            },
+            {
+                "date": "20070911",
+                "temperature": "184"
+            },
+            {
+                "date": "20070912",
+                "temperature": "190"
+            },
+            {
+                "date": "20070913",
+                "temperature": "185"
+            },
+            {
+                "date": "20070914",
+                "temperature": "204"
+            },
+            {
+                "date": "20070915",
+                "temperature": "192"
+            },
+            {
+                "date": "20070916",
+                "temperature": "221"
+            },
+            {
+                "date": "20070917",
+                "temperature": "155"
+            },
+            {
+                "date": "20070918",
+                "temperature": "153"
+            },
+            {
+                "date": "20070919",
+                "temperature": "171"
+            },
+            {
+                "date": "20070920",
+                "temperature": "175"
+            },
+            {
+                "date": "20070921",
+                "temperature": "207"
+            },
+            {
+                "date": "20070922",
+                "temperature": "207"
+            },
+            {
+                "date": "20070923",
+                "temperature": "232"
+            },
+            {
+                "date": "20070924",
+                "temperature": "197"
+            },
+            {
+                "date": "20070925",
+                "temperature": "159"
+            },
+            {
+                "date": "20070926",
+                "temperature": "125"
+            },
+            {
+                "date": "20070927",
+                "temperature": "166"
+            },
+            {
+                "date": "20070928",
+                "temperature": "169"
+            },
+            {
+                "date": "20070929",
+                "temperature": "136"
+            },
+            {
+                "date": "20070930",
+                "temperature": "165"
+            },
+            {
+                "date": "20071001",
+                "temperature": "134"
+            },
+            {
+                "date": "20071002",
+                "temperature": "146"
+            },
+            {
+                "date": "20071003",
+                "temperature": "156"
+            },
+            {
+                "date": "20071004",
+                "temperature": "176"
+            },
+            {
+                "date": "20071005",
+                "temperature": "178"
+            },
+            {
+                "date": "20071006",
+                "temperature": "172"
+            },
+            {
+                "date": "20071007",
+                "temperature": "182"
+            },
+            {
+                "date": "20071008",
+                "temperature": "157"
+            },
+            {
+                "date": "20071009",
+                "temperature": "147"
+            },
+            {
+                "date": "20071010",
+                "temperature": "169"
+            },
+            {
+                "date": "20071011",
+                "temperature": "158"
+            },
+            {
+                "date": "20071012",
+                "temperature": "190"
+            },
+            {
+                "date": "20071013",
+                "temperature": "165"
+            },
+            {
+                "date": "20071014",
+                "temperature": "170"
+            },
+            {
+                "date": "20071015",
+                "temperature": "187"
+            },
+            {
+                "date": "20071016",
+                "temperature": "180"
+            },
+            {
+                "date": "20071017",
+                "temperature": "146"
+            },
+            {
+                "date": "20071018",
+                "temperature": "133"
+            },
+            {
+                "date": "20071019",
+                "temperature": "115"
+            },
+            {
+                "date": "20071020",
+                "temperature": "117"
+            },
+            {
+                "date": "20071021",
+                "temperature": "138"
+            },
+            {
+                "date": "20071022",
+                "temperature": "94"
+            },
+            {
+                "date": "20071023",
+                "temperature": "95"
+            },
+            {
+                "date": "20071024",
+                "temperature": "115"
+            },
+            {
+                "date": "20071025",
+                "temperature": "99"
+            },
+            {
+                "date": "20071026",
+                "temperature": "99"
+            },
+            {
+                "date": "20071027",
+                "temperature": "103"
+            },
+            {
+                "date": "20071028",
+                "temperature": "121"
+            },
+            {
+                "date": "20071029",
+                "temperature": "103"
+            },
+            {
+                "date": "20071030",
+                "temperature": "125"
+            },
+            {
+                "date": "20071031",
+                "temperature": "143"
+            },
+            {
+                "date": "20071101",
+                "temperature": "142"
+            },
+            {
+                "date": "20071102",
+                "temperature": "149"
+            },
+            {
+                "date": "20071103",
+                "temperature": "141"
+            },
+            {
+                "date": "20071104",
+                "temperature": "124"
+            },
+            {
+                "date": "20071105",
+                "temperature": "130"
+            },
+            {
+                "date": "20071106",
+                "temperature": "111"
+            },
+            {
+                "date": "20071107",
+                "temperature": "127"
+            },
+            {
+                "date": "20071108",
+                "temperature": "130"
+            },
+            {
+                "date": "20071109",
+                "temperature": "85"
+            },
+            {
+                "date": "20071110",
+                "temperature": "114"
+            },
+            {
+                "date": "20071111",
+                "temperature": "117"
+            },
+            {
+                "date": "20071112",
+                "temperature": "107"
+            },
+            {
+                "date": "20071113",
+                "temperature": "61"
+            },
+            {
+                "date": "20071114",
+                "temperature": "65"
+            },
+            {
+                "date": "20071115",
+                "temperature": "60"
+            },
+            {
+                "date": "20071116",
+                "temperature": "77"
+            },
+            {
+                "date": "20071117",
+                "temperature": "91"
+            },
+            {
+                "date": "20071118",
+                "temperature": "67"
+            },
+            {
+                "date": "20071119",
+                "temperature": "57"
+            },
+            {
+                "date": "20071120",
+                "temperature": "105"
+            },
+            {
+                "date": "20071121",
+                "temperature": "112"
+            },
+            {
+                "date": "20071122",
+                "temperature": "127"
+            },
+            {
+                "date": "20071123",
+                "temperature": "83"
+            },
+            {
+                "date": "20071124",
+                "temperature": "82"
+            },
+            {
+                "date": "20071125",
+                "temperature": "89"
+            },
+            {
+                "date": "20071126",
+                "temperature": "83"
+            },
+            {
+                "date": "20071127",
+                "temperature": "86"
+            },
+            {
+                "date": "20071128",
+                "temperature": "70"
+            },
+            {
+                "date": "20071129",
+                "temperature": "80"
+            },
+            {
+                "date": "20071130",
+                "temperature": "98"
+            },
+            {
+                "date": "20071201",
+                "temperature": "108"
+            },
+            {
+                "date": "20071202",
+                "temperature": "114"
+            },
+            {
+                "date": "20071203",
+                "temperature": "91"
+            },
+            {
+                "date": "20071204",
+                "temperature": "113"
+            },
+            {
+                "date": "20071205",
+                "temperature": "128"
+            },
+            {
+                "date": "20071206",
+                "temperature": "131"
+            },
+            {
+                "date": "20071207",
+                "temperature": "138"
+            },
+            {
+                "date": "20071208",
+                "temperature": "87"
+            },
+            {
+                "date": "20071209",
+                "temperature": "94"
+            },
+            {
+                "date": "20071210",
+                "temperature": "88"
+            },
+            {
+                "date": "20071211",
+                "temperature": "80"
+            },
+            {
+                "date": "20071212",
+                "temperature": "53"
+            },
+            {
+                "date": "20071213",
+                "temperature": "39"
+            },
+            {
+                "date": "20071214",
+                "temperature": "43"
+            },
+            {
+                "date": "20071215",
+                "temperature": "41"
+            },
+            {
+                "date": "20071216",
+                "temperature": "23"
+            },
+            {
+                "date": "20071217",
+                "temperature": "11"
+            },
+            {
+                "date": "20071218",
+                "temperature": "5"
+            },
+            {
+                "date": "20071219",
+                "temperature": "1"
+            },
+            {
+                "date": "20071220",
+                "temperature": "-31"
+            },
+            {
+                "date": "20071221",
+                "temperature": "-37"
+            },
+            {
+                "date": "20071222",
+                "temperature": "0"
+            },
+            {
+                "date": "20071223",
+                "temperature": "74"
+            },
+            {
+                "date": "20071224",
+                "temperature": "38"
+            },
+            {
+                "date": "20071225",
+                "temperature": "52"
+            },
+            {
+                "date": "20071226",
+                "temperature": "59"
+            },
+            {
+                "date": "20071227",
+                "temperature": "81"
+            },
+            {
+                "date": "20071228",
+                "temperature": "83"
+            },
+            {
+                "date": "20071229",
+                "temperature": "87"
+            },
+            {
+                "date": "20071230",
+                "temperature": "93"
+            },
+            {
+                "date": "20071231",
+                "temperature": "69"
+            }
+        ]
+    }
+]
