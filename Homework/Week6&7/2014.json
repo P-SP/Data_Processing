@@ -1,0 +1,248 @@
+[
+    {
+        "Gender": "Total",
+        "Value": [
+            {
+                "Kind": "Totaal personen",
+                "Values": {
+                    "Min1yr": "7.2",
+                    "Min4yr": "2.3"
+                }
+            },
+            {
+                "Kind": "SEC: werknemer",
+                "Values": {
+                    "Min1yr": "2.1",
+                    "Min4yr": "0.4"
+                }
+            },
+            {
+                "Kind": "SEC: zelfstandige",
+                "Values": {
+                    "Min1yr": "8.7",
+                    "Min4yr": "1.6"
+                }
+            },
+            {
+                "Kind": "SEC: uitkerings- en pensioenontvanger",
+                "Values": {
+                    "Min1yr": "11.3",
+                    "Min4yr": "4.2"
+                }
+            },
+            {
+                "Kind": "SEC: uitkeringsontvanger",
+                "Values": {
+                    "Min1yr": "31.5",
+                    "Min4yr": "13.4"
+                }
+            },
+            {
+                "Kind": "SEC: ontvanger werkloosheidsuitkering",
+                "Values": {
+                    "Min1yr": "10.4",
+                    "Min4yr": "1"
+                }
+            },
+            {
+                "Kind": "SEC: ontvanger van sociale voorziening",
+                "Values": {
+                    "Min1yr": "58.2",
+                    "Min4yr": "28.7"
+                }
+            },
+            {
+                "Kind": "SEC: arbeidsongeschikte",
+                "Values": {
+                    "Min1yr": "12",
+                    "Min4yr": "4.5"
+                }
+            },
+            {
+                "Kind": "SEC: pensioenontvanger",
+                "Values": {
+                    "Min1yr": "2.9",
+                    "Min4yr": "0.7"
+                }
+            },
+            {
+                "Kind": "SEC: (school)kind of student",
+                "Values": {
+                    "Min1yr": "9.2",
+                    "Min4yr": "3.2"
+                }
+            },
+            {
+                "Kind": "SEC: overige (zonder inkomen)",
+                "Values": {
+                    "Min1yr": "11.5",
+                    "Min4yr": "3.5"
+                }
+            }
+        ]
+    },
+    {
+        "Gender": "Male",
+        "Value": [
+            {
+                "Kind": "Totaal personen",
+                "Values": {
+                    "Min1yr": "6.9",
+                    "Min4yr": "2.2"
+                }
+            },
+            {
+                "Kind": "SEC: werknemer",
+                "Values": {
+                    "Min1yr": "1.7",
+                    "Min4yr": "0.3"
+                }
+            },
+            {
+                "Kind": "SEC: zelfstandige",
+                "Values": {
+                    "Min1yr": "8.8",
+                    "Min4yr": "1.6"
+                }
+            },
+            {
+                "Kind": "SEC: uitkerings- en pensioenontvanger",
+                "Values": {
+                    "Min1yr": "11.3",
+                    "Min4yr": "4.2"
+                }
+            },
+            {
+                "Kind": "SEC: uitkeringsontvanger",
+                "Values": {
+                    "Min1yr": "31.5",
+                    "Min4yr": "13.4"
+                }
+            },
+            {
+                "Kind": "SEC: ontvanger werkloosheidsuitkering",
+                "Values": {
+                    "Min1yr": "10.2",
+                    "Min4yr": "0.9"
+                }
+            },
+            {
+                "Kind": "SEC: ontvanger van sociale voorziening",
+                "Values": {
+                    "Min1yr": "60.6",
+                    "Min4yr": "30.5"
+                }
+            },
+            {
+                "Kind": "SEC: arbeidsongeschikte",
+                "Values": {
+                    "Min1yr": "12",
+                    "Min4yr": "4.7"
+                }
+            },
+            {
+                "Kind": "SEC: pensioenontvanger",
+                "Values": {
+                    "Min1yr": "2.5",
+                    "Min4yr": "0.6"
+                }
+            },
+            {
+                "Kind": "SEC: (school)kind of student",
+                "Values": {
+                    "Min1yr": "9.2",
+                    "Min4yr": "3.2"
+                }
+            },
+            {
+                "Kind": "SEC: overige (zonder inkomen)",
+                "Values": {
+                    "Min1yr": "29.1",
+                    "Min4yr": "8.5"
+                }
+            }
+        ]
+    },
+    {
+        "Gender": "Female",
+        "Value": [
+            {
+                "Kind": "Totaal personen",
+                "Values": {
+                    "Min1yr": "7.4",
+                    "Min4yr": "2.4"
+                }
+            },
+            {
+                "Kind": "SEC: werknemer",
+                "Values": {
+                    "Min1yr": "2.6",
+                    "Min4yr": "0.5"
+                }
+            },
+            {
+                "Kind": "SEC: zelfstandige",
+                "Values": {
+                    "Min1yr": "8.7",
+                    "Min4yr": "1.7"
+                }
+            },
+            {
+                "Kind": "SEC: uitkerings- en pensioenontvanger",
+                "Values": {
+                    "Min1yr": "11.3",
+                    "Min4yr": "4.2"
+                }
+            },
+            {
+                "Kind": "SEC: uitkeringsontvanger",
+                "Values": {
+                    "Min1yr": "31.6",
+                    "Min4yr": "13.4"
+                }
+            },
+            {
+                "Kind": "SEC: ontvanger werkloosheidsuitkering",
+                "Values": {
+                    "Min1yr": "10.8",
+                    "Min4yr": "1"
+                }
+            },
+            {
+                "Kind": "SEC: ontvanger van sociale voorziening",
+                "Values": {
+                    "Min1yr": "56.3",
+                    "Min4yr": "27.3"
+                }
+            },
+            {
+                "Kind": "SEC: arbeidsongeschikte",
+                "Values": {
+                    "Min1yr": "12",
+                    "Min4yr": "4.3"
+                }
+            },
+            {
+                "Kind": "SEC: pensioenontvanger",
+                "Values": {
+                    "Min1yr": "3.2",
+                    "Min4yr": "0.8"
+                }
+            },
+            {
+                "Kind": "SEC: (school)kind of student",
+                "Values": {
+                    "Min1yr": "9.2",
+                    "Min4yr": "3.2"
+                }
+            },
+            {
+                "Kind": "SEC: overige (zonder inkomen)",
+                "Values": {
+                    "Min1yr": "9",
+                    "Min4yr": "2.8"
+                }
+            }
+        ]
+    }
+]
