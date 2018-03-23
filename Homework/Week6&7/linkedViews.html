@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <!--Puja Chandrikasingh
 Data Processing - Week 6 & 7
+
+This file contains the HMTL code for the linked views about long-term poverty.
 -->
 
 <html>
-	
     <head>
-
         <title>Data Processing - Week 6 & 7</title>
 		
 		<meta charset="utf-8">
@@ -18,45 +18,104 @@ Data Processing - Week 6 & 7
 		<script src='https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js'></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
   
+		<script src="helpers.js"></script>
+		<script src="functionsTree.js"></script>
+		<script src="functionsBarChart.js"></script>
 		<script src="linkedViews.js"></script>
 		
-		<!-- For bootstrap -->
+		<!-- bootstrap -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		
     </head>
     <body>
 		<div class="container">
-		
+			
+			<!-- for title and subtitle in a block -->
 			<div class="jumbotron">
-				<h1>Langdurige armoede </br><small>Uitgesplitst naar sociaaleconomische categorieën</small></h1>      
-				<p>Hier uitleg over lage inkomens (lage-inkomensgrens; wanneer heb je een laaginkomen). En categorieën</p>
+				<h1>Langdurige armoede </br>
+					<small>Uitgesplitst naar sociaaleconomische categorieën</small>
+				</h1>      
 			</div>
 			
+			<!-- three columns with information -->
+			<div class="row">
+				<div class="col-sm-4">
+					<h4>MEER LANGDURIGE ARMOEDE</h4>
+					<p class="intro">Begin dit jaar melde 
+					<a href="https://www.nu.nl/geldzaken/5090234/opnieuw-meer-huishoudens-in-langdurige-armoede.html">
+					NU.nl</a> dat er opnieuw meer huishoudens in langdurige 
+					armoede leven. De lage-inkomensgrens verschilt per jaar en 
+					is bovendien afhankelijk van een aantal kenmerken. Zo lag de 
+					grens in 2016 voor een alleenstaande op &#8364 1.030 en voor 
+					een alleenstaande ouder met één kind op </br> &#8364 1.370.  
+					Voor een stel met twee kinderen lag de grens op &#8364 
+					1.940.</p>
+				</div>
+				<div class="col-sm-4">
+					<h4>ZZP'ERS</h4>
+					<p class="intro">Van alle werkenden lopen zzp'ers het grootste 
+					risico op armoede lopen. Hieronder is per sociaaleconomische 
+					(SEC) categorie weergeven hoeveel procent van de mensen een 
+					inkomen hebben onder de lage-inkomensgrens. Dit percentage is 
+					duidelijk het grootst onder de groep mensen die sociale 
+					voorzieningen ontvangen (in 2014, 2015 en 2016).</p>
+				</div>
+				<div class="col-sm-4">
+					<h4>MANNEN VS VROUWEN</h4>
+					<p class="intro">Voor de meeste categorieën verschilt het 
+					percentage mannen met een laag inkomen niet veel van het 
+					percentage vrouwen. Dit is in het rechter plaatje te zien. 
+					Alleen voor de categorie overig	(zonder inkomen) is het 
+					percentage bij de mannen veel hoger dan	bij de vrouwen (in 
+					2014, 2015 en 2016).</p>
+				</div>
+			</div>
+			
+			<!-- divider -->
+			<hr>
+			
+			<!-- drop down menu for year selection -->
+			<label>Kies een jaartal:</label>
+			<select class="form-control" id="selectedYear">
+				<option value = "2014">2014</option>
+				<option value = "2015">2015</option>
+				<option value = "2016">2016</option>
+			</select>
+			
+			<!-- two columns with the graphics -->
 			<div class="row">
 				<div class="col-sm-8">
-					<div class="select">
-					<label>Kies een jaartal:</label>
-					<select class="form-control" id="selectedYear">
-						<option value = "2014">2014</option>
-						<option value = "2015">2015</option>
-						<option value = "2016">2016</option>
-					</select>
-				
-					<svg class="chart", width="800", height="400"></svg>
-					</div>
+					<svg class="chart", width="750", height="480"></svg>
 				</div>
+				
 				<div class="col-sm-4"> 
-					<p>Uitsplitsing tussen mannen en vrouwen.</p>
-					<svg class="tree", width="400", height="220"></svg>
+					<svg class="tree", width="400", height="250"></svg>
+					
+					<!-- information under the tree -->
+					<p class="treeInfoText">Van alle mensen die behoren tot de 
+					categorie <span id="treeInfo" class="cat">...</span> 
+					hebben <span id="treeInfo" class="total">...</span> van 
+					de 100 mensen langer dan <span id="treeInfo" class="years">
+					...</span> jaar een laag inkomen. </p>
+					
+					<p class="treeInfoText"> Van alle vrouwen die tot die categorie 
+					behoren, zijn dit er <span id="treeInfo" class="female">...
+					</span> op de 100. En van alle mannen zijn het er 
+					<span id="treeInfo" class="male">...</span> op de 100.</p>
+					
+					<p class="explanationTree">*Beweeg over de linker grafiek om 
+					nieuwe data te laden. </p>
 				</div>
 			</div>
-			
-			<p>Puja Chandrikasingh </br>
-			Bron: 
-			<a href="http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi">
-			CBS??</a></p>
 		</div>
+		
+		<!-- footer that fills the full width -->
+		<footer class="container-fluid text-center">
+			<p>Puja Chandrikasingh</br>
+			Bron: 
+			<a href="https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83843NED/table?dl=93C5">
+			CBS</a></p>
+		</footer>
     </body>
 </html>

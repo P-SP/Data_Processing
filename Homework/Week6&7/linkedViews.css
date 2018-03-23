@@ -1,34 +1,55 @@
-/* CSS file for linked views
+/* 
 ** Puja Chandrikasingh
+** Data Processing - Week 6 & 7
+**
+** This file contains the CSS code for the linked views about long-term poverty.
 */
 
-p {
+.intro {
+	font: 15px sans-serif;
+	text-align: left;
+}
+
+#selectedYear {
+	width: 100px;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+
+/* graphics */
+.title {
+	font: 14px sans-serif;
+	text-anchor: middle;
+	font-weight: bold;
+}
+
+.tip {
 	font: 10px sans-serif;
 }
 
+/* for the bar chart */
 .axis .domain {
   display: none;
 }
 
-/* for tree 
-.node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 3px;
+.yTitle {
+	font: 10px sans-serif;
+	fill: #000;
+	text-anchor: start;
 }
 
-.node text {
-  font: 12px sans-serif;
+.legend {
+	font: 10px sans-serif;
+	text-anchor: end;
 }
 
-.link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 2px;
-}
-*/
+/* for the tree */
 .node {
-  fill: steelblue;
+  fill: #6b486b;
   stroke: none;
 }
 
@@ -36,4 +57,24 @@ p {
   fill: none;
   stroke: #ccc;
   stroke-width: 1px;
+}
+
+.info {
+	font: 10px sans-serif;
+}
+
+/* for the info under the tree */
+#treeInfo {
+	font-style: italic;
+	font-weight: bold;
+	color: #6b486b;
+}
+
+.treeInfoText {
+	font: 13px sans-serif;
+}
+
+.explanationTree {
+	font: 10px sans-serif;
+	font-style: italic;
 }
