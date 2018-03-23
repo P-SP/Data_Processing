@@ -64,7 +64,7 @@ footer {
 }
 
 /* for the info under the tree */
-#treeInfo {
+.treeInfo {
 	font-style: italic;
 	font-weight: bold;
 	color: #6b486b;

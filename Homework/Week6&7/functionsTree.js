@@ -165,9 +165,9 @@ function updateTree(data, root) {
 ** This function updates the text under the tree.
 */
 function showText(kind, totalValue, years, maleValue, femaleValue) {
-	d3.select(".cat").html(kind);
-	d3.select(".total").html(d3.format(".0f")(totalValue));
-	d3.select(".years").html(years);
-	d3.select(".male").html(d3.format(".0f")(maleValue));
-	d3.select(".female").html(d3.format(".0f")(femaleValue));
+	d3.select("#cat").html(kind);
+	d3.select("#total").html(d3.format(".0f")(totalValue));
+	d3.select("#years").html(years);
+	d3.select("#male").html(d3.format(".0f")(maleValue));
+	d3.select("#female").html(d3.format(".0f")(femaleValue));
 }
