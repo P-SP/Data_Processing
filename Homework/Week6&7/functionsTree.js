@@ -33,32 +33,32 @@ function initTree() {
 	treeLayout(root);
 		
 	// draw links
-	treeG.select('.links')
-		.selectAll('line.link')
+	treeG.select(".links")
+		.selectAll("line.link")
 		.data(root.links())
 		.enter()
-		.append('line')
+		.append("line")
 			.attr("class", "link")
-			.attr('x1', function(d) {return d.source.x;})
-			.attr('y1', function(d) {return d.source.y;})
-			.attr('x2', function(d) {return d.target.x;})
-			.attr('y2', function(d) {return d.target.y;});
+			.attr("x1", function(d) {return d.source.x;})
+			.attr("y1", function(d) {return d.source.y;})
+			.attr("x2", function(d) {return d.target.x;})
+			.attr("y2", function(d) {return d.target.y;});
 
 	// draw nodes
-	var nodes = treeG.select('.nodes')
-		.selectAll('circle.node')
+	var nodes = treeG.select(".nodes")
+		.selectAll("circle.node")
 		.data(root.descendants())
 		.enter();
 
-	nodes.append('circle')
+	nodes.append("circle")
 		.attr("class", "node")
-		.attr('cx', function(d) {return d.x;})
-		.attr('cy', function(d) {return d.y;})
-		.attr('r', 4);
+		.attr("cx", function(d) {return d.x;})
+		.attr("cy", function(d) {return d.y;})
+		.attr("r", 4);
 
 	nodes.append("text")
 		.attr("class", "info")
-		.attr('dx', function(d, i) {
+		.attr("dx", function(d, i) {
 			
 			// text of the leaves have a different position
 			if (root.leaves().includes(d)) {
@@ -66,7 +66,7 @@ function initTree() {
 			}
 			return d.x - 5;
 		})
-		.attr('dy', function(d) {
+		.attr("dy", function(d) {
 			
 			// text of the leaves have a different position
 			if (root.leaves().includes(d)) {
@@ -108,9 +108,9 @@ function loadTreeData(kind, totalValue, yearKey, dataMale, dataFemale) {
 	var root = d3.hierarchy(treeData);
 	treeLayout(root);
 	
-	var nodes = treeG.selectAll('.nodes')
+	var nodes = treeG.selectAll(".nodes")
 	
-	nodes.selectAll('text.info')
+	nodes.selectAll("text.info")
 		.data(root.descendants());
 	
 	nodes.selectAll(".node")
